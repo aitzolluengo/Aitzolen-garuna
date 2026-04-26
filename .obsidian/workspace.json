@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c58d50ccde6fbe2",
+        "id": "d1cbeab801c99418",
         "type": "tabs",
         "children": [
           {
-            "id": "3aa1252061a2534e",
+            "id": "15eb83c66bff3542",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_RESOURCES/Cine/Por ver.md",
+                "file": "000_INBOX/00 TASKS/Tareas/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Por ver"
-            }
-          },
-          {
-            "id": "f24f8c261dee18a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_RESOURCES/Introducción a Obsidian/02 Plugins/08_Day Planner.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "08_Day Planner"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:jardin/refrigerador",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,19 +193,9 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "a7b257663f72fcb8",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -239,64 +204,72 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "tasknotes:Open mini calendar view": false,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro timer": false,
+      "tasknotes:Open pomodoro statistics": false,
+      "tasknotes:Create new task": false
     }
   },
-  "active": "f24f8c261dee18a9",
+  "active": "15eb83c66bff3542",
   "lastOpenFiles": [
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/08_Day Planner.md",
+    "000_INBOX/00 TASKS/Tareas/Escuchar Audios Erlantz.md",
+    "02_AREAS/Kirola/Rutina/Periodización carga.md",
+    "000_INBOX/00 TASKS/Tareas/Untitled.md",
+    "000_INBOX/Tareas sueltas.md",
+    "02_AREAS/Kirola/Rutina",
+    "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
+    "000_INBOX/00 TASKS/Views/relationships.base",
+    "000_INBOX/00 TASKS/Views/CALENDARIO.base",
+    "000_INBOX/00 TASKS/Views/LISTA DE TAREAS.base",
+    "000_INBOX/00 TASKS/Views/agenda-default.base",
+    "000_INBOX/00 TASKS/Tareas/Ver trainspotting 2.md",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views",
+    "TaskNotes",
+    "Untitled.md",
+    "000_INBOX/00 TASKS/Tareas/Ir a foto antonio.md",
+    "000_INBOX/00 TASKS/Views/mini-calendar-default.base",
     "03_RESOURCES/Cine/Por ver.md",
+    "000_INBOX/01 Dashboard/Dashboard Tareas.md",
+    "000_INBOX/01 Dashboard/Dashboard EXAMPLE.md",
+    "00_JARDIN DIGITAL/04❄️ Calma/Google Calendar + Obsidian.md",
+    "03_RESOURCES/Introducción a Obsidian/02 Plugins/08_Day Planner.md",
     "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
     "00_JARDIN DIGITAL/04❄️ Calma/Smart connections con Ollama.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Segundo cerebro.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Choose your life.md",
-    "000_INBOX/Templates/Jardin Digital/Refrigerador de ideas.md",
-    "000_INBOX/Templates/Jardin Digital/Brote.md",
-    "000_INBOX/Templates/Jardin Digital/Arbol.md",
+    "000_INBOX/02 Templates/Jardin Digital/Refrigerador de ideas.md",
+    "000_INBOX/02 Templates/Jardin Digital/Brote.md",
+    "000_INBOX/02 Templates/Jardin Digital/Arbol.md",
     "01_PROJECTS/Think and Do it/2026 04 26.md",
     "TFG/2026 04 25.md",
-    "000_INBOX/Templates/Jardin Digital/Semilla.md",
+    "000_INBOX/02 Templates/Jardin Digital/Semilla.md",
     "000_INBOX/Cómo usar este vault.md",
-    "000_INBOX/Templates/Jardin Digital",
-    "00_JARDIN DIGITAL/02🌿 Brotes",
-    "00_JARDIN DIGITAL/03🌳 Arboles",
-    "00_JARDIN DIGITAL/04❄️ Calma",
-    "00_JARDIN DIGITAL/01🌱 Semillas",
-    "00_JARDIN DIGITAL",
     "03_RESOURCES/Cine/00_Tareas_Cine.md",
     "01_PROJECTS/Think and Do it/Kanban JIRA.md",
     "03_RESOURCES/Cine/Películas/American History X.md",
-    "03_RESOURCES/Cine/Directores/Tony Kaye.md",
-    "000_INBOX/Dashboard/Dashboard Cine.md",
-    "03_RESOURCES/Cine/Películas/Trainspotting.md",
-    "000_INBOX/Templates/Areas/TFG/Diario.md",
-    "01_PROJECTS/Think and Do it/Dashboard.md",
-    "000_INBOX/Templates/Areas/TFG",
-    "000_INBOX/Dashboard/Dashboard Tareas.md",
-    "00_INBOX/Dashboard/Dashboard Tareas Urgentes.md",
-    "01_PROJECTS/Rowing Fantasy/Tareas Rowing Fantasy.md",
-    "01_PROJECTS/Rowing Fantasy",
-    "000_INBOX/Tareas sueltas.md",
-    "01_PROJECTS/Think and Do it/Tareas_TFG.md",
-    "000_INBOX/Templates/W",
-    "000_INBOX/_attachments/Pasted image 20260426162532.png",
+    "000_INBOX/99_attachments/Pasted image 20260426162532.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426162413.png",
-    "000_INBOX/_attachments/Pasted image 20260426162254.png",
-    "000_INBOX/_attachments/Pasted image 20260426162213.png",
-    "000_INBOX/_attachments",
+    "000_INBOX/99_attachments/Pasted image 20260426162254.png",
+    "000_INBOX/99_attachments/Pasted image 20260426162213.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426161908.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426161616.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140246.png",

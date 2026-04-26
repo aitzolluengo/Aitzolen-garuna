@@ -138,7 +138,7 @@ Puedes editarlo en modo texto si prefieres.
 
 ## Relacionado
 - [[Sistema PARA]]
-- [[000_INBOX/Templates/W/Revisión semanal]]
+- [[000_INBOX/02 Templates/W/Revisión semanal]]
 - [[Daily Notes y Periodic Notes]]
 - [[02_Dataview]]
 

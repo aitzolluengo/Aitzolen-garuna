@@ -180,6 +180,6 @@ Ejemplos:
 
 ## Relacionado
 - [[Dashboard]]
-- [[000_INBOX/Templates/W/Revisión semanal]]
+- [[000_INBOX/02 Templates/W/Revisión semanal]]
 - [[Kanban]]
 - [[Daily Notes y Periodic Notes]]

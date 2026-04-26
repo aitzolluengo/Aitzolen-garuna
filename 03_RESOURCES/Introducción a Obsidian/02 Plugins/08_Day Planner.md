@@ -91,4 +91,4 @@ Actualiza `_Templates/Daily Note.md` con esta sección:
 ## Relacionado
 - [[Daily Notes y Periodic Notes]]
 - [[Tasks]]
-- [[Revisión semanal]]
+- [[000_INBOX/02 Templates/W/Revisión semanal]]
