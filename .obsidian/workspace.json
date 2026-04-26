@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Por ver"
             }
+          },
+          {
+            "id": "24b9e1802376eb91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000_INBOX/Cómo usar este vault.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cómo usar este vault"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,42 +242,42 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3aa1252061a2534e",
+  "active": "e242e46f6d91ff83",
   "lastOpenFiles": [
+    "00_JARDIN DIGITAL",
+    "03_RESOURCES/Cine/Por ver.md",
+    "000_INBOX/Cómo usar este vault.md",
     "03_RESOURCES/Cine/00_Tareas_Cine.md",
     "01_PROJECTS/Think and Do it/Kanban JIRA.md",
     "03_RESOURCES/Cine/Películas/American History X.md",
     "03_RESOURCES/Cine/Directores/Tony Kaye.md",
-    "00_INBOX/Dashboard/Dashboard Cine.md",
+    "000_INBOX/Dashboard/Dashboard Cine.md",
     "03_RESOURCES/Cine/Películas/Trainspotting.md",
-    "00_INBOX/Templates/Areas/TFG/Diario.md",
+    "000_INBOX/Templates/Areas/TFG/Diario.md",
     "01_PROJECTS/Think and Do it/Dashboard.md",
-    "00_INBOX/Templates/Areas/TFG",
-    "00_INBOX/Dashboard/Dashboard Tareas.md",
+    "000_INBOX/Templates/Areas/TFG",
+    "000_INBOX/Dashboard/Dashboard Tareas.md",
     "00_INBOX/Dashboard/Dashboard Tareas Urgentes.md",
     "01_PROJECTS/Rowing Fantasy/Tareas Rowing Fantasy.md",
     "01_PROJECTS/Rowing Fantasy",
-    "00_INBOX/Tareas sueltas.md",
+    "000_INBOX/Tareas sueltas.md",
     "01_PROJECTS/Think and Do it/Tareas_TFG.md",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/07_Tasks.md",
     "00_INBOX/Ejemplo de Kanba.md",
     "02_AREAS/Música/00_TAREAS.md",
     "02_AREAS/Kirola/00_TAREAS.md",
-    "00_INBOX/Templates/Cine/Película.md",
-    "00_INBOX/Templates/W",
+    "000_INBOX/Templates/Cine/Película.md",
+    "000_INBOX/Templates/W",
     "03_RESOURCES/Cine/Actores/Edward Norton.md",
-    "00_INBOX/_attachments/Pasted image 20260426162532.png",
+    "000_INBOX/_attachments/Pasted image 20260426162532.png",
     "03_RESOURCES/Cine/Actores/Robert Carlyle.md",
     "03_RESOURCES/Cine/Actores/Jonny Lee Miller.md",
     "03_RESOURCES/Cine/Actores/Ewan McGregor.md",
     "03_RESOURCES/Cine/Actores/Edward Furlong.md",
-    "03_RESOURCES/Cine/Actores/Beverly D'Angelo.md",
-    "00_INBOX/Templates/Cine/Actor.md",
-    "03_RESOURCES/Cine/Por ver.md",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426162413.png",
-    "00_INBOX/_attachments/Pasted image 20260426162254.png",
-    "00_INBOX/_attachments/Pasted image 20260426162213.png",
-    "00_INBOX/_attachments",
+    "000_INBOX/_attachments/Pasted image 20260426162254.png",
+    "000_INBOX/_attachments/Pasted image 20260426162213.png",
+    "000_INBOX/_attachments",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426161908.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426161616.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140246.png",
@@ -260,7 +285,7 @@
     "03_RESOURCES/Cine/Películas/Untitled",
     "02_AREAS/Kirola/Rutina Aitzolo.pdf",
     "02_AREAS/Kirola",
-    "00_INBOX/Templates/Entrenamiento",
+    "000_INBOX/Templates/Entrenamiento",
     "03_RESOURCES/Introducción a Obsidian.zip",
     "Pasted image 20260425131259.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426140431.png",
