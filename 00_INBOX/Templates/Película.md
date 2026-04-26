@@ -1,14 +1,14 @@
 ---
 fecha_vista: <% tp.date.now("YYYY-MM-DD") %>
 titulo: <% tp.file.title %>
-director: "[[]]"
-año: 
-genero: 
+director:
+año:
+genero:
 reparto:
   - "[[]]"
   - "[[]]"
   - "[[]]"
-puntuacion: 
+puntuacion:
 tags:
   - tipo/pelicula
   - cine/<% tp.system.suggester(["vista", "por-ver"], ["vista", "por-ver"]) %>

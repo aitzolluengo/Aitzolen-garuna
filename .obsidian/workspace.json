@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_INBOX/Dashboard/Cine.md",
+                "file": "00_INBOX/Templates/Recurso.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cine"
+              "title": "Recurso"
             }
           },
           {
@@ -230,14 +230,14 @@
   },
   "active": "35420d898a613579",
   "lastOpenFiles": [
+    "00_INBOX/Templates/Película.md",
+    "00_INBOX/Dashboard/Cine.md",
     "03_RESOURCES/Cine/Películas/Trainspotting.md",
     "03_RESOURCES/Cine/Directores/Danny Boyle.md",
     "00_INBOX/Templates/Director.md",
     "03_RESOURCES/Cine/Directores",
     "00_INBOX/Templates/Actor.md",
-    "00_INBOX/Dashboard/Cine.md",
     "00_INBOX/Dashboard/Dashboard.md",
-    "00_INBOX/Templates/Película.md",
     "Pasted image 20260426125044.png",
     "03_RESOURCES/Cine/Peliculas/Trainspotting Copia.md",
     "00_INBOX/Templates/Nota generica.md",
