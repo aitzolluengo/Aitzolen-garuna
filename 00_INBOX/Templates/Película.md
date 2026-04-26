@@ -1,10 +1,13 @@
 ---
 fecha_vista: <% tp.date.now("YYYY-MM-DD") %>
 titulo: <% tp.file.title %>
-director:
+director: "[[]]"
 año:
 genero:
 reparto:
+  - "[[]]"
+  - "[[]]"
+  - "[[]]"
 puntuacion:
 tags:
   - tipo/pelicula
@@ -14,6 +17,15 @@ tags:
 
 ![Póster]()
 
+## Ficha
+| Campo | Dato |
+|-------|------|
+| Director | [[]] |
+| Año | |
+| País | |
+| Género | |
+| Duración | |
+| Reparto | [[]], [[]], [[]] |
 
 ## Cuándo y dónde
 

@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "00_INBOX/Templates/Película.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Película"
+            }
+          },
+          {
+            "id": "7a4d74da2a7c5871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "03_RESOURCES/Cine/Peliculas/Trainspotting.md",
                 "mode": "source",
                 "source": false,
@@ -31,7 +55,8 @@
               "title": "Trainspotting"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,12 +243,13 @@
       "movie-search:Create new movie note": false
     }
   },
-  "active": "35420d898a613579",
+  "active": "e242e46f6d91ff83",
   "lastOpenFiles": [
+    "00_INBOX/Templates/Película.md",
+    "03_RESOURCES/Cine/Peliculas/Trainspotting.md",
+    "03_RESOURCES/Cine/Peliculas/Trainspotting.md",
     "03_RESOURCES/Cine/_MOC - Cine.md",
     "00_INBOX/Danny Boyle.md",
-    "03_RESOURCES/Cine/Peliculas/Trainspotting.md",
-    "00_INBOX/Templates/Película.md",
     "00_INBOX/Ejemplo de Kanba.md",
     "00_INBOX/Dashboard/Cine.md",
     "00_INBOX/Templates/Actor.md",
@@ -249,7 +275,6 @@
     "03_RESOURCES/Cine/Plugin/Movie search.md",
     "03_RESOURCES/Cine/Plugin",
     "03_RESOURCES/Introducción a Obsidian/Conexion between Obsidian and Ollama.md",
-    "00_INBOX/00_INBOX.md",
     "Nuevo Documento de texto.txt",
     "Untitled.canvas",
     "Pasted image 20260425131259.png",
