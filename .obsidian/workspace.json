@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_INBOX/Cómo usar este vault.md",
+                "file": "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cómo usar este vault"
+              "title": "🌿 Jardin de Ideas"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:jardin/refrigerador",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,11 +242,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e242e46f6d91ff83",
+  "active": "24b9e1802376eb91",
   "lastOpenFiles": [
+    "000_INBOX/Templates/Jardin Digital/Refrigerador de ideas.md",
+    "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
+    "000_INBOX/Templates/Jardin Digital/Arbol.md",
+    "000_INBOX/Templates/Jardin Digital/Brote.md",
+    "000_INBOX/Templates/Jardin Digital/Semilla.md",
+    "000_INBOX/Cómo usar este vault.md",
+    "000_INBOX/Templates/Jardin Digital",
+    "00_JARDIN DIGITAL/02🌿 Brotes",
+    "00_JARDIN DIGITAL/03🌳 Arboles",
+    "00_JARDIN DIGITAL/04 ❄️ Refrigerador",
+    "00_JARDIN DIGITAL/01🌱 Semillas",
     "00_JARDIN DIGITAL",
     "03_RESOURCES/Cine/Por ver.md",
-    "000_INBOX/Cómo usar este vault.md",
     "03_RESOURCES/Cine/00_Tareas_Cine.md",
     "01_PROJECTS/Think and Do it/Kanban JIRA.md",
     "03_RESOURCES/Cine/Películas/American History X.md",
@@ -270,10 +280,6 @@
     "000_INBOX/Templates/W",
     "03_RESOURCES/Cine/Actores/Edward Norton.md",
     "000_INBOX/_attachments/Pasted image 20260426162532.png",
-    "03_RESOURCES/Cine/Actores/Robert Carlyle.md",
-    "03_RESOURCES/Cine/Actores/Jonny Lee Miller.md",
-    "03_RESOURCES/Cine/Actores/Ewan McGregor.md",
-    "03_RESOURCES/Cine/Actores/Edward Furlong.md",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426162413.png",
     "000_INBOX/_attachments/Pasted image 20260426162254.png",
     "000_INBOX/_attachments/Pasted image 20260426162213.png",
@@ -282,14 +288,8 @@
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426161616.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140246.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140232.png",
-    "03_RESOURCES/Cine/Películas/Untitled",
-    "02_AREAS/Kirola/Rutina Aitzolo.pdf",
-    "02_AREAS/Kirola",
-    "000_INBOX/Templates/Entrenamiento",
-    "03_RESOURCES/Introducción a Obsidian.zip",
     "Pasted image 20260425131259.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426140431.png",
-    "03_RESOURCES/Cine/Directores/_attachments",
     "Untitled.canvas"
   ]
 }
