@@ -1,19 +1,18 @@
 ---
-fecha_vista: <% tp.date.now("YYYY-MM-DD") %>
-titulo: <% tp.file.title %>
-director:
-año:
-genero:
-reparto:
+fecha_vista: 2026-04-26
+titulo: Trainspotting
+director: "[[Danny Boyle]]"
+año: "1996"
+genero: Drama
+reparto: "[[Ewan Mcgregor]]  [[Robert Carlyle]]"
 puntuacion:
 tags:
   - tipo/pelicula
 ---
 
-# <% tp.file.title %>
+# Trainspotting
 
 ![Póster]()
-
 
 ## Cuándo y dónde
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Revisión semanal.md",
+                "file": "03_RESOURCES/Cine/Peliculas/Trainspotting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Revisión semanal"
-            }
-          },
-          {
-            "id": "1e02acd8f8d2f8ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_RESOURCES/Introducción a Obsidian/01 Core/Tags.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tags"
+              "title": "Trainspotting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,17 +218,28 @@
       "movie-search:Create new movie note": false
     }
   },
-  "active": "e242e46f6d91ff83",
+  "active": "35420d898a613579",
   "lastOpenFiles": [
+    "03_RESOURCES/Cine/_MOC - Cine.md",
+    "00_INBOX/Danny Boyle.md",
+    "03_RESOURCES/Cine/Peliculas/Trainspotting.md",
+    "00_INBOX/Templates/Película.md",
+    "00_INBOX/Ejemplo de Kanba.md",
+    "00_INBOX/Dashboard/Cine.md",
+    "00_INBOX/Templates/Actor.md",
+    "00_INBOX/Dashboard",
+    "00_INBOX/Templates/Director.md",
+    "03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Revisión semanal.md",
+    "00_INBOX/().md",
+    "03_RESOURCES/Cine/Flujo de notas de cine.md",
+    "03_RESOURCES/Introducción a Obsidian/01 Core/Tags.md",
     "03_RESOURCES/Introducción a Obsidian.zip",
     "03_RESOURCES/Introducción a Obsidian/01 Core/Markdown completo.md",
-    "03_RESOURCES/Introducción a Obsidian/01 Core/Tags.md",
     "03_RESOURCES/Introducción a Obsidian/01 Core/Links y Backlinks.md",
     "03_RESOURCES/Introducción a Obsidian/01 Core/Graph View.md",
     "03_RESOURCES/Introducción a Obsidian/00 Introducción/Qué es obsidian.md",
     "03_RESOURCES/Introducción a Obsidian/00 Introducción/Instalación y configuración.md",
     "03_RESOURCES/Introducción a Obsidian/00 Introducción/Conceptos Clave.md",
-    "03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Revisión semanal.md",
     "03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Sistema PARA.md",
     "03_RESOURCES/Excalidraw/Flujo PARA.excalidraw.md",
     "03_RESOURCES/Excalidraw",
@@ -264,23 +250,13 @@
     "03_RESOURCES/Cine/Plugin",
     "03_RESOURCES/Introducción a Obsidian/Conexion between Obsidian and Ollama.md",
     "00_INBOX/00_INBOX.md",
-    "00_INBOX/## 2026-04-26 - MESSI}}.md",
-    "03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Captura Rapida.md",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/04_Kanban.md",
     "Nuevo Documento de texto.txt",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/02_Dataview.md",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/01_Templater.md",
-    "03_RESOURCES/Introducción a Obsidian/01 Core/Daily Notes.md",
     "Untitled.canvas",
-    "00_INBOX/Dashboard.md",
-    "00_INBOX/Templates/Película.md",
-    "00_INBOX/Templates/Nota generica.md",
     "Pasted image 20260425131259.png",
     "03_RESOURCES/Cine/Peliculas",
     "03_RESOURCES/Cine/Seguimiento",
     "03_RESOURCES/Cine",
     "copilot/copilot-custom-prompts",
-    "copilot",
-    "01_PROJECTS/Think and Do it"
+    "copilot"
   ]
 }
