@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_RESOURCES/Introducción a Obsidian/02 Plugins/03_Git.md",
+                "file": "03_RESOURCES/Cine/Plugin/Movie search.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03_Git"
+              "title": "Movie search"
             }
           }
         ]
@@ -198,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,17 +215,24 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "movie-search:Create new movie note": false
     }
   },
-  "active": "e242e46f6d91ff83",
+  "active": "35420d898a613579",
   "lastOpenFiles": [
-    "00_INBOX/Untitled.md",
+    "03_RESOURCES/Cine/Plugin/Movie search.md",
+    "03_RESOURCES/Cine/Plugin",
+    "03_RESOURCES/Introducción a Obsidian/Conexion between Obsidian and Ollama.md",
+    "00_INBOX/00_INBOX.md",
+    "00_INBOX/## 2026-04-26 - MESSI}}.md",
+    "03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Captura Rapida.md",
+    "03_RESOURCES/Introducción a Obsidian/02 Plugins/05_Calendar.md",
+    "03_RESOURCES/Introducción a Obsidian/02 Plugins/04_Kanban.md",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/03_Git.md",
     "Nuevo Documento de texto.txt",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/02_Dataview.md",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/01_Templater.md",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/05_Calendar.md",
     "03_RESOURCES/Introducción a Obsidian/01 Core/Tags.md",
     "03_RESOURCES/Introducción a Obsidian/01 Core/Markdown completo.md",
     "03_RESOURCES/Introducción a Obsidian/00 Introducción/Qué es obsidian.md",
@@ -245,17 +253,11 @@
     "03_RESOURCES/Cine/Peliculas/American History X.md",
     "03_RESOURCES/Cine/Peliculas",
     "03_RESOURCES/Cine/Seguimiento",
-    "00_INBOX/Templates/Proyecto.md",
-    "03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Flujo de notas de cine.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "03_RESOURCES/Cine/_MOC - Cine.md",
-    "03_RESOURCES/Cine/Como analizar una pelicula.md",
     "03_RESOURCES/Cine",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Excalidraw",
     "01_PROJECTS/Think and Do it",
-    "03_RESOURCES/Introducción a Obsidian.zip",
-    "00_INBOX/Templates.zip"
+    "03_RESOURCES/Introducción a Obsidian.zip"
   ]
 }

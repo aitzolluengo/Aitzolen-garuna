@@ -5,7 +5,7 @@
       "name": "Capture",
       "type": "Template",
       "command": false,
-      "templatePath": "00_INBOX/Untitled.md",
+      "templatePath": "00_INBOX/00_INBOX.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "## {{date}} - {{value}}}}"

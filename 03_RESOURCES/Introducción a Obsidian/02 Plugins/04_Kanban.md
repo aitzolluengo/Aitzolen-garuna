@@ -20,6 +20,8 @@ O click derecho en carpeta → New Kanban board.
 
 Se crea un archivo `.md` especial con sintaxis Kanban.
 
+En los tres puntos de arriba le das edit as markdown y pones lo siguiente
+
 ## Estructura básica
 ```markdown
 ---

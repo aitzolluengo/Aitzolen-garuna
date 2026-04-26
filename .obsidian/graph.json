@@ -29,10 +29,17 @@
       }
     },
     {
-      "query": "path:03_RESOURCES  ",
+      "query": "path:\"03_RESOURCES/Introducción a Obsidian\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701269
+        "rgb": 12210912
+      }
+    },
+    {
+      "query": "path:03_RESOURCES/Cine  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7203170788672216,
+  "scale": 0.7203170788672242,
   "close": true
 }
