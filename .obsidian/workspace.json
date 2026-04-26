@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "b60a2669ead4de97",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c58d50ccde6fbe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35420d898a613579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_RESOURCES/Introducción a Obsidian/02 Plugins/03_Git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "03_Git"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "209552a6681ebd03",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2157dc76ae3157a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e242e46f6d91ff83",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b969f665e7df30a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3665b9e1a299129a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "00c249bd4b2d1596",
+    "type": "split",
+    "children": [
+      {
+        "id": "e163305eadd2259d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a45e3ea4fea97c52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introducción a Obsidian/01 Core/Links y Backlinks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Links y Backlinks"
+            }
+          },
+          {
+            "id": "c302cacb91c6dcbe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4c20cbe7deee3667",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4fefa4d3d706d4b9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6f76fbac6e74ac13",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "40594b64776e0943",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "52bc4b49a876fc08",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "35420d898a613579",
+  "lastOpenFiles": [
+    "03_RESOURCES/Introducción a Obsidian/02 Plugins/02_Dataview.md",
+    "03_RESOURCES/Introducción a Obsidian/02 Plugins/01_Templater.md",
+    "03_RESOURCES/Introducción a Obsidian/02 Plugins/05_Calendar.md",
+    "03_RESOURCES/Introducción a Obsidian/01 Core/Tags.md",
+    "03_RESOURCES/Introducción a Obsidian/01 Core/Markdown completo.md",
+    "03_RESOURCES/Introducción a Obsidian/00 Introducción/Qué es obsidian.md",
+    "03_RESOURCES/Introducción a Obsidian/01 Core/Daily Notes.md",
+    "03_RESOURCES/Introducción a Obsidian/00 Introducción/Instalación y configuración.md",
+    "03_RESOURCES/Introducción a Obsidian/00 Introducción/Conceptos Clave.md",
+    "03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Revisión semanal.md",
+    "Untitled.canvas",
+    "00_INBOX/Dashboard.md",
+    "00_INBOX/Templates/Película.md",
+    "00_INBOX/Templates/Nota generica.md",
+    "00_INBOX/Templates/Nota aprendizaje.md",
+    "00_INBOX/Templates/MOC.md",
+    "00_INBOX/Templates/Fecha y hora.md",
+    "00_INBOX/Templates/Daily note.md",
+    "00_INBOX/Templates/Área.md",
+    "Pasted image 20260425131259.png",
+    "03_RESOURCES/Cine/Peliculas/American History X.md",
+    "03_RESOURCES/Cine/Peliculas",
+    "03_RESOURCES/Cine/Seguimiento",
+    "00_INBOX/Templates/Proyecto.md",
+    "03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Flujo de notas de cine.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "03_RESOURCES/Cine/_MOC - Cine.md",
+    "03_RESOURCES/Cine/Como analizar una pelicula.md",
+    "03_RESOURCES/Cine/Por ver.md",
+    "03_RESOURCES/Cine/TOP 500 Seguimiento.md",
+    "03_RESOURCES/Cine",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Excalidraw",
+    "01_PROJECTS/Think and Do it",
+    "03_RESOURCES/Introducción a Obsidian.zip",
+    "00_INBOX/Templates.zip",
+    "00_INBOX/Templates"
+  ]
+}
