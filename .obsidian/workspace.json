@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "24b9e1802376eb91",
+            "id": "f24f8c261dee18a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
+                "file": "03_RESOURCES/Introducción a Obsidian/02 Plugins/08_Day Planner.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🌿 Jardin de Ideas"
+              "title": "08_Day Planner"
             }
           }
         ],
@@ -218,13 +218,24 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "a7b257663f72fcb8",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,24 +250,32 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "24b9e1802376eb91",
+  "active": "f24f8c261dee18a9",
   "lastOpenFiles": [
-    "000_INBOX/Templates/Jardin Digital/Refrigerador de ideas.md",
+    "03_RESOURCES/Introducción a Obsidian/02 Plugins/08_Day Planner.md",
+    "03_RESOURCES/Cine/Por ver.md",
     "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
-    "000_INBOX/Templates/Jardin Digital/Arbol.md",
+    "00_JARDIN DIGITAL/04❄️ Calma/Smart connections con Ollama.md",
+    "00_JARDIN DIGITAL/02🌿 Brotes/Segundo cerebro.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Choose your life.md",
+    "000_INBOX/Templates/Jardin Digital/Refrigerador de ideas.md",
     "000_INBOX/Templates/Jardin Digital/Brote.md",
+    "000_INBOX/Templates/Jardin Digital/Arbol.md",
+    "01_PROJECTS/Think and Do it/2026 04 26.md",
+    "TFG/2026 04 25.md",
     "000_INBOX/Templates/Jardin Digital/Semilla.md",
     "000_INBOX/Cómo usar este vault.md",
     "000_INBOX/Templates/Jardin Digital",
     "00_JARDIN DIGITAL/02🌿 Brotes",
     "00_JARDIN DIGITAL/03🌳 Arboles",
-    "00_JARDIN DIGITAL/04 ❄️ Refrigerador",
+    "00_JARDIN DIGITAL/04❄️ Calma",
     "00_JARDIN DIGITAL/01🌱 Semillas",
     "00_JARDIN DIGITAL",
-    "03_RESOURCES/Cine/Por ver.md",
     "03_RESOURCES/Cine/00_Tareas_Cine.md",
     "01_PROJECTS/Think and Do it/Kanban JIRA.md",
     "03_RESOURCES/Cine/Películas/American History X.md",
@@ -272,13 +291,7 @@
     "01_PROJECTS/Rowing Fantasy",
     "000_INBOX/Tareas sueltas.md",
     "01_PROJECTS/Think and Do it/Tareas_TFG.md",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/07_Tasks.md",
-    "00_INBOX/Ejemplo de Kanba.md",
-    "02_AREAS/Música/00_TAREAS.md",
-    "02_AREAS/Kirola/00_TAREAS.md",
-    "000_INBOX/Templates/Cine/Película.md",
     "000_INBOX/Templates/W",
-    "03_RESOURCES/Cine/Actores/Edward Norton.md",
     "000_INBOX/_attachments/Pasted image 20260426162532.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426162413.png",
     "000_INBOX/_attachments/Pasted image 20260426162254.png",
