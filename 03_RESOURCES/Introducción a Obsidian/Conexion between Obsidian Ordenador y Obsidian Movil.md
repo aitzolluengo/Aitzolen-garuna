@@ -1,4 +1,6 @@
 
+Para este paso necesitarás mi ayuda probablemente jajajajajajaja
+
 ### Componentes
 
 1. Obsidian Windows : Ya tener configurado el git en windows explicado anteriormente. [[03_Git]]
