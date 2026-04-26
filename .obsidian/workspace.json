@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_RESOURCES/Cine/Plugin/Movie search.md",
+                "file": "03_RESOURCES/Introducción a Obsidian/02 Plugins/03_Git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Movie search"
+              "title": "03_Git"
             }
           }
         ]
@@ -198,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,6 +220,7 @@
   },
   "active": "35420d898a613579",
   "lastOpenFiles": [
+    "03_RESOURCES/Cine/Por ver.md",
     "03_RESOURCES/Cine/Plugin/Movie search.md",
     "03_RESOURCES/Cine/Plugin",
     "03_RESOURCES/Introducción a Obsidian/Conexion between Obsidian and Ollama.md",
@@ -250,7 +250,6 @@
     "00_INBOX/Templates/Daily note.md",
     "00_INBOX/Templates/Área.md",
     "Pasted image 20260425131259.png",
-    "03_RESOURCES/Cine/Peliculas/American History X.md",
     "03_RESOURCES/Cine/Peliculas",
     "03_RESOURCES/Cine/Seguimiento",
     "03_RESOURCES/Cine",
