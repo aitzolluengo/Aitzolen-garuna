@@ -1,7 +1,6 @@
-# Revisión semanal
 
-> El ritual que mantiene vivo el segundo cerebro.
-> Sin revisión semanal, el sistema colapsa en semanas.
+
+> Tratar de hacer una revisión semanal
 
 ## ¿Por qué es crítica?
 
@@ -26,8 +25,8 @@ La revisión es el momento donde:
 Abre `00_Inbox` y para cada nota pregúntate:
 
 - ¿Es accionable? SÍ → ¿Es un proyecto? → 01_Projects 
-- ¿Es referencia? → 03_Resources 
-- ¿Es área? → 02_Areas NO → ¿Tiene valor futuro? → 03_Resources NO → 04_Archive o borrar
+- ¿Es un hobbie? → 03_Resources 
+- ¿Es área? → 02_Areas NO → ¿Tiene valor futuro? → 03_Resources | NO → 04_Archive o borrar
 
 Objetivo: **Inbox = 0** al terminar.
 

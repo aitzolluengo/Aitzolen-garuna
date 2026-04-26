@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_RESOURCES/Introducción a Obsidian/02 Plugins/03_Git.md",
+                "file": "03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Revisión semanal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03_Git"
+              "title": "Revisión semanal"
+            }
+          },
+          {
+            "id": "1e02acd8f8d2f8ff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-26 11.37.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-26 11.37.56.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,8 +231,13 @@
       "movie-search:Create new movie note": false
     }
   },
-  "active": "35420d898a613579",
+  "active": "1e02acd8f8d2f8ff",
   "lastOpenFiles": [
+    "03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Revisión semanal.md",
+    "Excalidraw/Drawing 2026-04-26 11.37.56.excalidraw.md",
+    "Excalidraw",
+    "03_RESOURCES/Introducción a Obsidian/02 Plugins/03_Git.md",
+    "03_RESOURCES/Introducción a Obsidian/02 Plugins/05_Calendar.md",
     "03_RESOURCES/Cine/Por ver.md",
     "03_RESOURCES/Cine/Plugin/Movie search.md",
     "03_RESOURCES/Cine/Plugin",
@@ -227,9 +245,7 @@
     "00_INBOX/00_INBOX.md",
     "00_INBOX/## 2026-04-26 - MESSI}}.md",
     "03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Captura Rapida.md",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/05_Calendar.md",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/04_Kanban.md",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/03_Git.md",
     "Nuevo Documento de texto.txt",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/02_Dataview.md",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/01_Templater.md",
@@ -239,7 +255,6 @@
     "03_RESOURCES/Introducción a Obsidian/01 Core/Daily Notes.md",
     "03_RESOURCES/Introducción a Obsidian/00 Introducción/Instalación y configuración.md",
     "03_RESOURCES/Introducción a Obsidian/00 Introducción/Conceptos Clave.md",
-    "03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Revisión semanal.md",
     "Untitled.canvas",
     "00_INBOX/Dashboard.md",
     "00_INBOX/Templates/Película.md",
@@ -248,14 +263,12 @@
     "00_INBOX/Templates/MOC.md",
     "00_INBOX/Templates/Fecha y hora.md",
     "00_INBOX/Templates/Daily note.md",
-    "00_INBOX/Templates/Área.md",
     "Pasted image 20260425131259.png",
     "03_RESOURCES/Cine/Peliculas",
     "03_RESOURCES/Cine/Seguimiento",
     "03_RESOURCES/Cine",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Excalidraw",
     "01_PROJECTS/Think and Do it",
     "03_RESOURCES/Introducción a Obsidian.zip"
   ]
