@@ -10,7 +10,7 @@ tags:
 ```dataview
 TABLE año, puntuacion AS "⭐"
 FROM "03_RESOURCES/Cine/Películas"
-WHERE director = "[[<% tp.file.title %>]]"
+WHERE director = [[<% tp.file.title %>]]
 ```
 
 ## Relacionado

@@ -10,7 +10,7 @@ tags:
 ```dataview
 TABLE año, puntuacion AS "⭐"
 FROM "03_RESOURCES/Cine/Películas"
-WHERE contains(director, "Danny Boyle")
+WHERE director = [[Danny Boyle]]
 ```
 
 ## Relacionado
