@@ -53,7 +53,7 @@ De un vistazo ves de qué tipo es cada nodo.
 
 Cuando un nodo se vuelve muy grande (muchos links entrantes), es candidato a convertirse en un **MOC**: una nota índice que organiza y enlaza todas las notas de ese tema.
 
-Ejemplo: `MOC - Oracle OIC.md` enlaza todas tus notas de OIC.
+Ejemplo: `MOC - Cine.md` enlaza todas tus notas de Cine.
 
 ## Para qué usarlo realmente
 - **Revisión semanal** → detectar notas huérfanas que necesitan conexión

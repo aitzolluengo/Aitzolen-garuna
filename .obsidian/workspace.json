@@ -35,12 +35,24 @@
             "id": "1e02acd8f8d2f8ff",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-04-26 11.37.56.excalidraw.md"
+                "file": "03_RESOURCES/Introducción a Obsidian/01 Core/Tags.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-26 11.37.56.excalidraw"
+              "icon": "lucide-file",
+              "title": "Tags"
             }
           }
         ],
@@ -233,9 +245,17 @@
   },
   "active": "1e02acd8f8d2f8ff",
   "lastOpenFiles": [
+    "03_RESOURCES/Introducción a Obsidian/01 Core/Markdown completo.md",
+    "03_RESOURCES/Introducción a Obsidian/01 Core/Tags.md",
+    "03_RESOURCES/Introducción a Obsidian/01 Core/Links y Backlinks.md",
+    "03_RESOURCES/Introducción a Obsidian/01 Core/Graph View.md",
+    "03_RESOURCES/Introducción a Obsidian/00 Introducción/Qué es obsidian.md",
+    "03_RESOURCES/Introducción a Obsidian/00 Introducción/Instalación y configuración.md",
+    "03_RESOURCES/Introducción a Obsidian/00 Introducción/Conceptos Clave.md",
     "03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Revisión semanal.md",
-    "Excalidraw/Drawing 2026-04-26 11.37.56.excalidraw.md",
-    "Excalidraw",
+    "03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Sistema PARA.md",
+    "03_RESOURCES/Excalidraw/Flujo PARA.excalidraw.md",
+    "03_RESOURCES/Excalidraw",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/03_Git.md",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/05_Calendar.md",
     "03_RESOURCES/Cine/Por ver.md",
@@ -249,20 +269,12 @@
     "Nuevo Documento de texto.txt",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/02_Dataview.md",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/01_Templater.md",
-    "03_RESOURCES/Introducción a Obsidian/01 Core/Tags.md",
-    "03_RESOURCES/Introducción a Obsidian/01 Core/Markdown completo.md",
-    "03_RESOURCES/Introducción a Obsidian/00 Introducción/Qué es obsidian.md",
     "03_RESOURCES/Introducción a Obsidian/01 Core/Daily Notes.md",
-    "03_RESOURCES/Introducción a Obsidian/00 Introducción/Instalación y configuración.md",
-    "03_RESOURCES/Introducción a Obsidian/00 Introducción/Conceptos Clave.md",
     "Untitled.canvas",
     "00_INBOX/Dashboard.md",
     "00_INBOX/Templates/Película.md",
     "00_INBOX/Templates/Nota generica.md",
     "00_INBOX/Templates/Nota aprendizaje.md",
-    "00_INBOX/Templates/MOC.md",
-    "00_INBOX/Templates/Fecha y hora.md",
-    "00_INBOX/Templates/Daily note.md",
     "Pasted image 20260425131259.png",
     "03_RESOURCES/Cine/Peliculas",
     "03_RESOURCES/Cine/Seguimiento",

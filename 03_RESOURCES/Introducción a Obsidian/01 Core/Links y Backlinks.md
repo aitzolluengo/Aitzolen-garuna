@@ -78,12 +78,6 @@ Muy útil cuando capturas rápido sin parar a crear links.
 - Los links más valiosos son los **inesperados** — cuando conectas 
   ideas de áreas distintas
 
-## Ejemplo práctico
-En una nota sobre `Spring Boot` puedes escribir:
-
-Usamos [[Spring Boot]] en el proyecto de [[IESE Business School]] para procesar las facturas del [[SII]].
-
-Ahora las 3 notas están conectadas. El Graph View lo visualiza.
 
 ## Relacionado
 - [[Conceptos Clave]]

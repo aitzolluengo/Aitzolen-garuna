@@ -28,6 +28,8 @@ Abre `00_Inbox` y para cada nota pregúntate:
 - ¿Es un hobbie? → 03_Resources 
 - ¿Es área? → 02_Areas NO → ¿Tiene valor futuro? → 03_Resources | NO → 04_Archive o borrar
 
+![[Flujo PARA.excalidraw|600]]
+
 Objetivo: **Inbox = 0** al terminar.
 
 ### 2. Revisar proyectos activos (10 min)
