@@ -243,8 +243,9 @@
       "movie-search:Create new movie note": false
     }
   },
-  "active": "1e02acd8f8d2f8ff",
+  "active": "e242e46f6d91ff83",
   "lastOpenFiles": [
+    "03_RESOURCES/Introducción a Obsidian.zip",
     "03_RESOURCES/Introducción a Obsidian/01 Core/Markdown completo.md",
     "03_RESOURCES/Introducción a Obsidian/01 Core/Tags.md",
     "03_RESOURCES/Introducción a Obsidian/01 Core/Links y Backlinks.md",
@@ -274,14 +275,12 @@
     "00_INBOX/Dashboard.md",
     "00_INBOX/Templates/Película.md",
     "00_INBOX/Templates/Nota generica.md",
-    "00_INBOX/Templates/Nota aprendizaje.md",
     "Pasted image 20260425131259.png",
     "03_RESOURCES/Cine/Peliculas",
     "03_RESOURCES/Cine/Seguimiento",
     "03_RESOURCES/Cine",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "01_PROJECTS/Think and Do it",
-    "03_RESOURCES/Introducción a Obsidian.zip"
+    "01_PROJECTS/Think and Do it"
   ]
 }
