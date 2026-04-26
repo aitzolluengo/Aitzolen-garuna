@@ -11,24 +11,10 @@
             "id": "3aa1252061a2534e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_INBOX/Templates/Entrenamiento/Resumen semanal.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Resumen semanal"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -165,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_INBOX/Templates/Entrenamiento/Resumen semanal.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Resumen semanal"
+              "title": "Outline"
             }
           },
           {
@@ -218,54 +203,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e242e46f6d91ff83",
+  "active": "3aa1252061a2534e",
   "lastOpenFiles": [
+    "03_RESOURCES/Cine/Actores/Edward Norton.md",
+    "00_INBOX/_attachments/Pasted image 20260426162532.png",
+    "03_RESOURCES/Cine/Películas/American History X.md",
+    "03_RESOURCES/Cine/Actores/Robert Carlyle.md",
+    "03_RESOURCES/Cine/Actores/Jonny Lee Miller.md",
+    "03_RESOURCES/Cine/Actores/Ewan McGregor.md",
+    "03_RESOURCES/Cine/Actores/Edward Furlong.md",
+    "03_RESOURCES/Cine/Actores/Beverly D'Angelo.md",
+    "00_INBOX/Templates/Cine/Actor.md",
+    "03_RESOURCES/Cine/Películas/Trainspotting.md",
+    "03_RESOURCES/Cine/Por ver.md",
+    "03_RESOURCES/Cine/TOP 500 Seguimiento.md",
+    "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426162413.png",
+    "00_INBOX/_attachments/Pasted image 20260426162254.png",
+    "03_RESOURCES/Cine/Directores/Tony Kaye.md",
+    "00_INBOX/_attachments/Pasted image 20260426162213.png",
+    "00_INBOX/_attachments",
+    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426161908.png",
+    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426161616.png",
+    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140246.png",
+    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140232.png",
+    "03_RESOURCES/Cine/Películas/Untitled",
+    "00_INBOX/Captura rápida.md",
+    "02_AREAS/Música/Canciones/Choose your life.md",
     "02_AREAS/Kirola/Rutina Aitzolo.pdf",
+    "00_INBOX/Templates/Entrenamiento/Resumen semanal.md",
     "02_AREAS/Kirola",
     "00_INBOX/Templates/Entrenamiento/Entrenamiento Running.md",
-    "00_INBOX/Templates/Entrenamiento/Resumen semanal.md",
     "00_INBOX/Templates/Entrenamiento/Entrenamiento Fuerza.md",
     "00_INBOX/Templates/Entrenamiento",
     "03_RESOURCES/Introducción a Obsidian/Conexion between Obsidian Ordenador y Obsidian Movil.md",
     "03_RESOURCES/Introducción a Obsidian.zip",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/03_Git.md",
-    "03_RESOURCES/Cine/TOP 500 Seguimiento.md",
-    "03_RESOURCES/Cine/Actores/Jonny Lee Miller.md",
     "03_RESOURCES/Cine/Directores/Danny Boyle.md",
     "00_INBOX/Templates/Cine/Película.md",
-    "03_RESOURCES/Cine/Películas/Trainspotting.md",
-    "03_RESOURCES/Cine/Actores/Ewan McGregor.md",
     "Pasted image 20260425131259.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426140431.png",
-    "03_RESOURCES/Cine/Actores/Robert Carlyle.md",
-    "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426140336.png",
-    "03_RESOURCES/Cine/Directores/_attachments/Pasted image 20260426140302.png",
     "03_RESOURCES/Cine/Directores/_attachments",
-    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140246.png",
-    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140232.png",
     "03_RESOURCES/Cine/Películas/_attachments",
-    "Pasted image 20260426125044.png",
-    "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426140216.png",
-    "Pasted image 20260426132746.png",
-    "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426140159.png",
     "03_RESOURCES/Cine/Actores/_attachments",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/06_Style Settings.md",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/_attachments",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/Untitled",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/04_Kanban.md",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/05_Excalidraw.md",
     "03_RESOURCES/Introducción a Obsidian/00 Introducción/Instalación y configuración.md",
-    "03_RESOURCES/Diagramas/Flujo PARA.excalidraw.md",
-    "00_INBOX/Untitled Kanban.md",
-    "03_RESOURCES/Diagramas",
-    "02_AREAS/Música/Canciones/Choose your life.md",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/05_Excalidraw/º.md",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/05_Excalidraw",
-    "00_INBOX/Dashboard/Dashboard EXAMPLE.md",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/02_Dataview.md",
-    "03_RESOURCES/Cine/Por ver.md",
-    "03_RESOURCES/Cine/Flujo de notas de cine.md",
-    "03_RESOURCES/Cine/Como analizar una pelicula.md",
     "Untitled.canvas"
   ]
 }

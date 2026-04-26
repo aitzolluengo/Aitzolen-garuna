@@ -1,16 +1,17 @@
 ---
-nombre: <% tp.file.title %>
+nombre: Edward Norton
 tags:
   - tipo/actor
 ---
 
-# <% tp.file.title %>
+# Edward Norton
+![[Pasted image 20260426162532.png]]
 
 ## Películas vistas
 ```dataview
 TABLE año, director
 FROM "03_RESOURCES/Cine/Películas"
-WHERE contains(reparto, [[<% tp.file.title %>]])
+WHERE contains(reparto, [[Edward Norton]])
 ```
 
 ## Relacionado

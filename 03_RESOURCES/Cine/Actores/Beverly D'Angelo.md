@@ -1,16 +1,16 @@
 ---
-nombre: <% tp.file.title %>
+nombre: Beverly D'Angelo
 tags:
   - tipo/actor
 ---
 
-# <% tp.file.title %>
-
+# Beverly D'Angelo
+![[Pasted image 20260426162413.png]]
 ## Películas vistas
 ```dataview
 TABLE año, director
 FROM "03_RESOURCES/Cine/Películas"
-WHERE contains(reparto, [[<% tp.file.title %>]])
+WHERE contains(reparto, [[Beverly D'Angelo]])
 ```
 
 ## Relacionado
