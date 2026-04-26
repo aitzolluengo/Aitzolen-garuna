@@ -13,6 +13,7 @@ reminders:
     description: 15 minutes before
 tags:
   - task
+tasknotes_manual_order: "0|hzzzzr:"
 ---
 
 Ir a foto antonio preguntando si el sábado abre para hacer la foto para amama
