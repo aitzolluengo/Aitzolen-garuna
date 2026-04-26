@@ -38,8 +38,6 @@ No el argumento — el tema de fondo.
 
 ## ¿A quién se la recomendaría?
 
-## Conexiones
-- [[]]
 
 ## Puntuación
 ⭐

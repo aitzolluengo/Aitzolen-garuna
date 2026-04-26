@@ -11,24 +11,10 @@
             "id": "3aa1252061a2534e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_RESOURCES/Cine/Actores/Ewan McGregor.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ewan McGregor"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -198,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,16 +207,17 @@
   },
   "active": "3aa1252061a2534e",
   "lastOpenFiles": [
-    "Pasted image 20260425131259.png",
+    "03_RESOURCES/Cine/Actores/Jonny Lee Miller.md",
+    "03_RESOURCES/Cine/Directores/Danny Boyle.md",
+    "00_INBOX/Templates/Cine/Película.md",
+    "03_RESOURCES/Cine/Películas/Trainspotting.md",
     "03_RESOURCES/Cine/Actores/Ewan McGregor.md",
+    "Pasted image 20260425131259.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426140431.png",
     "03_RESOURCES/Cine/Actores/Robert Carlyle.md",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426140336.png",
-    "03_RESOURCES/Cine/Actores/Jonny Lee Miller.md",
-    "03_RESOURCES/Cine/Directores/Danny Boyle.md",
     "03_RESOURCES/Cine/Directores/_attachments/Pasted image 20260426140302.png",
     "03_RESOURCES/Cine/Directores/_attachments",
-    "03_RESOURCES/Cine/Películas/Trainspotting.md",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140246.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140232.png",
     "03_RESOURCES/Cine/Películas/_attachments",
@@ -238,7 +226,6 @@
     "Pasted image 20260426132746.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426140159.png",
     "03_RESOURCES/Cine/Actores/_attachments",
-    "Pasted image 20260426132836.png",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/06_Style Settings.md",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/_attachments",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/Untitled",
@@ -260,7 +247,6 @@
     "03_RESOURCES/Cine/Como analizar una pelicula.md",
     "03_RESOURCES/Cine/_MOC - Cine.md",
     "00_INBOX/Dashboard/Dashboard Cine.md",
-    "00_INBOX/Templates/Cine/Película.md",
     "00_INBOX/Templates/Cine/Director.md",
     "00_INBOX/Templates/Cine/Actor.md",
     "03_RESOURCES/Cine/Actores",
