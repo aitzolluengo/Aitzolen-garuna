@@ -53,9 +53,6 @@ La actitud del más drogadicto.
 
 Realmente a cualquiera, es una peli muy disfrutable, se me hizo corta y la actuación de Ewan Mcgregor estuvo realmente bien
 
-## Conexiones
-- [[]]
-
 ## Puntuación
 ⭐⭐⭐⭐
 
