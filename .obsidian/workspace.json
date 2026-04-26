@@ -61,9 +61,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_RESOURCES/Cine/Peliculas/Trainspotting.md",
+                "file": "00_INBOX/Templates/Película.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Trainspotting"
+              "title": "Película"
             }
           }
         ],
@@ -267,16 +267,19 @@
       "movie-search:Create new movie note": false
     }
   },
-  "active": "3aa1252061a2534e",
+  "active": "e242e46f6d91ff83",
   "lastOpenFiles": [
+    "00_INBOX/Dashboard/Cine.md",
+    "00_INBOX/Templates/Película.md",
+    "00_INBOX/Templates/Nota generica.md",
+    "03_RESOURCES/Cine/Peliculas/Trainspotting.md",
+    "00_INBOX/Dashboard/Dashboard.md",
+    "03_RESOURCES/Cine/Peliculas/_MOC - Cine.md",
+    "00_INBOX/Dashboard Cine.md",
     "00_INBOX/Danny Boyle.md",
     "Pasted image 20260426123212.png",
-    "03_RESOURCES/Cine/Peliculas/Trainspotting.md",
     "00_INBOX/s.md",
-    "00_INBOX/Templates/Película.md",
-    "03_RESOURCES/Cine/_MOC - Cine.md",
     "00_INBOX/Ejemplo de Kanba.md",
-    "00_INBOX/Dashboard/Cine.md",
     "00_INBOX/Templates/Actor.md",
     "00_INBOX/Dashboard",
     "00_INBOX/Templates/Director.md",
@@ -296,8 +299,6 @@
     "03_RESOURCES/Excalidraw",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/03_Git.md",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/05_Calendar.md",
-    "03_RESOURCES/Cine/Por ver.md",
-    "03_RESOURCES/Cine/Plugin/Movie search.md",
     "03_RESOURCES/Cine/Plugin",
     "Nuevo Documento de texto.txt",
     "Untitled.canvas",

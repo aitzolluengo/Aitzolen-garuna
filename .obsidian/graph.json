@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:03_RESOURCES/Cine  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:03_RESOURCES/Cine/Peliculas  ",
+      "color": {
+        "a": 1,
+        "rgb": 11788370
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.720317078867225,
+  "scale": 0.7203170788672258,
   "close": true
 }
