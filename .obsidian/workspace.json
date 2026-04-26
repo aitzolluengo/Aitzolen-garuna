@@ -198,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,13 +213,12 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "copilot:Open Copilot Chat": false,
-      "movie-search:Create new movie note": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3aa1252061a2534e",
+  "active": "40594b64776e0943",
   "lastOpenFiles": [
+    "03_RESOURCES/Introducción a Obsidian.zip",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/03_Git.md",
     "03_RESOURCES/Introducción a Obsidian/Conexion between Obsidian Ordenador y Obsidian Movil.md",
     "03_RESOURCES/Cine/TOP 500 Seguimiento.md",
@@ -262,7 +261,6 @@
     "03_RESOURCES/Cine/_MOC - Cine.md",
     "00_INBOX/Dashboard/Dashboard Cine.md",
     "00_INBOX/Templates/Cine/Director.md",
-    "00_INBOX/Templates/Cine/Actor.md",
     "03_RESOURCES/Cine/Actores",
     "00_INBOX/Templates/Areas/Música",
     "00_INBOX/Templates/Areas",
