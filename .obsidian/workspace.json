@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35420d898a613579",
+            "id": "3aa1252061a2534e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_INBOX/Templates/Recurso.md",
+                "file": "02_AREAS/Música/Canciones/Choose your life.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,17 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Recurso"
-            }
-          },
-          {
-            "id": "3aa1252061a2534e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Choose your life"
             }
           }
         ]
@@ -228,15 +218,24 @@
       "movie-search:Create new movie note": false
     }
   },
-  "active": "35420d898a613579",
+  "active": "3aa1252061a2534e",
   "lastOpenFiles": [
-    "00_INBOX/Templates/Película.md",
+    "00_INBOX/Templates/Areas/Música/Canción.md",
+    "00_INBOX/Templates/Areas/Música",
+    "02_AREAS/Música/Canciones/Choose your life.md",
+    "00_INBOX/Templates/Areas",
+    "00_INBOX/Templates/Cine",
+    "00_INBOX/s.md",
+    "02_AREAS/Música/Canciones",
+    "02_AREAS/Música",
+    "00_INBOX/Templates/Recurso.md",
+    "00_INBOX/Templates/Cine/Película.md",
     "00_INBOX/Dashboard/Cine.md",
     "03_RESOURCES/Cine/Películas/Trainspotting.md",
     "03_RESOURCES/Cine/Directores/Danny Boyle.md",
-    "00_INBOX/Templates/Director.md",
+    "00_INBOX/Templates/Cine/Director.md",
     "03_RESOURCES/Cine/Directores",
-    "00_INBOX/Templates/Actor.md",
+    "00_INBOX/Templates/Cine/Actor.md",
     "00_INBOX/Dashboard/Dashboard.md",
     "Pasted image 20260426125044.png",
     "03_RESOURCES/Cine/Peliculas/Trainspotting Copia.md",
@@ -244,7 +243,6 @@
     "03_RESOURCES/Cine/_MOC - Cine.md",
     "00_INBOX/Dashboard Cine.md",
     "Pasted image 20260426123212.png",
-    "00_INBOX/s.md",
     "00_INBOX/Ejemplo de Kanba.md",
     "00_INBOX/Dashboard",
     "03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Revisión semanal.md",
@@ -257,16 +255,9 @@
     "03_RESOURCES/Introducción a Obsidian/01 Core/Graph View.md",
     "03_RESOURCES/Introducción a Obsidian/00 Introducción/Qué es obsidian.md",
     "03_RESOURCES/Introducción a Obsidian/00 Introducción/Instalación y configuración.md",
-    "03_RESOURCES/Introducción a Obsidian/00 Introducción/Conceptos Clave.md",
-    "03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Sistema PARA.md",
     "03_RESOURCES/Excalidraw",
     "03_RESOURCES/Cine/Plugin",
-    "Nuevo Documento de texto.txt",
     "Untitled.canvas",
-    "Pasted image 20260425131259.png",
-    "03_RESOURCES/Cine/Películas",
-    "03_RESOURCES/Cine/Seguimiento",
-    "03_RESOURCES/Cine",
-    "copilot/copilot-custom-prompts"
+    "Pasted image 20260425131259.png"
   ]
 }
