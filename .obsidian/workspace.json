@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Trainspotting"
             }
+          },
+          {
+            "id": "3aa1252061a2534e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_RESOURCES/Cine/Peliculas/Trainspotting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Trainspotting"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,13 +267,14 @@
       "movie-search:Create new movie note": false
     }
   },
-  "active": "e242e46f6d91ff83",
+  "active": "3aa1252061a2534e",
   "lastOpenFiles": [
-    "00_INBOX/Templates/Película.md",
-    "03_RESOURCES/Cine/Peliculas/Trainspotting.md",
-    "03_RESOURCES/Cine/Peliculas/Trainspotting.md",
-    "03_RESOURCES/Cine/_MOC - Cine.md",
     "00_INBOX/Danny Boyle.md",
+    "Pasted image 20260426123212.png",
+    "03_RESOURCES/Cine/Peliculas/Trainspotting.md",
+    "00_INBOX/s.md",
+    "00_INBOX/Templates/Película.md",
+    "03_RESOURCES/Cine/_MOC - Cine.md",
     "00_INBOX/Ejemplo de Kanba.md",
     "00_INBOX/Dashboard/Cine.md",
     "00_INBOX/Templates/Actor.md",
@@ -274,7 +299,6 @@
     "03_RESOURCES/Cine/Por ver.md",
     "03_RESOURCES/Cine/Plugin/Movie search.md",
     "03_RESOURCES/Cine/Plugin",
-    "03_RESOURCES/Introducción a Obsidian/Conexion between Obsidian and Ollama.md",
     "Nuevo Documento de texto.txt",
     "Untitled.canvas",
     "Pasted image 20260425131259.png",
