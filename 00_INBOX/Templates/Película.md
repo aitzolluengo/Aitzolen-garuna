@@ -1,22 +1,19 @@
 ---
-fecha_vista: 2026-04-26
-titulo: Trainspotting
-director: "[[Danny Boyle]]"
-año: 1996
-genero: Drama
+fecha_vista: <% tp.date.now("YYYY-MM-DD") %>
+titulo: <% tp.file.title %>
+director: "[[]]"
+año: 
+genero: 
 reparto:
-  - "[[Ewan McGregor]]"
-  - "[[Jonny Lee Miller]]"
-  - "[[Robert Carlyle]]"
-puntuacion: 8
+  - "[[]]"
+  - "[[]]"
+  - "[[]]"
+puntuacion: 
 tags:
   - tipo/pelicula
-  - cine/vista
+  - cine/<% tp.system.suggester(["vista", "por-ver"], ["vista", "por-ver"]) %>
 ---
-
-# <% tp.file.title %>
-
-![Póster]()
+## Póster
 
 ## Ficha
 | Campo | Dato |
