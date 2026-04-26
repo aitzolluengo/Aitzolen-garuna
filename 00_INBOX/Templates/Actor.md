@@ -1,5 +1,4 @@
 ---
-fecha: <% tp.date.now("YYYY-MM-DD") %>
 nombre: <% tp.file.title %>
 tags:
   - tipo/actor
@@ -7,12 +6,12 @@ tags:
 
 # <% tp.file.title %>
 
-![Foto]()
-
-## Películas vistas con este actor
-| Película | Año | Personaje |
-|----------|-----|-----------|
-| [[]] | | |
+## Películas vistas
+```dataview
+TABLE año, director
+FROM "03_RESOURCES/Cine/Películas"
+WHERE contains(reparto, "[[<% tp.file.title %>]]")
+```
 
 ## Relacionado
 - [[Dashboard Cine]]

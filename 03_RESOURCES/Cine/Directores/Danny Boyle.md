@@ -1,16 +1,16 @@
 ---
-nombre: <% tp.file.title %>
+nombre: Danny Boyle
 tags:
   - tipo/director
 ---
 
-# <% tp.file.title %>
+# Danny Boyle
 
 ## Películas vistas
 ```dataview
 TABLE año, puntuacion AS "⭐"
 FROM "03_RESOURCES/Cine/Películas"
-WHERE director = "[[<% tp.file.title %>]]"
+WHERE contains(director, "Danny Boyle")
 ```
 
 ## Relacionado

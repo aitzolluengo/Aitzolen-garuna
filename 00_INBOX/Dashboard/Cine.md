@@ -1,6 +1,6 @@
 # 🎬 Dashboard Cine
 
-## 🖼️ Últimas vistas
+## 🎬 Últimas vistas
 ```dataview
 TABLE director AS director, año, puntuacion AS "⭐"
 FROM "03_RESOURCES/Cine/Películas"
@@ -12,7 +12,7 @@ LIMIT 5
 ## 📋 Por ver
 ```dataview
 TABLE director, año
-FROM "03_Resources/Cine/Películas"
+FROM "03_RESOURCES/Cine/Películas"
 WHERE contains(tags, "cine/por-ver")
 SORT file.name ASC
 ```
@@ -28,9 +28,6 @@ SORT length(rows) DESC
 
 ## 👤 Actores
 ```dataview
-TABLE length(rows) AS "Películas vistas"
-FROM "03_RESOURCES/Cine/Películas"
-WHERE contains(tags, "cine/vista")
-GROUP BY 
-SORT length(rows) DESC
+LIST FROM "03_RESOURCES/Cine/Actores"
+SORT file.name ASC
 ```

@@ -1,7 +1,7 @@
 ---
 fecha_vista: 2026-04-26
 titulo: Trainspotting
-director: "[[Danny Boyle]]"
+director: "Danny Boyle"
 año: 1996
 genero: Drama
 reparto:
