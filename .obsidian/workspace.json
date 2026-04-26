@@ -19,8 +19,22 @@
               "icon": "tasknotes-simple",
               "title": "TAREAS KANBAN"
             }
+          },
+          {
+            "id": "b809b3f6f29ee2c7",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "000_INBOX/00 TASKS/Views/CALENDARIO.base",
+                "viewName": "Calendar"
+              },
+              "icon": "tasknotes-simple",
+              "title": "CALENDARIO"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,25 +228,26 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "40594b64776e0943",
+  "active": "b809b3f6f29ee2c7",
   "lastOpenFiles": [
+    "000_INBOX/00 TASKS/Tareas/LISTENING 24TH APRIL.md",
+    "000_INBOX/00 TASKS/Views/LISTA DE TAREAS.base",
+    "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
+    "000_INBOX/00 TASKS/Views/relationships.base",
+    "El Golpe.md",
+    "000_INBOX/00 TASKS/Tareas/Acabar de escribir El Golpe.md",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/kanban-default.base",
     "TaskNotes/Views/mini-calendar-default.base",
-    "000_INBOX/00 TASKS/Views/relationships.base",
-    "000_INBOX/00 TASKS/Views/LISTA DE TAREAS.base",
     "000_INBOX/00 TASKS/Views/agenda-default.base",
     "000_INBOX/00 TASKS/Views/CALENDARIO.base",
     "02_AREAS/Kirola/Rutina/Periodización carga.md",
     "000_INBOX/00 TASKS/Tareas/Untitled.md",
     "000_INBOX/00 TASKS/Tareas/Escuchar Audios Erlantz.md",
     "000_INBOX/Tareas sueltas.md",
-    "02_AREAS/Kirola/Rutina",
-    "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
     "000_INBOX/00 TASKS/Tareas/Ver trainspotting 2.md",
-    "Untitled.md",
     "000_INBOX/00 TASKS/Tareas/Ir a foto antonio.md",
     "03_RESOURCES/Cine/Por ver.md",
     "000_INBOX/01 Dashboard/Dashboard Tareas.md",
@@ -251,7 +266,6 @@
     "000_INBOX/02 Templates/Jardin Digital/Semilla.md",
     "000_INBOX/Cómo usar este vault.md",
     "03_RESOURCES/Cine/00_Tareas_Cine.md",
-    "01_PROJECTS/Think and Do it/Kanban JIRA.md",
     "000_INBOX/99_attachments/Pasted image 20260426162532.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426162413.png",
     "000_INBOX/99_attachments/Pasted image 20260426162254.png",

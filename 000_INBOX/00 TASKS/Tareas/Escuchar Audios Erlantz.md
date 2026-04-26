@@ -2,9 +2,9 @@
 title: Escuchar Audios Erlantz
 status: in-progress
 priority: normal
-scheduled: 2026-04-26
+scheduled: 2026-04-27
 dateCreated: 2026-04-26T21:04:14.127+02:00
-dateModified: 2026-04-26T21:04:14.127+02:00
+dateModified: 2026-04-26T23:34:13.714+02:00
 tags:
   - task
 tasknotes_manual_order: "0|hzzzzv:"
