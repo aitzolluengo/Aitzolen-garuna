@@ -39,12 +39,15 @@ git --version
 ## Inicializar Git en tu vault
 Abre terminal en la carpeta de tu vault:
 
+Tienes que ir a la carpeta. 
+Poniendo `ls` en la terminal te muestra que carpetas estas. Puedes hacer ``cd nombre de la carpeta`` y ahí pondrías los siguientes comandos: 
+
 ```bash
 git init
 git remote add origin https://github.com/tuusuario/SecondBrain.git
 git add .
 git commit -m "Initial commit"
-git push -u origin main
+git push -u origin master
 ```
 
 ## Instalación del plugin
@@ -56,6 +59,7 @@ Install → Enable
 
 Settings → Obsidian Git
 
+klkljkl
 - Vault backup interval: 10 ← backup cada 10 minutos
 - Auto pull interval: 10 ← sync desde GitHub cada 10 min
 - Commit message: vault backup {{date}}

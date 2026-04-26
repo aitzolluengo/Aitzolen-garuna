@@ -194,12 +194,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,8 +217,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "35420d898a613579",
+  "active": "e242e46f6d91ff83",
   "lastOpenFiles": [
+    "00_INBOX/Untitled.md",
+    "03_RESOURCES/Introducción a Obsidian/02 Plugins/03_Git.md",
+    "Nuevo Documento de texto.txt",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/02_Dataview.md",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/01_Templater.md",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/05_Calendar.md",
@@ -248,15 +250,12 @@
     "copilot/copilot-custom-prompts/Make shorter.md",
     "03_RESOURCES/Cine/_MOC - Cine.md",
     "03_RESOURCES/Cine/Como analizar una pelicula.md",
-    "03_RESOURCES/Cine/Por ver.md",
-    "03_RESOURCES/Cine/TOP 500 Seguimiento.md",
     "03_RESOURCES/Cine",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Excalidraw",
     "01_PROJECTS/Think and Do it",
     "03_RESOURCES/Introducción a Obsidian.zip",
-    "00_INBOX/Templates.zip",
-    "00_INBOX/Templates"
+    "00_INBOX/Templates.zip"
   ]
 }
