@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "5b73c15b2683ca48",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aa5b0b51875fe66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb00962794240b35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_RESOURCES/Cine/TOP 500 Seguimiento.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TOP 500 Seguimiento"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55023dc020191720",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3480c1777b8b17a3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de archivos"
+        }
+      },
+      {
+        "id": "d8d273fb7fac5e72",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Buscar"
+        }
+      },
+      {
+        "id": "5081e6d20aed4a79",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "741ba12956bfbd31",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Todas las propiedades"
+        }
+      },
+      {
+        "id": "5f9cb6edc36523a6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "081ad315ea70b6cb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4b566a46e91b30d7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Enlaces entrantes"
+        }
+      },
+      {
+        "id": "05d89ef2f380d70b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Enlaces salientes"
+        }
+      },
+      {
+        "id": "e5d566cff165134f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Esquema"
+        }
+      },
+      {
+        "id": "06239c17dc41b36b",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fb00962794240b35",
+  "lastOpenFiles": [
+    "03_RESOURCES/Introducción a Obsidian/01 Core/Graph View.md",
+    "03_RESOURCES/Cine/Como analizar una pelicula.md",
+    "03_RESOURCES/Introducción a Obsidian/02 Plugins/_attachments/Pasted image 20260426140118.png",
+    "03_RESOURCES/Introducción a Obsidian/02 Plugins/_attachments",
+    "03_RESOURCES/Introducción a Obsidian/02 Plugins/06_Style Settings.md",
+    "03_RESOURCES/Introducción a Obsidian/02 Plugins/05_Excalidraw.md",
+    "03_RESOURCES/Diagramas/Flujo PARA.excalidraw.md",
+    "03_RESOURCES/Diagramas",
+    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140246.png",
+    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140232.png",
+    "03_RESOURCES/Cine/Películas/Trainspotting.md",
+    "03_RESOURCES/Cine/Películas/_attachments",
+    "03_RESOURCES/Cine/Películas",
+    "03_RESOURCES/Cine/Directores/_attachments/Pasted image 20260426140302.png",
+    "03_RESOURCES/Cine/Directores/Danny Boyle.md",
+    "03_RESOURCES/Cine/Directores/_attachments",
+    "03_RESOURCES/Cine/Directores",
+    "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426140431.png",
+    "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426140336.png",
+    "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426140216.png",
+    "03_RESOURCES/Cine/Actores/Robert Carlyle.md",
+    "03_RESOURCES/Cine/Actores/Jonny Lee Miller.md",
+    "03_RESOURCES/Cine/Actores/Ewan McGregor.md",
+    "03_RESOURCES/Cine/Actores/_attachments",
+    "03_RESOURCES/Cine/Actores",
+    "02_AREAS/Música/Canciones/Choose your life.md",
+    "02_AREAS/Música/Canciones",
+    "02_AREAS/Música",
+    "00_INBOX/Templates/Cine/Película.md",
+    "00_INBOX/Templates/Cine/Director.md",
+    "00_INBOX/Templates/Cine/Actor.md",
+    "00_INBOX/Templates/Areas/Música/Canción.md",
+    "00_INBOX/Ejemplo de Kanba.md",
+    "00_INBOX/Dashboard/Dashboard EXAMPLE.md",
+    "00_INBOX/Dashboard/Dashboard Cine.md"
+  ]
+}

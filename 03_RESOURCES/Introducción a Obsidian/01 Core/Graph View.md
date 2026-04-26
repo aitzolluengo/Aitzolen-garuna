@@ -62,7 +62,7 @@ Ejemplo: `MOC - Cine.md` enlaza todas tus notas de Cine.
 
 ## Lo que NO es
 No es para organizar. No es para navegar el día a día.
-Es una **herramienta de reflexión**, no de trabajo.
+Es una **herramienta de reflexión**, no de trabajo. 
 
 ## Relacionado
 - [[Links y Backlinks]]
