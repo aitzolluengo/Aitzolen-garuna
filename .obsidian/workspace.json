@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_RESOURCES/Introducción a Obsidian/Conexion between Obsidian Ordenador y Obsidian Movil.md",
+                "file": "00_INBOX/Templates/Entrenamiento/Resumen semanal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Conexion between Obsidian Ordenador y Obsidian Movil"
+              "title": "Resumen semanal"
             }
           }
         ]
@@ -165,12 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00_INBOX/Templates/Entrenamiento/Resumen semanal.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Resumen semanal"
             }
           },
           {
@@ -198,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,11 +218,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "40594b64776e0943",
+  "active": "e242e46f6d91ff83",
   "lastOpenFiles": [
+    "02_AREAS/Kirola/Rutina Aitzolo.pdf",
+    "02_AREAS/Kirola",
+    "00_INBOX/Templates/Entrenamiento/Entrenamiento Running.md",
+    "00_INBOX/Templates/Entrenamiento/Resumen semanal.md",
+    "00_INBOX/Templates/Entrenamiento/Entrenamiento Fuerza.md",
+    "00_INBOX/Templates/Entrenamiento",
+    "03_RESOURCES/Introducción a Obsidian/Conexion between Obsidian Ordenador y Obsidian Movil.md",
     "03_RESOURCES/Introducción a Obsidian.zip",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/03_Git.md",
-    "03_RESOURCES/Introducción a Obsidian/Conexion between Obsidian Ordenador y Obsidian Movil.md",
     "03_RESOURCES/Cine/TOP 500 Seguimiento.md",
     "03_RESOURCES/Cine/Actores/Jonny Lee Miller.md",
     "03_RESOURCES/Cine/Directores/Danny Boyle.md",
@@ -258,12 +266,6 @@
     "03_RESOURCES/Cine/Por ver.md",
     "03_RESOURCES/Cine/Flujo de notas de cine.md",
     "03_RESOURCES/Cine/Como analizar una pelicula.md",
-    "03_RESOURCES/Cine/_MOC - Cine.md",
-    "00_INBOX/Dashboard/Dashboard Cine.md",
-    "00_INBOX/Templates/Cine/Director.md",
-    "03_RESOURCES/Cine/Actores",
-    "00_INBOX/Templates/Areas/Música",
-    "00_INBOX/Templates/Areas",
     "Untitled.canvas"
   ]
 }
