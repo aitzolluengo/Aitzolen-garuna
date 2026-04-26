@@ -11,10 +11,18 @@
             "id": "3aa1252061a2534e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "kanban",
+              "state": {
+                "file": "01_PROJECTS/Think and Do it/Kanban JIRA.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    null
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban JIRA"
             }
           }
         ]
@@ -151,12 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_PROJECTS/Think and Do it/Kanban JIRA.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Kanban JIRA"
             }
           },
           {
@@ -205,6 +214,23 @@
   },
   "active": "3aa1252061a2534e",
   "lastOpenFiles": [
+    "00_INBOX/Templates/Areas/TFG/Diario.md",
+    "01_PROJECTS/Think and Do it/Dashboard.md",
+    "00_INBOX/Templates/Areas/TFG",
+    "01_PROJECTS/Think and Do it/Kanban JIRA.md",
+    "00_INBOX/Dashboard/Dashboard Tareas.md",
+    "00_INBOX/Dashboard/Dashboard Tareas Urgentes.md",
+    "01_PROJECTS/Rowing Fantasy/Tareas Rowing Fantasy.md",
+    "01_PROJECTS/Rowing Fantasy",
+    "00_INBOX/Tareas sueltas.md",
+    "01_PROJECTS/Think and Do it/Tareas_TFG.md",
+    "03_RESOURCES/Cine/00_Tareas_Cine.md",
+    "03_RESOURCES/Introducción a Obsidian/02 Plugins/07_Tasks.md",
+    "00_INBOX/Ejemplo de Kanba.md",
+    "02_AREAS/Música/00_TAREAS.md",
+    "02_AREAS/Kirola/00_TAREAS.md",
+    "00_INBOX/Templates/Cine/Película.md",
+    "00_INBOX/Templates/W",
     "03_RESOURCES/Cine/Actores/Edward Norton.md",
     "00_INBOX/_attachments/Pasted image 20260426162532.png",
     "03_RESOURCES/Cine/Películas/American History X.md",
@@ -227,29 +253,13 @@
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140246.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140232.png",
     "03_RESOURCES/Cine/Películas/Untitled",
-    "00_INBOX/Captura rápida.md",
-    "02_AREAS/Música/Canciones/Choose your life.md",
     "02_AREAS/Kirola/Rutina Aitzolo.pdf",
-    "00_INBOX/Templates/Entrenamiento/Resumen semanal.md",
     "02_AREAS/Kirola",
-    "00_INBOX/Templates/Entrenamiento/Entrenamiento Running.md",
-    "00_INBOX/Templates/Entrenamiento/Entrenamiento Fuerza.md",
     "00_INBOX/Templates/Entrenamiento",
-    "03_RESOURCES/Introducción a Obsidian/Conexion between Obsidian Ordenador y Obsidian Movil.md",
     "03_RESOURCES/Introducción a Obsidian.zip",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/03_Git.md",
-    "03_RESOURCES/Cine/Directores/Danny Boyle.md",
-    "00_INBOX/Templates/Cine/Película.md",
     "Pasted image 20260425131259.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426140431.png",
     "03_RESOURCES/Cine/Directores/_attachments",
-    "03_RESOURCES/Cine/Películas/_attachments",
-    "03_RESOURCES/Cine/Actores/_attachments",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/06_Style Settings.md",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/_attachments",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/04_Kanban.md",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/05_Excalidraw.md",
-    "03_RESOURCES/Introducción a Obsidian/00 Introducción/Instalación y configuración.md",
     "Untitled.canvas"
   ]
 }
