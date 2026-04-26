@@ -45,9 +45,10 @@ Poniendo `ls` en la terminal te muestra que carpetas estas. Puedes hacer ``cd no
 ```bash
 git init
 git remote add origin https://github.com/tuusuario/SecondBrain.git
+git branch -m master main
 git add .
 git commit -m "Initial commit"
-git push -u origin master
+git push -u origin main
 ```
 
 ## Instalación del plugin
