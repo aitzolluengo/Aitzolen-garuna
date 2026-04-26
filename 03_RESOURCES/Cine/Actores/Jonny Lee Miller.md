@@ -5,7 +5,7 @@ tags:
 ---
 
 # Jonny Lee Miller
-![[Pasted image 20260426132746.png]]
+
 
 ## Películas vistas
 ```dataview

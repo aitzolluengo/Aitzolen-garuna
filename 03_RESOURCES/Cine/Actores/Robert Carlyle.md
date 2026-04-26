@@ -5,7 +5,7 @@ tags:
 ---
 
 # Robert Carlyle
-![[Pasted image 20260426132836.png]]
+![[Pasted image 20260426140336.png]]
 ## Películas vistas
 ```dataview
 TABLE año, director

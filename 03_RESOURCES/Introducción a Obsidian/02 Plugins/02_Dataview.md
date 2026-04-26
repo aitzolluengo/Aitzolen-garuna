@@ -150,4 +150,4 @@ LIMIT 5
 - [[01_Templater]]
 - [[Tags]]
 - [[Sistema PARA]]
-- [[Dashboard]]
+- [[Dashboard EXAMPLE]]

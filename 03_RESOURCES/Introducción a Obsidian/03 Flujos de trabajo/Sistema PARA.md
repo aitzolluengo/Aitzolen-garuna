@@ -89,4 +89,4 @@ El área sigue.
 - [[Qué es Obsidian]]
 - [[Captura rápida]]
 - [[03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Revisión semanal]]
-- [[Dashboard]]
+- [[Dashboard EXAMPLE]]

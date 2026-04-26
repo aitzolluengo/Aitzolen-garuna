@@ -107,5 +107,5 @@ Pega esto en tu nota de revisión semanal:
 ## Relacionado
 - [[Sistema PARA]]
 - [[Captura rápida]]
-- [[Dashboard]]
+- [[Dashboard EXAMPLE]]
 - [[Graph View]]

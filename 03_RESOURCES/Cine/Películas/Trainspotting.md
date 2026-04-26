@@ -14,8 +14,8 @@ tags:
   - cine/vista
 ---
 ## Póster
+![[Pasted image 20260426140246.png]]
 
-![[Pasted image 20260426125044.png]]
 
 ## Ficha
 | Campo    | Dato                                                        |
@@ -60,5 +60,5 @@ Realmente a cualquiera, es una peli muy disfrutable, se me hizo corta y la actua
 ⭐⭐⭐⭐
 
 ## Relacionado
-- [[Dashboard Cine]]
+- [[Dashboard Cine]]]
 - [[Danny Boyle]]

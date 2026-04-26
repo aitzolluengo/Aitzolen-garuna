@@ -5,6 +5,7 @@ tags:
 ---
 
 # Danny Boyle
+![[Pasted image 20260426140302.png|157]]
 
 ## Películas vistas
 ```dataview
@@ -14,4 +15,4 @@ WHERE director = [[Danny Boyle]]
 ```
 
 ## Relacionado
-- [[Dashboard Cine]]
+- [[Dashboard Cine]]]

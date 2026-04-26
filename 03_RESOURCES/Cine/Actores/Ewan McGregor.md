@@ -5,8 +5,8 @@ tags:
 ---
 
 # Ewan McGregor
+![[Pasted image 20260426140431.png]]
 
-![[Pasted image 20260426132621.png]]
 
 ## Películas vistas
 ```dataview

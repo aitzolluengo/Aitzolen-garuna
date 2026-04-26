@@ -3,5 +3,6 @@
   "newFileFolderPath": "00_INBOX",
   "showUnsupportedFiles": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./_attachments"
 }
