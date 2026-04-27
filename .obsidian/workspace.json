@@ -24,13 +24,12 @@
             "id": "b809b3f6f29ee2c7",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "pdf",
               "state": {
-                "file": "000_INBOX/00 TASKS/Views/CALENDARIO.base",
-                "viewName": "Calendar"
+                "file": "02_AREAS/Kirola/Rutina/Rutina Aitzolo.pdf"
               },
-              "icon": "tasknotes-simple",
-              "title": "CALENDARIO"
+              "icon": "lucide-file-text",
+              "title": "Rutina Aitzolo"
             }
           }
         ],
@@ -66,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"genero\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_PROJECTS/Think and Do it/Kanban JIRA.md",
+                "file": "02_AREAS/Kirola/Rutina/Rutina Aitzolo.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kanban JIRA"
+              "title": "Outline of Rutina Aitzolo"
             }
           },
           {
@@ -198,11 +197,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,6 +230,14 @@
   },
   "active": "b809b3f6f29ee2c7",
   "lastOpenFiles": [
+    "02_AREAS/Kirola/Rutina/Rutina Aitzolo.pdf",
+    "02_AREAS/Kirola/Rutina/Escala RPE.pdf",
+    "02_AREAS/Kirola/Rutina/Periodización carga.md",
+    "000_INBOX/00 TASKS/Tareas/Escuchar Audios Erlantz.md",
+    "000_INBOX/00 TASKS/Views/CALENDARIO.base",
+    "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
+    "00_JARDIN DIGITAL/02🌿 Brotes/Segundo cerebro.md",
+    "02_AREAS/Kirola/Rutina Aitzolo.pdf",
     "000_INBOX/00 TASKS/Tareas/LISTENING 24TH APRIL.md",
     "000_INBOX/00 TASKS/Views/LISTA DE TAREAS.base",
     "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
@@ -239,13 +247,7 @@
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "000_INBOX/00 TASKS/Views/agenda-default.base",
-    "000_INBOX/00 TASKS/Views/CALENDARIO.base",
-    "02_AREAS/Kirola/Rutina/Periodización carga.md",
     "000_INBOX/00 TASKS/Tareas/Untitled.md",
-    "000_INBOX/00 TASKS/Tareas/Escuchar Audios Erlantz.md",
     "000_INBOX/Tareas sueltas.md",
     "000_INBOX/00 TASKS/Tareas/Ver trainspotting 2.md",
     "000_INBOX/00 TASKS/Tareas/Ir a foto antonio.md",
@@ -254,9 +256,7 @@
     "000_INBOX/01 Dashboard/Dashboard EXAMPLE.md",
     "00_JARDIN DIGITAL/04❄️ Calma/Google Calendar + Obsidian.md",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/08_Day Planner.md",
-    "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
     "00_JARDIN DIGITAL/04❄️ Calma/Smart connections con Ollama.md",
-    "00_JARDIN DIGITAL/02🌿 Brotes/Segundo cerebro.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Choose your life.md",
     "000_INBOX/02 Templates/Jardin Digital/Refrigerador de ideas.md",
     "000_INBOX/02 Templates/Jardin Digital/Brote.md",
@@ -265,7 +265,6 @@
     "TFG/2026 04 25.md",
     "000_INBOX/02 Templates/Jardin Digital/Semilla.md",
     "000_INBOX/Cómo usar este vault.md",
-    "03_RESOURCES/Cine/00_Tareas_Cine.md",
     "000_INBOX/99_attachments/Pasted image 20260426162532.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426162413.png",
     "000_INBOX/99_attachments/Pasted image 20260426162254.png",

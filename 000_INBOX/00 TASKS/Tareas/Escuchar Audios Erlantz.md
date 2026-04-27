@@ -11,3 +11,7 @@ tasknotes_manual_order: "0|hzzzzv:"
 ---
 
 Escuchar los audios de erlantz y tratar de documentarlos con el próposito de ganar conocimiento
+
+
+- Organización de los entrenamientos redactar
+- Entrenamientos redactarlos.
