@@ -9,6 +9,7 @@ tags:
 # Segundo cerebro
 
 ## ¿Qué es?
+
 Un sistema personal para capturar, organizar y conectar todo lo que aprendo, veo y pienso.
 Construido en Obsidian con el sistema PARA.
 
@@ -22,9 +23,9 @@ Construido en Obsidian con el sistema PARA.
 ## ¿Qué me falta por entender?
 - Cómo integrar IA local cuando sea posible
 - Zettelkasten — si me aporta algo sobre PARA
-- Cómo migrar todas mis notas del móvil
+- [x] Cómo migrar todas mis notas del móvil  [completion:: 2026-04-27]
 
 ## Relacionado
 - [[Cómo usar este vault]]
 - [[Sistema PARA]]
-- [[Dashboard]]
+- [[🌿 Jardin de Ideas]]

@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "706d241b32036e00",
+        "id": "0220cd2e41b5e115",
         "type": "tabs",
         "children": [
           {
-            "id": "af36871a88b7e20b",
+            "id": "93bdae0438cd95ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_AREAS/Kirola/Rutina/Entrenamiento 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Entrenamiento 1"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -199,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,49 +212,50 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "40594b64776e0943",
+  "active": "93bdae0438cd95ab",
   "lastOpenFiles": [
-    "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
-    "01_PROJECTS/28042026 Bilera.md",
-    "01_PROJECTS/Think and Do it/Gralaren Dokumentazio egitura.pdf",
-    "000_INBOX/00 TASKS/Tareas/Apuntar dudas del tfg.md",
-    "01_PROJECTS/Untitled",
-    "01_PROJECTS/Think and Do it/2026 04 26.md",
-    "01_PROJECTS/Think and Do it/Dashboard.md",
-    "01_PROJECTS/Think and Do it/Kanban JIRA.md",
-    "01_PROJECTS/Think and Do it/Tareas_TFG.md",
-    "Canción - CHOOSE YOUR LIFE.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Choose your life.md",
+    "000_INBOX/01 Dashboard/Dashboard Cine.md",
+    "000_INBOX/02 Templates/Areas/Música/Canción.md",
+    "000_INBOX/02 Templates/Jardin Digital/Semilla.md",
+    "000_INBOX/02 Templates/Entrenamiento/Resumen semanal.md",
+    "000_INBOX/02 Templates/Entrenamiento/Entrenamiento Running.md",
+    "000_INBOX/02 Templates/Entrenamiento/Entrenamiento Fuerza.md",
     "000_INBOX/02 Templates/Cine/Actor.md",
     "000_INBOX/02 Templates/Cine/Director.md",
     "000_INBOX/02 Templates/Cine/Película.md",
-    "03_RESOURCES/Cine/Actores/Robert Redford.md",
-    "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427162024.png",
+    "00_JARDIN DIGITAL/04❄️ Calma/Smart connections con Ollama.md",
+    "00_JARDIN DIGITAL/04❄️ Calma/Realizar un CURRICULUM VITAE.md",
+    "00_JARDIN DIGITAL/04❄️ Calma/Google Calendar + Obsidian.md",
+    "00_JARDIN DIGITAL/04❄️ Calma/Choose your life.md",
+    "00_JARDIN DIGITAL/04❄️ Calma/Aprender Flowise.md",
+    "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
+    "00_JARDIN DIGITAL/02🌿 Brotes/Segundo cerebro.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Documentar nombres técnicos de mi rutina.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Organización del Bajo.md",
+    "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
+    "000_INBOX/00 TASKS/Views/LISTA DE TAREAS.base",
+    "000_INBOX/00 TASKS/Views/relationships.base",
+    "02_AREAS/BAJO/Teoria Musical/Teo.md",
+    "02_AREAS/BAJO/Teoria Musical",
+    "02_AREAS/BAJO",
+    "01_PROJECTS/Think and Do it/28042026 Bilera.md",
+    "01_PROJECTS/Think and Do it/2026 04 26.md",
     "03_RESOURCES/Cine/Películas/The Sting.md",
-    "03_RESOURCES/Cine/Actores/Paul Newman.md",
+    "03_RESOURCES/Cine/Películas/Trainspotting.md",
+    "Ray Walston.md",
+    "02_AREAS/Kirola/Rutina/Entrenamiento 1.md",
+    "01_PROJECTS/Think and Do it/Gralaren Dokumentazio egitura.pdf",
+    "000_INBOX/00 TASKS/Tareas/Apuntar dudas del tfg.md",
+    "01_PROJECTS/Untitled",
+    "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427162024.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427161921.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png",
-    "03_RESOURCES/Cine/Directores/George Roy Hill.md",
-    "03_RESOURCES/Cine/Películas/American History X.md",
-    "03_RESOURCES/Cine/Directores/Danny Boyle.md",
-    "000_INBOX/00 TASKS/Views/relationships.base",
-    "000_INBOX/00 TASKS/Views/LISTA DE TAREAS.base",
     "000_INBOX/00 TASKS/Views/CALENDARIO.base",
-    "000_INBOX/00 TASKS/Tareas/Ver trainspotting 2.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Documentar nombres técnicos de mi rutina.md",
-    "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
-    "000_INBOX/00 TASKS/Tareas/Documentar entrenamientos de forma correcta.md",
-    "02_AREAS/Kirola/Rutina/Entrenamiento 1.md",
     "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154529.png",
     "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154335.png",
     "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154015.png",
     "02_AREAS/Kirola/Rutina/_attachments",
     "02_AREAS/Kirola/Rutina/Rutina Aitzolo.pdf",
-    "02_AREAS/Kirola/Rutina/Escala RPE.pdf",
-    "02_AREAS/Kirola/Rutina/Periodización carga.md",
-    "000_INBOX/00 TASKS/Tareas/Escuchar Audios Erlantz.md",
-    "00_JARDIN DIGITAL/02🌿 Brotes/Segundo cerebro.md",
-    "02_AREAS/Kirola/Rutina Aitzolo.pdf",
     "000_INBOX/99_attachments/Pasted image 20260426162532.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426162413.png",
     "000_INBOX/99_attachments/Pasted image 20260426162254.png",

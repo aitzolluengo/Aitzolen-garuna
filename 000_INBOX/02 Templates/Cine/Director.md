@@ -28,4 +28,3 @@ SORT año DESC
 - [ ] 
 
 ## Relacionado
-- [[Dashboard Cine]]

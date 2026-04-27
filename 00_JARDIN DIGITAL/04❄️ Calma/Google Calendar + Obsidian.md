@@ -15,3 +15,4 @@ La he aparcado porque creo que ahora tengo que organizar mi sitio de trabajo y c
 ## Revisar cuando...
 Cuando tenga todo el vault bien organizado y funcionando
 ## Relacionado
+[[🌿 Jardin de Ideas]]

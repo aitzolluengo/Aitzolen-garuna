@@ -17,4 +17,4 @@ Tiene mucha energía. Las frases son potentes y  ya tengo el feeling de la peli 
 
 ## Relacionado
 - [[Trainspotting]]
-- [[Canción - CHOOSE YOUR LIFE]]
+- [[🌿 Jardin de Ideas]]

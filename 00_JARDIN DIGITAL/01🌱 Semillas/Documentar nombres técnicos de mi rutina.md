@@ -15,3 +15,4 @@ La idea es documentar todos los nombres técnicos a la vez que voy adquiriendo i
 Me interesa porque es importante saber como estoy entrenando y gestionar esas cargas. Tener el conocimiento de saber todo tipo de entrenamientos que puede haber
 ## Relacionado
 - [[Rutina Aitzolo.pdf]]
+- [[🌿 Jardin de Ideas]]

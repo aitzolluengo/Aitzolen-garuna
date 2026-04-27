@@ -8,7 +8,6 @@ reparto:
   - "[[Paul Newman]]"
   - "[[Robert Redford]]"
   - "[[Robert Shaw]]"
-  - "[[Ray Walston]]"
 puntuacion:
 tags:
   - tipo/pelicula
@@ -38,7 +37,7 @@ La primera reacción que tuve de la pelicula es que me la volvería otra vez sin
 La escena realmente que no me puedo quitar, es la de Paul Newman con Robert Shaw jugando al Poker. Paul Newman apostando con el dinero robado de Robert Shaw, y el como actúa teniendo el objetivo de finalmente quitarle 500.000 dolares del año 36. 
 
 ## ¿De qué trata realmente?
-Realmente en el fondo trata, que los mafiosos al no poder hacer negocio con el alcohol, ya que están en el año 36, la ley seca ya desapareció. Hacían negocios con las apuestas y es como 2 timadores junto a su equipo tratan de engañar a Donnegan. Finalmente, cayendo en la trampa. Me pareció una peli realmente divertida y disfrutable.
+Realmente en el fondo trata, que los mafiosos al no poder hacer negocio con el alcohol, ya que están en el año 36, es decir, la ley seca ya desapareció. Hacían negocios con las apuestas y es como 2 timadores junto a su equipo tratan de engañar a Donnegan. Finalmente, cayendo en la trampa. Me pareció una peli realmente divertida y disfrutable.
 
 
 ## ¿A quién se la recomendaría?

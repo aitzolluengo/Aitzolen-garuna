@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -55,6 +55,41 @@
         "a": 1,
         "rgb": 14724178
       }
+    },
+    {
+      "query": "path:\"00_JARDIN DIGITAL/01🌱 Semillas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9166930
+      }
+    },
+    {
+      "query": "path:\"00_JARDIN DIGITAL/02🌿 Brotes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4702490
+      }
+    },
+    {
+      "query": "path:\"00_JARDIN DIGITAL/03🌳 Arboles\" path:",
+      "color": {
+        "a": 1,
+        "rgb": 871680
+      }
+    },
+    {
+      "query": "path:\"00_JARDIN DIGITAL/04❄️ Calma\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2043555
+      }
+    },
+    {
+      "query": "path:\"00_JARDIN DIGITAL\" file:",
+      "color": {
+        "a": 1,
+        "rgb": 10747281
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +102,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6031020220827594,
-  "close": true
+  "scale": 0.6316046762907503,
+  "close": false
 }

@@ -49,4 +49,3 @@ tags:
 > [!success] <% tp.system.prompt("Puntuación (1-5 estrellas)") %>
 
 ## Relacionado
-- [[Dashboard Cine]]
