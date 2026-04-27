@@ -11,29 +11,27 @@
             "id": "15eb83c66bff3542",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
-                "viewName": "Kanban Board"
+                "file": "03_RESOURCES/Cine/Películas/The Sting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "tasknotes-simple",
-              "title": "TAREAS KANBAN"
-            }
-          },
-          {
-            "id": "b809b3f6f29ee2c7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02_AREAS/Kirola/Rutina/Rutina Aitzolo.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Rutina Aitzolo"
+              "icon": "lucide-file",
+              "title": "The Sting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_AREAS/Kirola/Rutina/Rutina Aitzolo.pdf",
+                "file": "03_RESOURCES/Cine/Películas/The Sting.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rutina Aitzolo"
+              "title": "Outline of The Sting"
             }
           },
           {
@@ -228,28 +226,37 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "b809b3f6f29ee2c7",
+  "active": "15eb83c66bff3542",
   "lastOpenFiles": [
+    "03_RESOURCES/Cine/Películas/American History X.md",
+    "03_RESOURCES/Cine/Películas/The Sting.md",
+    "03_RESOURCES/Cine/Películas/The Sting.md",
+    "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
+    "03_RESOURCES/Cine/Directores/Danny Boyle.md",
+    "000_INBOX/00 TASKS/Views/relationships.base",
+    "000_INBOX/00 TASKS/Views/LISTA DE TAREAS.base",
+    "000_INBOX/00 TASKS/Views/CALENDARIO.base",
+    "000_INBOX/00 TASKS/Tareas/Ver trainspotting 2.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Documentar nombres técnicos de mi rutina.md",
+    "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
+    "000_INBOX/00 TASKS/Tareas/Documentar entrenamientos de forma correcta.md",
+    "02_AREAS/Kirola/Rutina/Entrenamiento 1.md",
+    "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154529.png",
+    "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154335.png",
+    "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154015.png",
+    "02_AREAS/Kirola/Rutina/_attachments",
     "02_AREAS/Kirola/Rutina/Rutina Aitzolo.pdf",
     "02_AREAS/Kirola/Rutina/Escala RPE.pdf",
     "02_AREAS/Kirola/Rutina/Periodización carga.md",
     "000_INBOX/00 TASKS/Tareas/Escuchar Audios Erlantz.md",
-    "000_INBOX/00 TASKS/Views/CALENDARIO.base",
-    "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Segundo cerebro.md",
     "02_AREAS/Kirola/Rutina Aitzolo.pdf",
     "000_INBOX/00 TASKS/Tareas/LISTENING 24TH APRIL.md",
-    "000_INBOX/00 TASKS/Views/LISTA DE TAREAS.base",
-    "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
-    "000_INBOX/00 TASKS/Views/relationships.base",
-    "El Golpe.md",
     "000_INBOX/00 TASKS/Tareas/Acabar de escribir El Golpe.md",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Views/tasks-default.base",
     "000_INBOX/00 TASKS/Tareas/Untitled.md",
     "000_INBOX/Tareas sueltas.md",
-    "000_INBOX/00 TASKS/Tareas/Ver trainspotting 2.md",
     "000_INBOX/00 TASKS/Tareas/Ir a foto antonio.md",
     "03_RESOURCES/Cine/Por ver.md",
     "000_INBOX/01 Dashboard/Dashboard Tareas.md",
@@ -260,11 +267,6 @@
     "00_JARDIN DIGITAL/01🌱 Semillas/Choose your life.md",
     "000_INBOX/02 Templates/Jardin Digital/Refrigerador de ideas.md",
     "000_INBOX/02 Templates/Jardin Digital/Brote.md",
-    "000_INBOX/02 Templates/Jardin Digital/Arbol.md",
-    "01_PROJECTS/Think and Do it/2026 04 26.md",
-    "TFG/2026 04 25.md",
-    "000_INBOX/02 Templates/Jardin Digital/Semilla.md",
-    "000_INBOX/Cómo usar este vault.md",
     "000_INBOX/99_attachments/Pasted image 20260426162532.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426162413.png",
     "000_INBOX/99_attachments/Pasted image 20260426162254.png",
@@ -272,9 +274,6 @@
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426161908.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426161616.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140246.png",
-    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140232.png",
-    "Pasted image 20260425131259.png",
-    "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426140431.png",
     "Untitled.canvas"
   ]
 }

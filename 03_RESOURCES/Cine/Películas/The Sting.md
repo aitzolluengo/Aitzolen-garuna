@@ -1,14 +1,10 @@
 ---
-fecha_vista: 2026-04-26
+fecha_vista: 2026-04-27
 titulo: El golpe
 director: George Roy Hill
 año: 1973
-genero: Comedia, crimen, intriga, suspense
+genero: Comedia, drama, crimen, suspense
 reparto:
-  - "[[]]"
-  - "[[]]"
-  - "[[]]"
-  - "[[Paul Newman]]"
 puntuacion:
 tags:
   - tipo/pelicula
