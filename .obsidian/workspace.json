@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d1cbeab801c99418",
+        "id": "706d241b32036e00",
         "type": "tabs",
         "children": [
           {
-            "id": "15eb83c66bff3542",
+            "id": "af36871a88b7e20b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_RESOURCES/Cine/Películas/The Sting.md",
+                "file": "02_AREAS/Kirola/Rutina/Entrenamiento 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Sting"
+              "title": "Entrenamiento 1"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"genero\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_RESOURCES/Cine/Películas/The Sting.md",
+                "file": "02_AREAS/Kirola/Rutina/Entrenamiento 1.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Sting"
+              "title": "Outline of Entrenamiento 1"
             }
           },
           {
@@ -195,12 +195,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
-    "collapsed": true
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,12 +225,30 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "15eb83c66bff3542",
+  "active": "40594b64776e0943",
   "lastOpenFiles": [
-    "03_RESOURCES/Cine/Películas/American History X.md",
-    "03_RESOURCES/Cine/Películas/The Sting.md",
-    "03_RESOURCES/Cine/Películas/The Sting.md",
     "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
+    "01_PROJECTS/28042026 Bilera.md",
+    "01_PROJECTS/Think and Do it/Gralaren Dokumentazio egitura.pdf",
+    "000_INBOX/00 TASKS/Tareas/Apuntar dudas del tfg.md",
+    "01_PROJECTS/Untitled",
+    "01_PROJECTS/Think and Do it/2026 04 26.md",
+    "01_PROJECTS/Think and Do it/Dashboard.md",
+    "01_PROJECTS/Think and Do it/Kanban JIRA.md",
+    "01_PROJECTS/Think and Do it/Tareas_TFG.md",
+    "Canción - CHOOSE YOUR LIFE.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Choose your life.md",
+    "000_INBOX/02 Templates/Cine/Actor.md",
+    "000_INBOX/02 Templates/Cine/Director.md",
+    "000_INBOX/02 Templates/Cine/Película.md",
+    "03_RESOURCES/Cine/Actores/Robert Redford.md",
+    "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427162024.png",
+    "03_RESOURCES/Cine/Películas/The Sting.md",
+    "03_RESOURCES/Cine/Actores/Paul Newman.md",
+    "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427161921.png",
+    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png",
+    "03_RESOURCES/Cine/Directores/George Roy Hill.md",
+    "03_RESOURCES/Cine/Películas/American History X.md",
     "03_RESOURCES/Cine/Directores/Danny Boyle.md",
     "000_INBOX/00 TASKS/Views/relationships.base",
     "000_INBOX/00 TASKS/Views/LISTA DE TAREAS.base",
@@ -251,29 +268,10 @@
     "000_INBOX/00 TASKS/Tareas/Escuchar Audios Erlantz.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Segundo cerebro.md",
     "02_AREAS/Kirola/Rutina Aitzolo.pdf",
-    "000_INBOX/00 TASKS/Tareas/LISTENING 24TH APRIL.md",
-    "000_INBOX/00 TASKS/Tareas/Acabar de escribir El Golpe.md",
-    "TaskNotes/Views/agenda-default.base",
-    "TaskNotes/Views/calendar-default.base",
-    "000_INBOX/00 TASKS/Tareas/Untitled.md",
-    "000_INBOX/Tareas sueltas.md",
-    "000_INBOX/00 TASKS/Tareas/Ir a foto antonio.md",
-    "03_RESOURCES/Cine/Por ver.md",
-    "000_INBOX/01 Dashboard/Dashboard Tareas.md",
-    "000_INBOX/01 Dashboard/Dashboard EXAMPLE.md",
-    "00_JARDIN DIGITAL/04❄️ Calma/Google Calendar + Obsidian.md",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/08_Day Planner.md",
-    "00_JARDIN DIGITAL/04❄️ Calma/Smart connections con Ollama.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Choose your life.md",
-    "000_INBOX/02 Templates/Jardin Digital/Refrigerador de ideas.md",
-    "000_INBOX/02 Templates/Jardin Digital/Brote.md",
     "000_INBOX/99_attachments/Pasted image 20260426162532.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426162413.png",
     "000_INBOX/99_attachments/Pasted image 20260426162254.png",
     "000_INBOX/99_attachments/Pasted image 20260426162213.png",
-    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426161908.png",
-    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426161616.png",
-    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140246.png",
     "Untitled.canvas"
   ]
 }

@@ -15,7 +15,7 @@ reminders:
 tags:
   - task
   - "#cine"
-tasknotes_manual_order: "0|hzzzzz:"
+tasknotes_manual_order: "0|hzzzzs:"
 ---
 
 # Relacionado

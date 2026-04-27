@@ -1,1 +1,0 @@
-- [ ] Convalidar creditos #tfg  [start:: 2026-05-04]  [due:: 2026-05-15]
