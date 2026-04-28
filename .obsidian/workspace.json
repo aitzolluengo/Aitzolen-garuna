@@ -35,24 +35,10 @@
             "id": "17b11d89847bc531",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_PROJECTS/Think and Do it/📅 Sesiones/2026-04-28 — Mejoras UI Profesional.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-28 — Mejoras UI Profesional"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -224,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,14 +239,14 @@
   },
   "active": "17b11d89847bc531",
   "lastOpenFiles": [
-    "01_PROJECTS/Think and Do it/📅 Sesiones/2026-04-26 — Generacion IA y Prompt.md",
-    "01_PROJECTS/Think and Do it/📅 Sesiones/2026-04-28 — Mejoras UI Profesional.md",
-    "01_PROJECTS/Think and Do it/🗓️ Planificacion/Roadmap — Mejoras Futuras.md",
     "01_PROJECTS/Think and Do it/🗺️ ThinkAndDoIT — MOC.md",
-    "01_PROJECTS/Think and Do it/📄 Documentos/Gralaren Dokumentazio egitura.pdf",
-    "01_PROJECTS/Think and Do it/🔧 Tecnica/Glosario Técnico.md",
+    "01_PROJECTS/Think and Do it/🗓️ Planificacion/Roadmap — Mejoras Futuras.md",
     "01_PROJECTS/Think and Do it/🔧 Tecnica/Arquitectura Técnica.md",
+    "01_PROJECTS/Think and Do it/🔧 Tecnica/Glosario Técnico.md",
     "01_PROJECTS/Think and Do it/📋 Reuniones/2026-04-28 — Bilera Tutorearekin.md",
+    "01_PROJECTS/Think and Do it/📅 Sesiones/2026-04-28 — Mejoras UI Profesional.md",
+    "01_PROJECTS/Think and Do it/📅 Sesiones/2026-04-26 — Generacion IA y Prompt.md",
+    "01_PROJECTS/Think and Do it/📄 Documentos/Gralaren Dokumentazio egitura.pdf",
     "01_PROJECTS/Think and Do it/📄 Documentos",
     "01_PROJECTS/Think and Do it/🗓️ Planificacion",
     "01_PROJECTS/Think and Do it/🔧 Tecnica",
