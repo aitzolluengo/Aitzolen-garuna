@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_JARDIN DIGITAL/01🌱 Semillas/How to use Obsidian + Claude Code.md",
+                "file": "03_RESOURCES/Obsidian/IA/How to connect Obsidian with Claude Code.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How to use Obsidian + Claude Code"
+              "title": "How to connect Obsidian with Claude Code"
+            }
+          },
+          {
+            "id": "17b11d89847bc531",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
+                "viewName": "Kanban Board"
+              },
+              "icon": "tasknotes-simple",
+              "title": "TAREAS KANBAN"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
-    "collapsed": true
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,13 +239,20 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "93bdae0438cd95ab",
+  "active": "17b11d89847bc531",
   "lastOpenFiles": [
-    "00_JARDIN DIGITAL/01🌱 Semillas/How to use Obsidian + Claude Code.md",
+    "000_INBOX/00 TASKS/Views/relationships.base",
+    "000_INBOX/00 TASKS/Views/LISTA DE TAREAS.base",
+    "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
+    "000_INBOX/00 TASKS/Tareas/Mandar punto 2 documentacion TFG.md",
+    "000_INBOX/00 TASKS/Tareas/Listening 29 abril.md",
+    "02_AREAS/Kirola/Rutina/Entrenamiento 2.md",
     "03_RESOURCES/Obsidian/IA/How to connect Obsidian with Claude Code.md",
-    "03_RESOURCES/Obsidian/IA",
-    "03_RESOURCES/Obsidian",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Documentar nombres técnicos de mi rutina.md",
+    "000_INBOX/00 TASKS/Untitled.md",
+    "03_RESOURCES/Obsidian/IA/Como usarlo en mi Vault.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.md",
+    "000_INBOX/Cómo usar este vault.md",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/calendar-default.base",
@@ -241,29 +261,22 @@
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views",
     "TaskNotes",
+    "CLAUDE.md",
     "000_INBOX/01 Dashboard/Dashboard Cine.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/How to use Obsidian + Claude code.md",
+    "01_PROJECTS/Think and Do it/28042028 Bilera.md",
+    "000_INBOX/Claude code.md",
+    "Sin título.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/How to use Obsidian + Claude Code.md",
+    "Uso de Tasknotes.md",
+    "000_INBOX/00 TASKS/Tareas/writing.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Documentar nombres técnicos de mi rutina.md",
     "000_INBOX/02 Templates/Areas/Música/Canción.md",
     "000_INBOX/02 Templates/Jardin Digital/Semilla.md",
     "000_INBOX/02 Templates/Entrenamiento/Resumen semanal.md",
     "000_INBOX/02 Templates/Entrenamiento/Entrenamiento Running.md",
     "000_INBOX/02 Templates/Entrenamiento/Entrenamiento Fuerza.md",
     "000_INBOX/02 Templates/Cine/Actor.md",
-    "000_INBOX/02 Templates/Cine/Director.md",
-    "000_INBOX/02 Templates/Cine/Película.md",
-    "00_JARDIN DIGITAL/04❄️ Calma/Smart connections con Ollama.md",
-    "00_JARDIN DIGITAL/04❄️ Calma/Realizar un CURRICULUM VITAE.md",
-    "00_JARDIN DIGITAL/04❄️ Calma/Google Calendar + Obsidian.md",
-    "00_JARDIN DIGITAL/04❄️ Calma/Choose your life.md",
-    "00_JARDIN DIGITAL/04❄️ Calma/Aprender Flowise.md",
-    "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
-    "00_JARDIN DIGITAL/02🌿 Brotes/Segundo cerebro.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Organización del Bajo.md",
-    "02_AREAS/BAJO/Teoria Musical/Teo.md",
-    "01_PROJECTS/Think and Do it/28042026 Bilera.md",
-    "01_PROJECTS/Think and Do it/2026 04 26.md",
-    "03_RESOURCES/Cine/Películas/The Sting.md",
-    "03_RESOURCES/Cine/Películas/Trainspotting.md",
-    "Ray Walston.md",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427162024.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427161921.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png",
