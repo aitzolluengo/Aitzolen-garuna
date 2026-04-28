@@ -67,4 +67,4 @@ Es una **herramienta de reflexión**, no de trabajo.
 ## Relacionado
 - [[Links y Backlinks]]
 - [[Tags]]
-- [[03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Revisión semanal]]
+- [[03_RESOURCES/Obsidian/Introducción a Obsidian/03 Flujos de trabajo/Revisión semanal]]

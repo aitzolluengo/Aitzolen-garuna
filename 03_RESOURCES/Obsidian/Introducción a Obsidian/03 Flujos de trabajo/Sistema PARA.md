@@ -86,7 +86,7 @@ El área sigue.
 - **Inbox se vacía cada semana** — si no, pierde su función
 
 ## Relacionado
-- [[Qué es Obsidian]]
+- [[Qué es obsidian]]
 - [[Captura rápida]]
-- [[03_RESOURCES/Introducción a Obsidian/03 Flujos de trabajo/Revisión semanal]]
+- [[03_RESOURCES/Obsidian/Introducción a Obsidian/03 Flujos de trabajo/Revisión semanal]]
 - [[Dashboard EXAMPLE]]

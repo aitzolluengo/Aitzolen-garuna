@@ -11,10 +11,24 @@
             "id": "93bdae0438cd95ab",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "00_JARDIN DIGITAL/01🌱 Semillas/How to use Obsidian + Claude Code.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How to use Obsidian + Claude Code"
             }
           }
         ]
@@ -185,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,6 +228,11 @@
   },
   "active": "93bdae0438cd95ab",
   "lastOpenFiles": [
+    "00_JARDIN DIGITAL/01🌱 Semillas/How to use Obsidian + Claude Code.md",
+    "03_RESOURCES/Obsidian/IA/How to connect Obsidian with Claude Code.md",
+    "03_RESOURCES/Obsidian/IA",
+    "03_RESOURCES/Obsidian",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Documentar nombres técnicos de mi rutina.md",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/calendar-default.base",
@@ -237,18 +257,13 @@
     "00_JARDIN DIGITAL/04❄️ Calma/Aprender Flowise.md",
     "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Segundo cerebro.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Documentar nombres técnicos de mi rutina.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Organización del Bajo.md",
-    "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
-    "000_INBOX/00 TASKS/Views/LISTA DE TAREAS.base",
-    "000_INBOX/00 TASKS/Views/relationships.base",
     "02_AREAS/BAJO/Teoria Musical/Teo.md",
     "01_PROJECTS/Think and Do it/28042026 Bilera.md",
     "01_PROJECTS/Think and Do it/2026 04 26.md",
     "03_RESOURCES/Cine/Películas/The Sting.md",
     "03_RESOURCES/Cine/Películas/Trainspotting.md",
     "Ray Walston.md",
-    "02_AREAS/Kirola/Rutina/Entrenamiento 1.md",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427162024.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427161921.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png",

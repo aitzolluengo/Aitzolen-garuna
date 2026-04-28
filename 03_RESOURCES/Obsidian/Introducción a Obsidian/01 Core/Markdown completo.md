@@ -217,7 +217,7 @@ multilínea
 | `Ctrl+D` | Eliminar línea |
 
 ## Relacionado
-- [[Conceptos clave]]
+- [[Conceptos Clave]]
 - [[01_Templater]]
 - [[02_Dataview]]
 - [[Callouts]]

@@ -80,6 +80,6 @@ O dentro de cada proyecto:
 Tres puntos ⋮ → Export → PNG / SVG
 
 ## Relacionado
-- [[Links y backlinks]]
+- [[Links y Backlinks]]
 - [[Sistema PARA]]
 - [[Flujo PARA.excalidraw]]
