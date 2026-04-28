@@ -26,18 +26,18 @@ tags:
 
 ## 🗂️ Notas del proyecto
 
-### Sesiones de trabajo
-- [[2026 04 26]] — Generación de ejercicios con IA + mejora del prompt pedagógico
+### 📅 Sesiones de trabajo
+- [[2026-04-26 — Generacion IA y Prompt]] — Generación de ejercicios con IA + mejora del prompt pedagógico
 - [[2026-04-28 — Mejoras UI Profesional]] — Refactoring visual completo, landing page, markdown en chat
 
-### Reuniones
-- [[28042028 Bilera]] — Tutoría 28/04/2026: Gantt, matrícula, funcionalidades, LaTeX
+### 📋 Reuniones
+- [[2026-04-28 — Bilera Tutorearekin]] — Tutoría 28/04/2026: Gantt, matrícula, funcionalidades, LaTeX
 
-### Referencia técnica
+### 🔧 Referencia técnica
 - [[Arquitectura Técnica]] — Stack, estructura de carpetas, flujo de datos
 - [[Glosario Técnico]] — JSP, Servlet, DAO, MVC, Groq, BCrypt, OkHttp...
 
-### Planificación
+### 🗓️ Planificación
 - [[Roadmap — Mejoras Futuras]] — Próximas funcionalidades y mejoras pendientes
 
 ---
