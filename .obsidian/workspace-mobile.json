@@ -11,27 +11,27 @@
             "id": "fb00962794240b35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "03_RESOURCES/Cine/TOP 500 Seguimiento.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
+                "viewName": "Kanban Board"
               },
-              "icon": "lucide-file",
-              "title": "TOP 500 Seguimiento"
+              "icon": "tasknotes-simple",
+              "title": "TAREAS KANBAN"
+            }
+          },
+          {
+            "id": "e45ebeb2b6410af2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,6 +176,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "tasknotes:Abrir vista de mini calendario": false,
+      "tasknotes:Abrir vista de calendario": false,
+      "tasknotes:Abrir vista de tareas": false,
+      "tasknotes:Abrir vista de agenda": false,
+      "tasknotes:Abrir tablero kanban": false,
+      "tasknotes:Abrir temporizador pomodoro": false,
+      "tasknotes:Abrir estadísticas de pomodoro": false,
+      "tasknotes:Crear nueva tarea": false,
       "markdown-importer:Abrir el importador de Markdown": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
@@ -190,36 +198,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb00962794240b35",
+  "active": "e45ebeb2b6410af2",
   "lastOpenFiles": [
+    "00_JARDIN DIGITAL/01🌱 Semillas/How to use Obsidian + Claude code.md",
+    "Uso de Tasknotes.md",
+    "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
+    "000_INBOX/00 TASKS/Tareas/writing.md",
+    "02_AREAS/Kirola/Rutina/Rutina Aitzolo.pdf",
+    "03_RESOURCES/Cine/TOP 500 Seguimiento.md",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views",
+    "TaskNotes",
     "03_RESOURCES/Introducción a Obsidian/01 Core/Graph View.md",
     "03_RESOURCES/Cine/Como analizar una pelicula.md",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/_attachments/Pasted image 20260426140118.png",
-    "03_RESOURCES/Introducción a Obsidian/02 Plugins/_attachments",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/06_Style Settings.md",
     "03_RESOURCES/Introducción a Obsidian/02 Plugins/05_Excalidraw.md",
     "03_RESOURCES/Diagramas/Flujo PARA.excalidraw.md",
-    "03_RESOURCES/Diagramas",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140246.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260426140232.png",
     "03_RESOURCES/Cine/Películas/Trainspotting.md",
-    "03_RESOURCES/Cine/Películas/_attachments",
-    "03_RESOURCES/Cine/Películas",
     "03_RESOURCES/Cine/Directores/_attachments/Pasted image 20260426140302.png",
     "03_RESOURCES/Cine/Directores/Danny Boyle.md",
-    "03_RESOURCES/Cine/Directores/_attachments",
-    "03_RESOURCES/Cine/Directores",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426140431.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426140336.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426140216.png",
     "03_RESOURCES/Cine/Actores/Robert Carlyle.md",
     "03_RESOURCES/Cine/Actores/Jonny Lee Miller.md",
     "03_RESOURCES/Cine/Actores/Ewan McGregor.md",
-    "03_RESOURCES/Cine/Actores/_attachments",
-    "03_RESOURCES/Cine/Actores",
     "02_AREAS/Música/Canciones/Choose your life.md",
-    "02_AREAS/Música/Canciones",
-    "02_AREAS/Música",
     "00_INBOX/Templates/Cine/Película.md",
     "00_INBOX/Templates/Cine/Director.md",
     "00_INBOX/Templates/Cine/Actor.md",
