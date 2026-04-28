@@ -35,13 +35,24 @@
             "id": "17b11d89847bc531",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
-                "viewName": "Kanban Board"
+                "file": "000_INBOX/00 TASKS/Tareas/Mandar punto 2 documentacion TFG.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "tasknotes-simple",
-              "title": "TAREAS KANBAN"
+              "icon": "lucide-file",
+              "title": "Mandar punto 2 documentacion TFG"
             }
           }
         ],
@@ -241,9 +252,9 @@
   },
   "active": "17b11d89847bc531",
   "lastOpenFiles": [
+    "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
     "000_INBOX/00 TASKS/Views/relationships.base",
     "000_INBOX/00 TASKS/Views/LISTA DE TAREAS.base",
-    "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
     "000_INBOX/00 TASKS/Tareas/Mandar punto 2 documentacion TFG.md",
     "000_INBOX/00 TASKS/Tareas/Listening 29 abril.md",
     "02_AREAS/Kirola/Rutina/Entrenamiento 2.md",
