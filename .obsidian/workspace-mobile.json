@@ -29,9 +29,57 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
+          },
+          {
+            "id": "70cda803f29a29da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000_INBOX/00 TASKS/OpenRouter mejor modelo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "OpenRouter mejor modelo"
+            }
+          },
+          {
+            "id": "3fbf963730e9ab39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000_INBOX/00 TASKS/Openrouter Free Models.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Openrouter Free Models"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,6 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "000_INBOX/00 TASKS/Openrouter Free Models.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -198,8 +247,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e45ebeb2b6410af2",
+  "active": "3fbf963730e9ab39",
   "lastOpenFiles": [
+    "000_INBOX/00 TASKS/OpenRouter mejor modelo.md",
+    "000_INBOX/00 TASKS/Openrouter Free Models.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/How to use Obsidian + Claude code.md",
     "Uso de Tasknotes.md",
     "000_INBOX/00 TASKS/Views/TAREAS KANBAN.base",
