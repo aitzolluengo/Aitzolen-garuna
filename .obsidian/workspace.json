@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_INBOX/00 TASKS/Openrouter Free Models.md",
+                "file": "03_RESOURCES/Obsidian/Gemini/Ventajas de Gemini CLI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Openrouter Free Models"
+              "title": "Ventajas de Gemini CLI"
             }
           }
         ],
@@ -253,8 +253,12 @@
   },
   "active": "17b11d89847bc531",
   "lastOpenFiles": [
-    "000_INBOX/00 TASKS/Conectar Claude Code con Open Router.md",
+    "03_RESOURCES/Obsidian/Gemini/GEMINI.md",
+    "03_RESOURCES/Obsidian/Gemini/Ventajas de Gemini CLI.md",
+    "03_RESOURCES/Obsidian/Gemini/Como usar Gemini CLI.md",
     "000_INBOX/00 TASKS/Openrouter Free Models.md",
+    "03_RESOURCES/Obsidian/Gemini",
+    "000_INBOX/00 TASKS/Conectar Claude Code con Open Router.md",
     "000_INBOX/00 TASKS/OpenRouter mejor modelo.md",
     "01_PROJECTS/Think and Do it/🗺️ ThinkAndDoIT — MOC.md",
     "01_PROJECTS/Think and Do it/🗓️ Planificacion/Roadmap — Mejoras Futuras.md",
@@ -282,13 +286,9 @@
     "conflict-files-obsidian-git.md",
     "Untitled.md",
     "000_INBOX/Cómo usar este vault.md",
-    "TaskNotes/Views/relationships.base",
     "CLAUDE.md",
     "000_INBOX/01 Dashboard/Dashboard Cine.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/How to use Obsidian + Claude code.md",
-    "01_PROJECTS/Think and Do it/28042028 Bilera.md",
-    "000_INBOX/Claude code.md",
-    "Sin título.md",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427162024.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427161921.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png",
