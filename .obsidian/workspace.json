@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00c249bd4b2d1596",
@@ -185,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,6 +215,18 @@
   },
   "active": "93bdae0438cd95ab",
   "lastOpenFiles": [
+    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/00 - Ideas Agentes IA — MOC.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/01 - Curador del Jardín Digital.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/02 - Generador del Plan Semanal.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/05 - Procesador del INBOX (GTD).md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/06 - Recomendador de Cine.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/07 - Coach de Kirola.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/04 - Asistente de TFG (Think&DoIT).md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/03 - Tutor de Inglés B2.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA",
+    "01_PROJECTS/Think and Do it/Documentación Obsidian/01 - CSS compartido (sidebar.css).md",
+    "01_PROJECTS/Think and Do it/Documentación Obsidian/04 - Toasts flotantes unificados.md",
+    "01_PROJECTS/Think and Do it/Documentación Obsidian/06 - Rediseño panel alumno.md",
     "000_INBOX/00 TASKS/Tareas/Plan Semanal 2026-04-29 - 2026-05-05.md",
     "000_INBOX/01 Dashboard/Plan Semanal 2026-04-29 - 2026-05-05.md",
     "02_AREAS/Aprendizaje/Ingles B2/Grammar/Wishes and Regrets (B2).md",
@@ -228,27 +242,15 @@
     "02_AREAS/Aprendizaje/Ingles B2/Grammar/Advanced Linking Words (B2).md",
     "03_RESOURCES/Obsidian/Gemini/Ventajas de Gemini CLI.md",
     "02_AREAS/Aprendizaje/Ingles B2/Grammar/Participial Clauses (B2).md",
-    "02_AREAS/Aprendizaje/Ingles B2/Grammar/Advanced Reported Speech (B2).md",
-    "02_AREAS/Aprendizaje/Ingles B2/Grammar/Non-defining Relative Clauses (B2).md",
-    "02_AREAS/Aprendizaje/Ingles B2/Grammar/Advanced Passive Voice (B2).md",
     "02_AREAS/Aprendizaje/Ingles B2/Grammar",
     "02_AREAS/Aprendizaje/Ingles B2/Writing",
     "02_AREAS/Aprendizaje/Ingles B2",
     "02_AREAS/Aprendizaje",
-    "03_RESOURCES/Obsidian/Gemini/GEMINI.md",
-    "03_RESOURCES/Obsidian/Gemini/Como usar Gemini CLI.md",
-    "000_INBOX/00 TASKS/Openrouter Free Models.md",
     "03_RESOURCES/Obsidian/Gemini",
-    "000_INBOX/00 TASKS/Conectar Claude Code con Open Router.md",
-    "000_INBOX/00 TASKS/OpenRouter mejor modelo.md",
-    "01_PROJECTS/Think and Do it/🗺️ ThinkAndDoIT — MOC.md",
-    "01_PROJECTS/Think and Do it/🗓️ Planificacion/Roadmap — Mejoras Futuras.md",
-    "01_PROJECTS/Think and Do it/🔧 Tecnica/Arquitectura Técnica.md",
     "01_PROJECTS/Think and Do it/📄 Documentos/Gralaren Dokumentazio egitura.pdf",
     "01_PROJECTS/Think and Do it/📄 Documentos",
     "01_PROJECTS/Think and Do it/🗓️ Planificacion",
     "01_PROJECTS/Think and Do it/🔧 Tecnica",
-    "01_PROJECTS/Think and Do it/📋 Reuniones",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427162024.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427161921.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png",

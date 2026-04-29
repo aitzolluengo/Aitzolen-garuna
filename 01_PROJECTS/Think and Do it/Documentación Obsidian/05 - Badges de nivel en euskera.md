@@ -4,7 +4,11 @@ madurez: 🌳
 contexto: ThinkAndDoIT — desarrollo web
 tags:
   - tipo/referencia
+revisado: false
 ---
+> [!warning] Pendiente de revisión
+> Nota generada el 2026-04-29. Cambia `revisado: true` cuando la hagas tuya.
+
 
 # Badges de nivel en euskera
 
