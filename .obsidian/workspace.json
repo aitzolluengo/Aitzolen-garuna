@@ -35,10 +35,24 @@
             "id": "17b11d89847bc531",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "000_INBOX/00 TASKS/Openrouter Free Models.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Openrouter Free Models"
             }
           }
         ],
@@ -210,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,11 +251,11 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "40594b64776e0943",
+  "active": "17b11d89847bc531",
   "lastOpenFiles": [
+    "000_INBOX/00 TASKS/Conectar Claude Code con Open Router.md",
     "000_INBOX/00 TASKS/Openrouter Free Models.md",
     "000_INBOX/00 TASKS/OpenRouter mejor modelo.md",
-    "000_INBOX/00 TASKS/Conectar Claude Code con Open Router.md",
     "01_PROJECTS/Think and Do it/🗺️ ThinkAndDoIT — MOC.md",
     "01_PROJECTS/Think and Do it/🗓️ Planificacion/Roadmap — Mejoras Futuras.md",
     "01_PROJECTS/Think and Do it/🔧 Tecnica/Arquitectura Técnica.md",
