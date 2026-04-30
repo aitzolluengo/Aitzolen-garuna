@@ -1,58 +1,90 @@
 ---
-fecha: 2026-04-29
+fecha: 2026-04-30
 tags:
   - dashboard
 ---
 
 # 📋 Tareas — Dashboard
 
-Vista global de todas las tareas marcadas `- [ ]` en cualquier nota del vault, gracias al plugin **Tasks**. Para crear tareas, ve a [[Inbox]] o métela en cualquier nota con el formato `- [ ] cosa 📅 YYYY-MM-DD`.
+Vista global de todas las tareas marcadas `- [ ]` en cualquier nota del vault, gracias al plugin **Tasks**.
+
+> **`happens`** = el plugin coge la fecha más temprana entre `📅 due`, `⏳ scheduled` y `🛫 start`. Por eso una tarea con start date hoy aparece en "Hoy" sin que tengas que duplicar fechas.
 
 ## ⚠️ Hoy
 
+Tareas que tocan hoy o están atrasadas.
+
 ```tasks
 not done
-(due on or before today) OR (scheduled on or before today)
+happens on or before today
 sort by priority
-sort by due
+sort by happens
 hide backlinks
 ```
 
-## 📅 Esta semana
+## 🔜 Mañana
 
 ```tasks
 not done
-(due after today) AND (due before in 7 days)
-sort by due
+happens on tomorrow
+sort by priority
+hide backlinks
+```
+
+## 📅 Próximos 7 días
+
+Sin contar hoy ni mañana.
+
+```tasks
+not done
+happens after tomorrow
+happens before in 8 days
+sort by happens
 sort by priority
 hide backlinks
 ```
 
 ## 🔥 Atrasadas
 
+Lo que se me pasó. Si aparece algo aquí, hoy lo refresco con fecha nueva o lo hago.
+
 ```tasks
 not done
-due before today
-sort by due
+happens before today
+sort by happens
 hide backlinks
 ```
 
 ## 🆕 Sin fecha
 
+Tareas capturadas que no tienen ninguna fecha. Procesar el domingo.
+
 ```tasks
 not done
 no due date
 no scheduled date
+no start date
 sort by priority
 hide backlinks
 ```
 
-## 🎯 Por prioridad alta
+## 🎯 Prioridad alta (todas)
 
 ```tasks
 not done
 priority is high
-sort by due
+sort by happens
+hide backlinks
+```
+
+## 📂 Agrupadas por carpeta (visión global)
+
+Para revisión semanal. Útil para ver qué tareas viven en qué proyecto/área.
+
+```tasks
+not done
+sort by happens
+group by folder
 hide backlinks
 ```
 
@@ -65,23 +97,37 @@ sort by done reverse
 hide backlinks
 ```
 
+---
+
 ## Cómo añadir tareas
 
-Plugin Tasks usa un formato simple. En cualquier nota:
+En cualquier nota:
 
 ```
 - [ ] Mandar correo a la tutora 📅 2026-05-02 ⏫ #tfg
 ```
 
-Iconos:
-- `📅 fecha` — fecha límite (due)
-- `⏳ fecha` — programada (scheduled)
-- `🛫 fecha` — empezar (start)
-- `⏫` alta · `🔼` media · `🔽` baja — prioridad
-- `🔁 every week` — recurrente
-- `#tag` — etiqueta normal
+### Iconos
+
+| Símbolo | Significado |
+|---|---|
+| `📅` | Fecha límite (due) |
+| `⏳` | Programada (scheduled) |
+| `🛫` | Empezar (start) |
+| `⏫ / 🔼 / 🔽` | Prioridad alta / media / baja |
+| `🔁` | Recurrente — `every Sunday`, `every 2 weeks`, `every month` |
+| `#tag` | Etiqueta |
+
+### Diferencia entre `📅`, `⏳` y `🛫`
+
+- `📅 due` — **deadline.** Si pasa, está atrasada.
+- `⏳ scheduled` — **lo planeo para ese día**, sin compromiso de deadline.
+- `🛫 start` — **antes de esa fecha no puedo trabajarla** (depende de algo). Útil para tareas bloqueadas.
+
+Para la mayoría de tareas con `📅` basta. Usa `🛫` solo cuando hay dependencia real.
 
 ## Relacionado
 
 - [[Inbox]]
 - [[Plan Semanal]]
+- [[Flujo de trabajo]]

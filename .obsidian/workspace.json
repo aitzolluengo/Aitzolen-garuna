@@ -11,10 +11,24 @@
             "id": "93bdae0438cd95ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "000_INBOX/Inbox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Inbox"
             }
           }
         ]
@@ -213,6 +227,13 @@
   },
   "active": "93bdae0438cd95ab",
   "lastOpenFiles": [
+    "000_INBOX/Dashboards/Tareas.md",
+    "000_INBOX/Dashboards/Plan Semanal.md",
+    "000_INBOX/Inbox.md",
+    "000_INBOX/Dashboards/Cine.md",
+    "Flujo de trabajo.md",
+    "Cómo usar este vault.md",
+    "04_ARCHIVE/2026-04 Tareas completadas.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/LLM.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Embeddings.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Documentar nombres técnicos de mi rutina.md",
@@ -233,13 +254,6 @@
     "000_INBOX/01 Dashboard/Plan Semanal 2026-04-29 - 2026-05-05.md",
     "02_AREAS/Aprendizaje/Ingles B2/Grammar/Wishes and Regrets (B2).md",
     "02_AREAS/Aprendizaje/Ingles B2/Writing/Formal Letter Structure.md",
-    "02_AREAS/Aprendizaje/Ingles B2/Writing/Essay Structure.md",
-    "02_AREAS/Aprendizaje/Ingles B2/Writing/Report Structure.md",
-    "02_AREAS/Aprendizaje/Ingles B2/Ingles B2 - MOC.md",
-    "02_AREAS/Aprendizaje/Ingles B2/Grammar/Modal Verbs for Speculation (B2).md",
-    "02_AREAS/Aprendizaje/Ingles B2/Grammar/Inversions (B2).md",
-    "02_AREAS/Aprendizaje/Ingles B2/Grammar/Conditionals (B2).md",
-    "03_RESOURCES/Obsidian/IA/How to connect Obsidian with Claude Code.md",
     "02_AREAS/Aprendizaje/Ingles B2/Grammar",
     "02_AREAS/Aprendizaje/Ingles B2/Writing",
     "02_AREAS/Aprendizaje/Ingles B2",
