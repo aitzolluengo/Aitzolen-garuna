@@ -75,3 +75,38 @@ li.task-list-item.is-checked,
 li.plugin-tasks-list-item[data-task-status-name="Done"] {
   opacity: 0.55;
 }
+
+/* ──────────────────────────────────────────────────────────────
+   5) ESTILIZADO DE METADATOS (Tasks) — SIEMPRE VISIBLES
+   Convierte los iconos y fechas en "pastillas" o etiquetas
+   para que se vean profesionales y no como texto sucio.
+   ─────────────────────────────────────────────────────────── */
+
+/* Contenedor de los metadatos en el plugin Tasks */
+.plugin-tasks-list-item .tasks-list-text > span:not(.task-description),
+li.task-list-item span[class*="tasks-list-date"],
+li.task-list-item span[class*="tasks-list-priority"],
+li.task-list-item span[class*="tasks-list-recurrence"] {
+  display: inline-block;
+  font-size: 0.75em;
+  font-weight: 500;
+  background-color: rgba(255, 255, 255, 0.08); /* Fondo sutil */
+  color: var(--text-muted);
+  padding: 1px 6px;
+  margin-left: 4px;
+  border-radius: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  white-space: nowrap;
+}
+
+/* Colores específicos para que resalten */
+span.task-due { color: #f87171; background-color: rgba(248, 113, 113, 0.1); }      /* Vencimiento - Rojo */
+span.task-scheduled { color: #60a5fa; background-color: rgba(96, 165, 250, 0.1); } /* Programada - Azul */
+span.task-start { color: #34d399; background-color: rgba(52, 211, 153, 0.1); }     /* Inicio - Verde */
+span.task-priority { font-weight: bold; color: #fbbf24; }                          /* Prioridad - Oro */
+
+/* Ajuste para que se vea siempre con buena opacidad */
+li.task-list-item span, 
+li.plugin-tasks-list-item span {
+  opacity: 1 !important;
+}

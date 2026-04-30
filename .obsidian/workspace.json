@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Casos prácticos"
             }
+          },
+          {
+            "id": "6502f7712fa91517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000_INBOX/Dashboards/Tareas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tareas"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,47 +251,48 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "29717449097ffd48",
+  "active": "6502f7712fa91517",
   "lastOpenFiles": [
-    "Utilizar mi Boveda/Cómo usar este vault.md",
+    "000_INBOX/Inbox.md",
     "Utilizar mi Boveda/Casos prácticos.md",
+    "Utilizar mi Boveda/Flujo de trabajo.md",
+    "000_INBOX/Dashboards/Tareas.md",
+    "000_INBOX/00 TASKS/Documentar funcional para UgiBugi.md",
+    "Utilizar mi Boveda/Cómo usar este vault.md",
+    "03_RESOURCES/Obsidian/Gemini/Ventajas de Gemini CLI.md",
+    "03_RESOURCES/Obsidian/IA/Como usarlo en mi Vault.md",
+    "03_RESOURCES/Obsidian/IA/How to connect Obsidian with Claude Code.md",
+    "000_INBOX/00 TASKS/Tareas/Documentar funcional para UgiBugi.md",
+    "03_RESOURCES/IA/Conectar Claude Code con Open Router.md",
+    "03_RESOURCES/IA/OpenRouter mejor modelo.md",
+    "03_RESOURCES/IA/Openrouter Free Models.md",
+    "000_INBOX/00 TASKS/Documentar Obsidian UgiBugi.md",
+    "000_INBOX/00 TASKS/Tareas/MATAR.md",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views",
+    "TaskNotes",
     "Cómo usar este vault.md.tmp.3916.1777570956772",
     "Dashboard Cine.md",
     "Untitled.canvas",
     "000_INBOX/Qué he cambiado hoy.md",
-    "000_INBOX/Dashboards/Tareas.md",
-    "000_INBOX/Inbox.md",
     "Utilizar mi Boveda/Views/kanban-default.base",
-    "000_INBOX/00 TASKS/Tareas/MATAR.md",
-    "000_INBOX/00 TASKS/Tareas",
-    "000_INBOX/00 TASKS",
     "Excalidraw/Drawing 2026-04-30 19.17.22.excalidraw.md",
     "000_INBOX/Dashboards/Cine.md",
-    "Excalidraw",
     "03_RESOURCES/Cine/Actores/Edward Furlong.md",
-    "Flujo de trabajo.md.tmp.3916.1777569130942",
     "01_PROJECTS/Rowing Fantasy/Tareas Rowing.md",
     "01_PROJECTS/Think and Do it/Tareas TFG.md",
     "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
     "00_JARDIN DIGITAL/04❄️ Calma/Aprender Flowise.md",
     "000_INBOX/Dashboards/Plan Semanal.md",
     "01_PROJECTS/Think and Do it/🗺️ ThinkAndDoIT — MOC.md",
-    "CLAUDE.md",
-    "Flujo de trabajo.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Documentar nombres técnicos de mi rutina.md",
     "000_INBOX/Adjuntos/Pasted image 20260426162213.png",
     "000_INBOX/Adjuntos/Pasted image 20260426162254.png",
     "000_INBOX/Adjuntos/Pasted image 20260426162532.png",
-    "04_ARCHIVE/2026-04 Tareas completadas.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/LLM.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Embeddings.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Agentes IA — MOC.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/00 - Ideas Agentes IA — MOC.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/01 - Curador del Jardín Digital.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA",
-    "02_AREAS/Aprendizaje/Ingles B2/Grammar",
-    "02_AREAS/Aprendizaje/Ingles B2/Writing",
-    "02_AREAS/Aprendizaje/Ingles B2",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427162024.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427161921.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png",
