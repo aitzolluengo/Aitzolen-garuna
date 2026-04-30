@@ -29,16 +29,7 @@ tags:
 ### Kirola
 - [ ] Documentar entrenamientos de forma correcta → [[Entrenamiento 1]] [[Entrenamiento 2]]
 
-## Cómo procesar (revisión semanal)
-
-1. **Hago ahora (≤2 min)** → lo hago y marco `- [x]`.
-2. **Es de un proyecto** → muevo el item a la nota del proyecto en `01_PROJECTS/`.
-3. **Es de un área** → muevo a `02_AREAS/`.
-4. **Es referencia** → la convierto en nota en `03_RESOURCES/`.
-5. **Es idea sin trabajar** → semilla en `00_JARDIN DIGITAL/01🌱 Semillas/`.
-6. **Ya no aplica** → archivo o borro.
 
 ## Relacionado
 
 - [[Dashboards/Tareas]]
-- [[Cómo usar este vault]]

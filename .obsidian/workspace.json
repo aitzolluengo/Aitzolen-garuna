@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_INBOX/Inbox.md",
+                "file": "00_JARDIN DIGITAL/01🌱 Semillas/Documentar nombres técnicos de mi rutina.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "Documentar nombres técnicos de mi rutina"
             }
           }
         ]
@@ -227,9 +227,12 @@
   },
   "active": "93bdae0438cd95ab",
   "lastOpenFiles": [
+    "000_INBOX/Adjuntos/Pasted image 20260426162213.png",
+    "000_INBOX/Adjuntos/Pasted image 20260426162254.png",
+    "000_INBOX/Adjuntos/Pasted image 20260426162532.png",
+    "000_INBOX/Inbox.md",
     "000_INBOX/Dashboards/Tareas.md",
     "000_INBOX/Dashboards/Plan Semanal.md",
-    "000_INBOX/Inbox.md",
     "000_INBOX/Dashboards/Cine.md",
     "Flujo de trabajo.md",
     "Cómo usar este vault.md",
@@ -253,7 +256,6 @@
     "000_INBOX/00 TASKS/Tareas/Plan Semanal 2026-04-29 - 2026-05-05.md",
     "000_INBOX/01 Dashboard/Plan Semanal 2026-04-29 - 2026-05-05.md",
     "02_AREAS/Aprendizaje/Ingles B2/Grammar/Wishes and Regrets (B2).md",
-    "02_AREAS/Aprendizaje/Ingles B2/Writing/Formal Letter Structure.md",
     "02_AREAS/Aprendizaje/Ingles B2/Grammar",
     "02_AREAS/Aprendizaje/Ingles B2/Writing",
     "02_AREAS/Aprendizaje/Ingles B2",
@@ -271,8 +273,6 @@
     "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154015.png",
     "000_INBOX/99_attachments/Pasted image 20260426162532.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426162413.png",
-    "000_INBOX/99_attachments/Pasted image 20260426162254.png",
-    "000_INBOX/99_attachments/Pasted image 20260426162213.png",
     "Untitled.canvas"
   ]
 }
