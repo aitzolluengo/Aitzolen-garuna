@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cómo usar este vault.md",
+                "file": "Utilizar mi Boveda/Casos prácticos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cómo usar este vault"
+              "title": "Casos prácticos"
             }
           }
         ]
@@ -199,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
-    "collapsed": true
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,17 +225,17 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "e242e46f6d91ff83",
+  "active": "29717449097ffd48",
   "lastOpenFiles": [
+    "Utilizar mi Boveda/Cómo usar este vault.md",
+    "Utilizar mi Boveda/Casos prácticos.md",
     "Cómo usar este vault.md.tmp.3916.1777570956772",
-    "Casos prácticos.md",
     "Dashboard Cine.md",
     "Untitled.canvas",
     "000_INBOX/Qué he cambiado hoy.md",
-    "Cómo usar este vault.md",
     "000_INBOX/Dashboards/Tareas.md",
     "000_INBOX/Inbox.md",
-    "TaskNotes/Views/kanban-default.base",
+    "Utilizar mi Boveda/Views/kanban-default.base",
     "000_INBOX/00 TASKS/Tareas/MATAR.md",
     "000_INBOX/00 TASKS/Tareas",
     "000_INBOX/00 TASKS",
@@ -267,7 +266,6 @@
     "02_AREAS/Aprendizaje/Ingles B2/Grammar",
     "02_AREAS/Aprendizaje/Ingles B2/Writing",
     "02_AREAS/Aprendizaje/Ingles B2",
-    "02_AREAS/Aprendizaje",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427162024.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427161921.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png",

@@ -25,7 +25,7 @@ Mi vida no es lineal. Llevo varios proyectos en paralelo (TFG, deporte, música,
 
 La bóveda cubre cuatro tipos de contenido:
 
-- **Proyectos académicos y profesionales** → núcleo del momento actual: el **TFG (Think&DoIT)**.
+- **Proyectos académicos y profesionales** → núcleo del momento actual: el **TFG (Think&DoIT)**
 - **Aprendizaje continuo** → inglés B2, conocimiento técnico (IA, agentes, programación), apuntes que nunca caducan.
 - **Vida personal con disciplina** → entrenamientos (Kirola), bajo y música, cine, gestión semanal.
 - **Sistema y procesos** → cómo funciona la propia bóveda. Este documento.
