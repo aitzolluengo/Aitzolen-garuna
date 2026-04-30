@@ -9,17 +9,29 @@ Este vault es un sistema personal de gestión del conocimiento en Obsidian. Cuan
 | Carpeta | Propósito |
 |---|---|
 | `000_INBOX/` | Captura rápida y procesamiento pendiente |
-| `000_INBOX/00 TASKS/Tareas/` | Tareas sueltas como notas individuales |
-| `000_INBOX/01 Dashboard/` | Dashboards Dataview (Cine, Tareas, Ejemplo) |
-| `000_INBOX/02 Templates/` | Todas las plantillas Templater |
+| `000_INBOX/Inbox.md` | **Punto único de captura** — checkboxes `- [ ] tarea 📅 fecha` |
+| `000_INBOX/Dashboards/` | Dashboards (Tareas, Cine, Plan Semanal) |
+| `000_INBOX/Plantillas/` | Plantillas Templater organizadas por tema |
+| `000_INBOX/Adjuntos/` | Imágenes y archivos adjuntos |
 | `00_JARDIN DIGITAL/` | Ideas organizadas por nivel de madurez |
+| `00_JARDIN DIGITAL/01🌱 Semillas/<Tema>/` | Semillas agrupadas por tema cuando hay 3+ del mismo |
 | `01_PROJECTS/` | Proyectos activos (con o sin deadline) |
-| `02_Areas/` | Responsabilidades continuas (deporte, música, bajo) |
+| `02_AREAS/` | Responsabilidades continuas (deporte, música, bajo, aprendizaje) |
 | `03_RESOURCES/` | Conocimiento de referencia |
-| `03_RESOURCES/Cine/Películas/` | Una nota por película |
-| `03_RESOURCES/Cine/Directores/` | Una nota por director |
-| `03_RESOURCES/Cine/Actores/` | Una nota por actor |
-| `04_Archive/` | Material inactivo |
+| `03_RESOURCES/Cine/{Películas,Directores,Actores}/` | Sistema de cine |
+| `03_RESOURCES/IA/` | Notas técnicas sobre LLMs, agentes, herramientas |
+| `04_ARCHIVE/` | Material inactivo y tareas completadas |
+| `Cómo usar este vault.md` | Documentación principal del sistema (raíz del vault) |
+
+---
+
+## Sistema de tareas (sin TaskNotes)
+
+- Las **tareas son checkboxes** con el formato del plugin Tasks: `- [ ] cosa 📅 2026-05-02 ⏫ #tag`.
+- **Crear nuevas tareas:** dentro de `Inbox.md` o, si tienen contexto largo, dentro de la nota del proyecto/área que les corresponde.
+- **Vista global:** [[Dashboards/Tareas]] muestra todas las tareas del vault con queries del plugin Tasks (Hoy, Esta semana, Atrasadas, Sin fecha, Prioridad alta, Completadas).
+- **No usar TaskNotes** — las tareas no son notas individuales, son items dentro de notas.
+- **Procesamiento semanal:** lo capturado en Inbox se mueve a su proyecto/área correspondiente o se archiva.
 
 ---
 

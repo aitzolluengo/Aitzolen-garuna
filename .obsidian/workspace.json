@@ -11,10 +11,10 @@
             "id": "93bdae0438cd95ab",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00c249bd4b2d1596",
@@ -186,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
-    "collapsed": true
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,6 +213,10 @@
   },
   "active": "93bdae0438cd95ab",
   "lastOpenFiles": [
+    "00_JARDIN DIGITAL/01🌱 Semillas/LLM.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Embeddings.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Documentar nombres técnicos de mi rutina.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Agentes IA — MOC.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/00 - Ideas Agentes IA — MOC.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/01 - Curador del Jardín Digital.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/02 - Generador del Plan Semanal.md",
@@ -238,10 +240,6 @@
     "02_AREAS/Aprendizaje/Ingles B2/Grammar/Inversions (B2).md",
     "02_AREAS/Aprendizaje/Ingles B2/Grammar/Conditionals (B2).md",
     "03_RESOURCES/Obsidian/IA/How to connect Obsidian with Claude Code.md",
-    "000_INBOX/00 TASKS/Grammar.md",
-    "02_AREAS/Aprendizaje/Ingles B2/Grammar/Advanced Linking Words (B2).md",
-    "03_RESOURCES/Obsidian/Gemini/Ventajas de Gemini CLI.md",
-    "02_AREAS/Aprendizaje/Ingles B2/Grammar/Participial Clauses (B2).md",
     "02_AREAS/Aprendizaje/Ingles B2/Grammar",
     "02_AREAS/Aprendizaje/Ingles B2/Writing",
     "02_AREAS/Aprendizaje/Ingles B2",
