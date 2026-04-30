@@ -6,30 +6,37 @@ tags:
 
 # 📥 Inbox
 
-> Punto único de captura. Cuando se te ocurra algo, escríbelo aquí como `- [ ] cosa 📅 YYYY-MM-DD`.
+> Punto único de captura. Cuando se te ocurra algo, escríbelo aquí como `- [ ] cosa 📅 YYYY-MM-DD #tag`.
 > En la revisión semanal lo procesas: o lo haces, o lo mueves a su proyecto/área, o lo archivas.
 
+## 🏷️ Tags por proyecto/área
+
+| Tag | Categoría | Color |
+|---|---|---|
+| `#tfg` | Think&DoIT (TFG) | 🔵 |
+| `#rowing` | Rowing Fantasy | 🟣 |
+| `#ingles` | Aprendizaje / B2 | 🟢 |
+| `#musica` | Bajo / Música | 🟡 |
+| `#kirola` | Deporte | 🟠 |
+| `#cine` | Cine / ocio | 🔴 |
+| `#personal` | Casa, recados, otros | ⚪ |
 
 ## Captura rápida
 
 - [ ] 
 
-## Tareas activas migradas (procesar y mover)
+## Tareas activas
 
-### TFG
-- [ ] Mandar punto 2 documentación TFG a la tutora 📅 2026-04-30 ⏫ → ver [[2026-04-28 — Bilera Tutorearekin]]
-- [x] Completar memoria de practicas  [priority:: high]  [start:: 2026-04-30]  [completion:: 2026-04-30]
+- [ ] Mandar punto 2 documentación TFG a la tutora 📅 2026-04-30 ⏫ #tfg → ver [[2026-04-28 — Bilera Tutorearekin]]
+- [ ] Listening del 29 de abril 📅 2026-04-29 ⏫ #ingles
+- [ ] Ver Trainspotting 2 📅 2026-05-01 #cine → [[Trainspotting]]
+- [ ] Documentar entrenamientos de forma correcta #kirola → [[Entrenamiento 1]] [[Entrenamiento 2]]
 
-### Aprendizaje (inglés B2)
-- [ ] Listening del 29 de abril 📅 2026-04-29 ⏫ #inglés
+## Tareas completadas (procesar el domingo)
 
-### Cine
-- [ ] Ver Trainspotting 2 📅 2026-05-01 → [[Trainspotting]]
-
-### Kirola
-- [ ] Documentar entrenamientos de forma correcta → [[Entrenamiento 1]] [[Entrenamiento 2]]
-
+- [x] Completar memoria de prácticas #tfg ✅ 2026-04-30
 
 ## Relacionado
 
 - [[Dashboards/Tareas]]
+- [[Flujo de trabajo]]

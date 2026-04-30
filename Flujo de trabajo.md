@@ -50,14 +50,36 @@ Para apuntar importancia y fecha se utiliza como la siguiente tabla:
 | `🔼` | Prioridad media | |
 | `🔽` | Prioridad baja | |
 | `🔁` | Recurrente | `🔁 every Sunday` · `🔁 every 2 weeks` · `🔁 every month` |
-| `#tag` | Etiqueta | `#tfg` `#inglés` |
+| `#tag` | Etiqueta de proyecto/área (ver siguiente sección) | |
 
 Ejemplo completo:
 
 ```
 - [ ] Mandar correo a la tutora 📅 2026-05-02 ⏫ #tfg
-- [ ] Revisión semanal del Inbox 🔁 every Sunday 📅 2026-05-03
+- [ ] Revisión semanal del Inbox 🔁 every Sunday 📅 2026-05-03 #personal
 ```
+
+### 2.1 Sistema de tags por proyecto/área (con colores)
+
+Cada tarea lleva **una tag fija** según a qué pertenece. El snippet CSS `task-colors.css` pinta el borde lateral con su color y el chip del tag con fondo de color. Activa el snippet en *Settings → Appearance → CSS snippets*.
+
+| Tag | Categoría | Color |
+|---|---|---|
+| `#tfg` | Think&DoIT (TFG) | 🔵 Azul |
+| `#rowing` | Rowing Fantasy | 🟣 Morado |
+| `#ingles` | Aprendizaje / B2 | 🟢 Verde |
+| `#musica` | Bajo / Música | 🟡 Amarillo |
+| `#kirola` | Deporte | 🟠 Naranja |
+| `#cine` | Cine / ocio | 🔴 Rojo |
+| `#personal` | Casa, recados, otros | ⚪ Gris |
+
+**Regla:** una sola tag por tarea. Si dudas, elige la del *output* (qué área genera valor al hacerla). Si una tarea no encaja en ninguna, usa `#personal`.
+
+Para ver tareas filtradas por proyecto, abre la nota del proyecto:
+- [[Tareas TFG]] — solo tareas con `#tfg`
+- [[Tareas Rowing]] — solo tareas con `#rowing`
+
+Para verlas todas agrupadas por proyecto, abre [[Dashboards/Tareas]].
 
 ---
 

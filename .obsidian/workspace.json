@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0220cd2e41b5e115",
+        "id": "4b2cd7dc5e6ff3c2",
         "type": "tabs",
         "children": [
           {
-            "id": "93bdae0438cd95ab",
+            "id": "29717449097ffd48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_JARDIN DIGITAL/01🌱 Semillas/Documentar nombres técnicos de mi rutina.md",
+                "file": "Cómo usar este vault.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Documentar nombres técnicos de mi rutina"
+              "title": "Cómo usar este vault"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 413.5
   },
   "right": {
     "id": "00c249bd4b2d1596",
@@ -199,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,54 +226,54 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "93bdae0438cd95ab",
+  "active": "e242e46f6d91ff83",
   "lastOpenFiles": [
+    "Cómo usar este vault.md.tmp.3916.1777570956772",
+    "Casos prácticos.md",
+    "Dashboard Cine.md",
+    "Untitled.canvas",
+    "000_INBOX/Qué he cambiado hoy.md",
+    "Cómo usar este vault.md",
+    "000_INBOX/Dashboards/Tareas.md",
+    "000_INBOX/Inbox.md",
+    "TaskNotes/Views/kanban-default.base",
+    "000_INBOX/00 TASKS/Tareas/MATAR.md",
+    "000_INBOX/00 TASKS/Tareas",
+    "000_INBOX/00 TASKS",
+    "Excalidraw/Drawing 2026-04-30 19.17.22.excalidraw.md",
+    "000_INBOX/Dashboards/Cine.md",
+    "Excalidraw",
+    "03_RESOURCES/Cine/Actores/Edward Furlong.md",
+    "Flujo de trabajo.md.tmp.3916.1777569130942",
+    "01_PROJECTS/Rowing Fantasy/Tareas Rowing.md",
+    "01_PROJECTS/Think and Do it/Tareas TFG.md",
+    "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
+    "00_JARDIN DIGITAL/04❄️ Calma/Aprender Flowise.md",
+    "000_INBOX/Dashboards/Plan Semanal.md",
+    "01_PROJECTS/Think and Do it/🗺️ ThinkAndDoIT — MOC.md",
+    "CLAUDE.md",
+    "Flujo de trabajo.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Documentar nombres técnicos de mi rutina.md",
     "000_INBOX/Adjuntos/Pasted image 20260426162213.png",
     "000_INBOX/Adjuntos/Pasted image 20260426162254.png",
     "000_INBOX/Adjuntos/Pasted image 20260426162532.png",
-    "000_INBOX/Inbox.md",
-    "000_INBOX/Dashboards/Tareas.md",
-    "000_INBOX/Dashboards/Plan Semanal.md",
-    "000_INBOX/Dashboards/Cine.md",
-    "Flujo de trabajo.md",
-    "Cómo usar este vault.md",
     "04_ARCHIVE/2026-04 Tareas completadas.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/LLM.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Embeddings.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Documentar nombres técnicos de mi rutina.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Agentes IA — MOC.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/00 - Ideas Agentes IA — MOC.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/01 - Curador del Jardín Digital.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/02 - Generador del Plan Semanal.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/05 - Procesador del INBOX (GTD).md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/06 - Recomendador de Cine.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/07 - Coach de Kirola.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/04 - Asistente de TFG (Think&DoIT).md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA/03 - Tutor de Inglés B2.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Ideas Agentes IA",
-    "01_PROJECTS/Think and Do it/Documentación Obsidian/01 - CSS compartido (sidebar.css).md",
-    "01_PROJECTS/Think and Do it/Documentación Obsidian/04 - Toasts flotantes unificados.md",
-    "01_PROJECTS/Think and Do it/Documentación Obsidian/06 - Rediseño panel alumno.md",
-    "000_INBOX/00 TASKS/Tareas/Plan Semanal 2026-04-29 - 2026-05-05.md",
-    "000_INBOX/01 Dashboard/Plan Semanal 2026-04-29 - 2026-05-05.md",
-    "02_AREAS/Aprendizaje/Ingles B2/Grammar/Wishes and Regrets (B2).md",
     "02_AREAS/Aprendizaje/Ingles B2/Grammar",
     "02_AREAS/Aprendizaje/Ingles B2/Writing",
     "02_AREAS/Aprendizaje/Ingles B2",
     "02_AREAS/Aprendizaje",
-    "03_RESOURCES/Obsidian/Gemini",
-    "01_PROJECTS/Think and Do it/📄 Documentos/Gralaren Dokumentazio egitura.pdf",
-    "01_PROJECTS/Think and Do it/📄 Documentos",
-    "01_PROJECTS/Think and Do it/🗓️ Planificacion",
-    "01_PROJECTS/Think and Do it/🔧 Tecnica",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427162024.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427161921.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png",
     "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154529.png",
     "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154335.png",
     "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154015.png",
-    "000_INBOX/99_attachments/Pasted image 20260426162532.png",
-    "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260426162413.png",
-    "Untitled.canvas"
+    "000_INBOX/99_attachments/Pasted image 20260426162532.png"
   ]
 }

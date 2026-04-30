@@ -6,22 +6,22 @@ Este vault es un sistema personal de gestión del conocimiento en Obsidian. Cuan
 
 ## Mapa de carpetas
 
-| Carpeta | Propósito |
-|---|---|
-| `000_INBOX/` | Captura rápida y procesamiento pendiente |
-| `000_INBOX/Inbox.md` | **Punto único de captura** — checkboxes `- [ ] tarea 📅 fecha` |
-| `000_INBOX/Dashboards/` | Dashboards (Tareas, Cine, Plan Semanal) |
-| `000_INBOX/Plantillas/` | Plantillas Templater organizadas por tema |
-| `000_INBOX/Adjuntos/` | Imágenes y archivos adjuntos |
-| `00_JARDIN DIGITAL/` | Ideas organizadas por nivel de madurez |
-| `00_JARDIN DIGITAL/01🌱 Semillas/<Tema>/` | Semillas agrupadas por tema cuando hay 3+ del mismo |
-| `01_PROJECTS/` | Proyectos activos (con o sin deadline) |
-| `02_AREAS/` | Responsabilidades continuas (deporte, música, bajo, aprendizaje) |
-| `03_RESOURCES/` | Conocimiento de referencia |
-| `03_RESOURCES/Cine/{Películas,Directores,Actores}/` | Sistema de cine |
-| `03_RESOURCES/IA/` | Notas técnicas sobre LLMs, agentes, herramientas |
-| `04_ARCHIVE/` | Material inactivo y tareas completadas |
-| `Cómo usar este vault.md` | Documentación principal del sistema (raíz del vault) |
+| Carpeta                                             | Propósito                                                        |
+| --------------------------------------------------- | ---------------------------------------------------------------- |
+| `000_INBOX/`                                        | Captura rápida y procesamiento pendiente                         |
+| `000_INBOX/Inbox.md`                                | **Punto único de captura** — checkboxes `- [ ] tarea 📅 fecha`   |
+| `000_INBOX/Dashboards/`                             | Dashboards (Tareas, Cine, Plan Semanal)                          |
+| `000_INBOX/Plantillas/`                             | Plantillas Templater organizadas por tema                        |
+| `000_INBOX/Adjuntos/`                               | Imágenes y archivos adjuntos                                     |
+| `00_JARDIN DIGITAL/`                                | Ideas organizadas por nivel de madurez                           |
+| `00_JARDIN DIGITAL/01🌱 Semillas/<Tema>/`           | Semillas agrupadas por tema cuando hay 3+ del mismo              |
+| `01_PROJECTS/`                                      | Proyectos activos (con o sin deadline)                           |
+| `02_AREAS/`                                         | Responsabilidades continuas (deporte, música, bajo, aprendizaje) |
+| `03_RESOURCES/`                                     | Conocimiento de referencia                                       |
+| `03_RESOURCES/Cine/{Películas,Directores,Actores}/` | Sistema de cine                                                  |
+| `03_RESOURCES/IA/`                                  | Notas técnicas sobre LLMs, agentes, herramientas                 |
+| `04_ARCHIVE/`                                       | Material inactivo y tareas completadas                           |
+| `Cómo usar este vault.md`                           | Documentación principal del sistema (raíz del vault)             |
 
 ---
 

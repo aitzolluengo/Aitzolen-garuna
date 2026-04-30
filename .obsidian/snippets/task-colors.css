@@ -1,0 +1,77 @@
+/* ══════════════════════════════════════════════════════════════
+   task-colors.css — Colorea tareas según el tag de proyecto/área
+   Activación: Settings → Appearance → CSS snippets → task-colors
+   ══════════════════════════════════════════════════════════════ */
+
+/* ─── Variables de paleta ─── */
+:root {
+  --task-tfg:      #3b82f6;  /* Azul     - TFG / Think&DoIT */
+  --task-rowing:   #a855f7;  /* Morado   - Rowing Fantasy */
+  --task-ingles:   #10b981;  /* Verde    - Aprendizaje / B2 */
+  --task-musica:   #eab308;  /* Amarillo - Bajo / Música */
+  --task-kirola:   #f97316;  /* Naranja  - Kirola / deporte */
+  --task-cine:     #ef4444;  /* Rojo     - Cine */
+  --task-personal: #64748b;  /* Gris     - Personal / sin proyecto */
+}
+
+/* ──────────────────────────────────────────────────────────────
+   1) MODO LECTURA / MARKDOWN ESTÁNDAR
+   Cuando una tarea contiene un <a class="tag" href="#xxx">,
+   Obsidian la renderiza así. Aplicamos borde lateral.
+   ─────────────────────────────────────────────────────────── */
+
+li.task-list-item {
+  border-left: 4px solid transparent;
+  padding-left: 10px !important;
+  margin-left: -14px;
+  transition: border-color 0.15s;
+}
+
+li.task-list-item:has(a.tag[href="#tfg"])      { border-left-color: var(--task-tfg); }
+li.task-list-item:has(a.tag[href="#rowing"])   { border-left-color: var(--task-rowing); }
+li.task-list-item:has(a.tag[href="#ingles"])   { border-left-color: var(--task-ingles); }
+li.task-list-item:has(a.tag[href="#musica"])   { border-left-color: var(--task-musica); }
+li.task-list-item:has(a.tag[href="#kirola"])   { border-left-color: var(--task-kirola); }
+li.task-list-item:has(a.tag[href="#cine"])     { border-left-color: var(--task-cine); }
+li.task-list-item:has(a.tag[href="#personal"]) { border-left-color: var(--task-personal); }
+
+/* ──────────────────────────────────────────────────────────────
+   2) PLUGIN TASKS (queries)
+   El plugin añade data-task-tags="#tag1 #tag2" en cada <li>.
+   ─────────────────────────────────────────────────────────── */
+
+li.plugin-tasks-list-item {
+  border-left: 4px solid transparent;
+  padding-left: 10px !important;
+  transition: border-color 0.15s;
+}
+
+li.plugin-tasks-list-item[data-task-tags~="#tfg"]      { border-left-color: var(--task-tfg); }
+li.plugin-tasks-list-item[data-task-tags~="#rowing"]   { border-left-color: var(--task-rowing); }
+li.plugin-tasks-list-item[data-task-tags~="#ingles"]   { border-left-color: var(--task-ingles); }
+li.plugin-tasks-list-item[data-task-tags~="#musica"]   { border-left-color: var(--task-musica); }
+li.plugin-tasks-list-item[data-task-tags~="#kirola"]   { border-left-color: var(--task-kirola); }
+li.plugin-tasks-list-item[data-task-tags~="#cine"]     { border-left-color: var(--task-cine); }
+li.plugin-tasks-list-item[data-task-tags~="#personal"] { border-left-color: var(--task-personal); }
+
+/* ──────────────────────────────────────────────────────────────
+   3) COLOREA EL PROPIO TAG (chip pequeño con fondo)
+   Hace los tags más visibles dentro de cada tarea.
+   ─────────────────────────────────────────────────────────── */
+
+a.tag[href="#tfg"]      { background: var(--task-tfg);      color: white !important; border-radius: 6px; padding: 1px 7px; }
+a.tag[href="#rowing"]   { background: var(--task-rowing);   color: white !important; border-radius: 6px; padding: 1px 7px; }
+a.tag[href="#ingles"]   { background: var(--task-ingles);   color: white !important; border-radius: 6px; padding: 1px 7px; }
+a.tag[href="#musica"]   { background: var(--task-musica);   color: white !important; border-radius: 6px; padding: 1px 7px; }
+a.tag[href="#kirola"]   { background: var(--task-kirola);   color: white !important; border-radius: 6px; padding: 1px 7px; }
+a.tag[href="#cine"]     { background: var(--task-cine);     color: white !important; border-radius: 6px; padding: 1px 7px; }
+a.tag[href="#personal"] { background: var(--task-personal); color: white !important; border-radius: 6px; padding: 1px 7px; }
+
+/* ──────────────────────────────────────────────────────────────
+   4) TAREAS COMPLETADAS — opacidad reducida
+   ─────────────────────────────────────────────────────────── */
+
+li.task-list-item.is-checked,
+li.plugin-tasks-list-item[data-task-status-name="Done"] {
+  opacity: 0.55;
+}
