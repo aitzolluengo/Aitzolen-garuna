@@ -22,7 +22,8 @@ tags:
 | `#personal` | Casa, recados, otros | ⚪ |
 
 ## Captura rapida
-- [ ] Pedir sudadera en el poli el lunes  [priority:: high]  [scheduled:: 2026-05-04]
+- [ ] Pedir sudadera en el poli el lunes  [priority:: high]  [scheduled:: 2026-05-04] #personal  
+- [ ] Documentar gestión de tareas en Obsidian [priority:: high] #personal --> [[Gestion de tareas]]
 
 ## Tareas activas
 
@@ -31,7 +32,7 @@ tags:
 - [ ] Ver Trainspotting 2 📅 2026-05-01 #cine → [[Trainspotting]]
 - [ ] Documentar entrenamientos de forma correcta #kirola → [[Entrenamiento 1]] [[Entrenamiento 2]]
 - [ ] Documentar funcional y configuración de Obsidian para alguien nuevo en la herramienta #personal --> [[Documentar funcional para UgiBugi]]
-- [/] Investigar sobre NotebookLLM personal 📅  [start:: 2026-05-01]
+- [x] Investigar sobre NotebookLLM personal 📅  [start:: 2026-05-01]  [completion:: 2026-05-01]
 
 ## Tareas completadas (procesar el domingo)
 

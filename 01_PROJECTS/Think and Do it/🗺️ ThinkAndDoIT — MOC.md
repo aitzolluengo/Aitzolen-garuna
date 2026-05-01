@@ -64,12 +64,12 @@ tags:
 
 ## 🔜 Próximas funcionalidades
 
-- [ ] Entregas del alumno (respuesta final al ejercicio)
-- [ ] Historial de chat persistente en BD
-- [ ] Estadísticas reales en las stat-cards (ejercicios creados, completados)
-- [ ] Perfil de usuario editable
-- [ ] Notificaciones de nuevos ejercicios
-- [ ] Panel global de ejercicios (todos sin filtrar por clase)
+- [ ] Entregas del alumno (respuesta final al ejercicio) #tfg 
+- [ ] Historial de chat persistente en BD #tfg 
+- [ ] Estadísticas reales en las stat-cards (ejercicios creados, completados) #tfg 
+- [ ] Perfil de usuario editable #tfg 
+- [ ] Notificaciones de nuevos ejercicios #tfg 
+- [ ] Panel global de ejercicios (todos sin filtrar por clase) #tfg 
 
 → Ver detalles en [[Roadmap — Mejoras Futuras]]
 

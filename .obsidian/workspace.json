@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_INBOX/Plantillas/Cine/Película.md",
+                "file": "000_INBOX/Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,47 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Película"
+              "title": "Inbox"
+            }
+          },
+          {
+            "id": "d7eae4ab69e5adff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000_INBOX/Dashboards/Tareas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tareas"
+            }
+          },
+          {
+            "id": "ed36f25f34759f0c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260427161818"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -251,23 +287,35 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "6502f7712fa91517",
+  "active": "d7eae4ab69e5adff",
   "lastOpenFiles": [
-    "Utilizar mi Boveda/Cómo usar este vault.md",
-    "Utilizar mi Boveda/Casos prácticos.md",
-    "000_INBOX/Dashboards/Tareas.md",
     "000_INBOX/Inbox.md",
-    "Utilizar mi Boveda/Flujo de trabajo.md",
-    "000_INBOX/00 TASKS/Documentar funcional para UgiBugi.md",
-    "03_RESOURCES/Obsidian/Gemini/Ventajas de Gemini CLI.md",
+    "000_INBOX/00 TASKS/Gestión de tareas.md",
+    "000_INBOX/Dashboards/Tareas.md",
     "03_RESOURCES/Obsidian/IA/Como usarlo en mi Vault.md",
     "03_RESOURCES/Obsidian/IA/How to connect Obsidian with Claude Code.md",
-    "000_INBOX/00 TASKS/Tareas/Documentar funcional para UgiBugi.md",
-    "03_RESOURCES/IA/Conectar Claude Code con Open Router.md",
-    "03_RESOURCES/IA/OpenRouter mejor modelo.md",
-    "03_RESOURCES/IA/Openrouter Free Models.md",
-    "000_INBOX/00 TASKS/Documentar Obsidian UgiBugi.md",
-    "000_INBOX/00 TASKS/Tareas/MATAR.md",
+    "03_RESOURCES/Cine/00_Tareas_Cine.md",
+    "03_RESOURCES/Cine/TOP 500 Seguimiento.md",
+    "03_RESOURCES/Cine/Por ver.md",
+    "01_PROJECTS/Think and Do it/🗺️ ThinkAndDoIT — MOC.md",
+    "01_PROJECTS/Rowing Fantasy/Tareas.md",
+    "01_PROJECTS/Rowing Fantasy/Tareas Rowing.md",
+    "01_PROJECTS/Think and Do it/Documentación Obsidian/01 - CSS compartido (sidebar.css).md",
+    "01_PROJECTS/Think and Do it/Documentación Obsidian/02 - Seguridad XSS (helper esc).md",
+    "01_PROJECTS/Think and Do it/Documentación Obsidian/03 - Modales con clases CSS compartidas.md",
+    "01_PROJECTS/Think and Do it/Documentación Obsidian/04 - Toasts flotantes unificados.md",
+    "01_PROJECTS/Think and Do it/Documentación Obsidian/06 - Rediseño panel alumno.md",
+    "01_PROJECTS/Think and Do it/Documentación Obsidian/05 - Badges de nivel en euskera.md",
+    "01_PROJECTS/Think and Do it/🔧 Tecnica/Arquitectura Técnica.md",
+    "01_PROJECTS/Think and Do it/🔧 Tecnica/Glosario Técnico.md",
+    "01_PROJECTS/Think and Do it/📅 Sesiones/2026-04-28 — Mejoras UI Profesional.md",
+    "01_PROJECTS/Think and Do it/📋 Reuniones/2026-04-28 — Bilera Tutorearekin.md",
+    "01_PROJECTS/Think and Do it/🗓️ Planificacion/Roadmap — Mejoras Futuras.md",
+    "01_PROJECTS/Think and Do it/Tareas TFG.md",
+    "000_INBOX/Dashboards/Cine.md",
+    "000_INBOX/Plantillas/Cine/Película.md",
+    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png",
+    "03_RESOURCES/Cine/Películas/American History X.md",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/calendar-default.base",
@@ -277,25 +325,13 @@
     "TaskNotes/Views",
     "TaskNotes",
     "Cómo usar este vault.md.tmp.3916.1777570956772",
-    "Dashboard Cine.md",
     "Untitled.canvas",
-    "000_INBOX/Qué he cambiado hoy.md",
     "Utilizar mi Boveda/Views/kanban-default.base",
-    "Excalidraw/Drawing 2026-04-30 19.17.22.excalidraw.md",
-    "000_INBOX/Dashboards/Cine.md",
-    "03_RESOURCES/Cine/Actores/Edward Furlong.md",
-    "01_PROJECTS/Rowing Fantasy/Tareas Rowing.md",
-    "01_PROJECTS/Think and Do it/Tareas TFG.md",
-    "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
-    "00_JARDIN DIGITAL/04❄️ Calma/Aprender Flowise.md",
-    "000_INBOX/Dashboards/Plan Semanal.md",
-    "01_PROJECTS/Think and Do it/🗺️ ThinkAndDoIT — MOC.md",
     "000_INBOX/Adjuntos/Pasted image 20260426162213.png",
     "000_INBOX/Adjuntos/Pasted image 20260426162254.png",
     "000_INBOX/Adjuntos/Pasted image 20260426162532.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427162024.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427161921.png",
-    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png",
     "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154529.png",
     "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154335.png",
     "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154015.png",

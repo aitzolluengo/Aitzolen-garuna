@@ -1,6 +1,7 @@
 ---
 fecha_vista: 2026-04-27
 titulo: El golpe
+poster: "[[Pasted image 20260427161818.png]]"
 director: "[[George Roy Hill]]"
 año: 1973
 genero: Comedia, drama, crimen, suspense
@@ -8,7 +9,7 @@ reparto:
   - "[[Paul Newman]]"
   - "[[Robert Redford]]"
   - "[[Robert Shaw]]"
-puntuacion:
+puntuacion: 5
 tags:
   - tipo/pelicula
   - cine/vista

@@ -25,6 +25,6 @@ SORT año DESC
 ```
 
 ## 🎥 Películas pendientes
-- [ ] 
+- [ ] ordenar mi obsidian #personal  [priority:: high]
 
 ## Relacionado
