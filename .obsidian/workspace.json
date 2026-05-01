@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_INBOX/Dashboards/Tareas.md",
+                "file": "Utilizar mi Boveda/Cómo usar este vault.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tareas"
+              "title": "Cómo usar este vault"
             }
           }
         ],
@@ -253,9 +253,9 @@
   },
   "active": "6502f7712fa91517",
   "lastOpenFiles": [
-    "000_INBOX/Inbox.md",
-    "000_INBOX/Dashboards/Tareas.md",
     "Utilizar mi Boveda/Casos prácticos.md",
+    "000_INBOX/Dashboards/Tareas.md",
+    "000_INBOX/Inbox.md",
     "Utilizar mi Boveda/Flujo de trabajo.md",
     "000_INBOX/00 TASKS/Documentar funcional para UgiBugi.md",
     "Utilizar mi Boveda/Cómo usar este vault.md",
