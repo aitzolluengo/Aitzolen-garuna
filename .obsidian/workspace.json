@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utilizar mi Boveda/Cómo usar este vault.md",
+                "file": "000_INBOX/Plantillas/Cine/Película.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cómo usar este vault"
+              "title": "Película"
             }
           }
         ],
@@ -253,12 +253,12 @@
   },
   "active": "6502f7712fa91517",
   "lastOpenFiles": [
+    "Utilizar mi Boveda/Cómo usar este vault.md",
     "Utilizar mi Boveda/Casos prácticos.md",
     "000_INBOX/Dashboards/Tareas.md",
     "000_INBOX/Inbox.md",
     "Utilizar mi Boveda/Flujo de trabajo.md",
     "000_INBOX/00 TASKS/Documentar funcional para UgiBugi.md",
-    "Utilizar mi Boveda/Cómo usar este vault.md",
     "03_RESOURCES/Obsidian/Gemini/Ventajas de Gemini CLI.md",
     "03_RESOURCES/Obsidian/IA/Como usarlo en mi Vault.md",
     "03_RESOURCES/Obsidian/IA/How to connect Obsidian with Claude Code.md",
