@@ -22,6 +22,7 @@ tags:
 | `#personal` | Casa, recados, otros | ⚪ |
 
 ## Captura rapida
+- [ ] Pedir sudadera en el poli el lunes  [priority:: high]  [scheduled:: 2026-05-04]
 
 ## Tareas activas
 

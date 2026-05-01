@@ -35,10 +35,24 @@
             "id": "6502f7712fa91517",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "000_INBOX/Dashboards/Tareas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tareas"
             }
           }
         ],
@@ -239,8 +253,8 @@
   },
   "active": "6502f7712fa91517",
   "lastOpenFiles": [
-    "000_INBOX/Dashboards/Tareas.md",
     "000_INBOX/Inbox.md",
+    "000_INBOX/Dashboards/Tareas.md",
     "Utilizar mi Boveda/Casos prácticos.md",
     "Utilizar mi Boveda/Flujo de trabajo.md",
     "000_INBOX/00 TASKS/Documentar funcional para UgiBugi.md",
