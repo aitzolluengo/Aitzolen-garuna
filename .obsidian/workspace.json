@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utilizar mi Boveda/Casos prácticos.md",
+                "file": "Utilizar mi Boveda/Mapa Mental de Uso.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,41 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Casos prácticos"
+              "title": "Mapa Mental de Uso"
+            }
+          },
+          {
+            "id": "64cb1bf2676ec4d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilizar mi Boveda/Cómo usar este vault.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cómo usar este vault"
+            }
+          },
+          {
+            "id": "5d81895ab93e660b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -61,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA - Curador de JARDIN Digital.md",
+                "file": "01_PROJECTS/Think and Do it/📅 Sesiones/2026-05-02 - Gantts y  Acabar punto 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +110,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Agente IA - Curador de JARDIN Digital"
+              "title": "2026-05-02 - Gantts y  Acabar punto 2"
             }
           },
           {
@@ -149,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 301.5
   },
   "right": {
     "id": "00c249bd4b2d1596",
@@ -260,8 +294,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5,
-    "collapsed": true
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,45 +309,38 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "tasknotes:Open mini calendar view": false,
-      "tasknotes:Open calendar view": false,
-      "tasknotes:Open tasks view": false,
-      "tasknotes:Open agenda view": false,
-      "tasknotes:Open kanban board": false,
-      "tasknotes:Open pomodoro timer": false,
-      "tasknotes:Open pomodoro statistics": false,
-      "tasknotes:Create new task": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d7eae4ab69e5adff",
+  "active": "5d81895ab93e660b",
   "lastOpenFiles": [
-    "03_RESOURCES/Obsidian/IA/Agentes IA/Propuestas/01 - Curador del Jardín Digital.md",
+    "03_RESOURCES/Cine/Películas/Proyecto Salvacion.md",
+    "000_INBOX/Inbox.md",
+    "000_INBOX/00 TASKS/Gestión de tareas.md",
+    "000_INBOX/00 TASKS/Untitled.base",
+    "Utilizar mi Boveda/Drawing 2026-05-02 11.43.52.excalidraw.md",
+    "Utilizar mi Boveda/Cómo usar este vault.md",
+    "Utilizar mi Boveda/Casos prácticos.md",
+    "Utilizar mi Boveda/Mapa Mental de Uso.md",
+    "01_PROJECTS/Think and Do it/🗺️ ThinkAndDoIT — MOC.md",
+    "01_PROJECTS/Think and Do it/📅 Sesiones/2026-05-02 - Gantts y  Acabar punto 2.md",
+    "01_PROJECTS/Think and Do it/📅 Sesiones/2026-04-28 — Mejoras UI Profesional.md",
+    "01_PROJECTS/Think and Do it/📅 Sesiones/2026-04-26 — Generacion IA y Prompt.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA - Curador de JARDIN Digital.md",
+    "03_RESOURCES/Obsidian/IA/Agentes IA/Propuestas/01 - Curador del Jardín Digital.md",
     "000_INBOX/00 TASKS/Otra mejora, la propiedad Button (Notion 2026).md",
     "03_RESOURCES/Obsidian/IA/Agentes IA/Propuestas/00 - Ideas Agentes IA — MOC.md",
     "000_INBOX/Dashboards/Tareas.md",
-    "000_INBOX/Inbox.md",
-    "000_INBOX/00 TASKS/Gestión de tareas.md",
     "03_RESOURCES/Obsidian/IA/Como usarlo en mi Vault.md",
     "03_RESOURCES/Obsidian/IA/How to connect Obsidian with Claude Code.md",
     "03_RESOURCES/Cine/00_Tareas_Cine.md",
     "03_RESOURCES/Cine/TOP 500 Seguimiento.md",
     "03_RESOURCES/Cine/Por ver.md",
-    "01_PROJECTS/Think and Do it/🗺️ ThinkAndDoIT — MOC.md",
     "01_PROJECTS/Rowing Fantasy/Tareas.md",
     "01_PROJECTS/Rowing Fantasy/Tareas Rowing.md",
     "01_PROJECTS/Think and Do it/Documentación Obsidian/01 - CSS compartido (sidebar.css).md",
     "01_PROJECTS/Think and Do it/Documentación Obsidian/02 - Seguridad XSS (helper esc).md",
     "01_PROJECTS/Think and Do it/Documentación Obsidian/03 - Modales con clases CSS compartidas.md",
-    "01_PROJECTS/Think and Do it/Documentación Obsidian/04 - Toasts flotantes unificados.md",
-    "01_PROJECTS/Think and Do it/Documentación Obsidian/06 - Rediseño panel alumno.md",
-    "01_PROJECTS/Think and Do it/Documentación Obsidian/05 - Badges de nivel en euskera.md",
-    "01_PROJECTS/Think and Do it/🔧 Tecnica/Arquitectura Técnica.md",
-    "01_PROJECTS/Think and Do it/🔧 Tecnica/Glosario Técnico.md",
-    "01_PROJECTS/Think and Do it/📅 Sesiones/2026-04-28 — Mejoras UI Profesional.md",
-    "01_PROJECTS/Think and Do it/📋 Reuniones/2026-04-28 — Bilera Tutorearekin.md",
-    "01_PROJECTS/Think and Do it/🗓️ Planificacion/Roadmap — Mejoras Futuras.md",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/agenda-default.base",
@@ -326,7 +352,6 @@
     "TaskNotes",
     "Cómo usar este vault.md.tmp.3916.1777570956772",
     "Untitled.canvas",
-    "Utilizar mi Boveda/Views/kanban-default.base",
     "000_INBOX/Adjuntos/Pasted image 20260426162213.png",
     "000_INBOX/Adjuntos/Pasted image 20260426162254.png",
     "000_INBOX/Adjuntos/Pasted image 20260426162532.png",
