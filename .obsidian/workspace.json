@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_RESOURCES/Compras/Tecnologia/Monitor 27.md",
+                "file": "000_INBOX/Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Monitor 27"
+              "title": "Inbox"
             }
           }
         ],
@@ -233,12 +233,16 @@
   },
   "active": "04543bd72925ed9f",
   "lastOpenFiles": [
+    "00_JARDIN DIGITAL/02🌿 Brotes/Gestión de Ropa.md",
+    "000_INBOX/Inbox.md",
+    "Utilizar mi Boveda/Flujo principal.md",
+    "Utilizar mi Boveda/Flujo de trabajo.md",
+    "03_RESOURCES/Compras/Ropa/Untitled.md",
     "03_RESOURCES/Compras/🛍️ Compras MOC.md",
-    "000_INBOX/Plantillas/Compras/Ficha Técnica.md",
     "03_RESOURCES/Compras/Tecnologia/Monitor 27.md",
+    "000_INBOX/Plantillas/Compras/Ficha Técnica.md",
     "03_RESOURCES/Compras/🛍️ Compras.md",
     "03_RESOURCES/Compras/Compras.base",
-    "000_INBOX/Inbox.md",
     "03_RESOURCES/Compras/Otros",
     "03_RESOURCES/Compras/Ropa",
     "03_RESOURCES/Compras/Tecnologia",
@@ -252,8 +256,6 @@
     "00_JARDIN DIGITAL/Jardin.base",
     "03_RESOURCES/Cine/Actores/Untitled.md",
     "Utilizar mi Boveda/Casos prácticos.md",
-    "Utilizar mi Boveda/Flujo de trabajo.md",
-    "Utilizar mi Boveda/Flujo principal.md",
     "Utilizar mi Boveda/Cómo usar este vault.md",
     "03_RESOURCES/Cine/Películas/Proyecto Salvacion.md",
     "000_INBOX/00 TASKS/Gestión de tareas.md",
@@ -267,8 +269,6 @@
     "03_RESOURCES/Obsidian/IA/Agentes IA/Propuestas/01 - Curador del Jardín Digital.md",
     "000_INBOX/00 TASKS/Otra mejora, la propiedad Button (Notion 2026).md",
     "03_RESOURCES/Obsidian/IA/Agentes IA/Propuestas/00 - Ideas Agentes IA — MOC.md",
-    "000_INBOX/Dashboards/Tareas.md",
-    "03_RESOURCES/Obsidian/IA/Como usarlo en mi Vault.md",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png",
     "Untitled.canvas",
     "000_INBOX/Adjuntos/Pasted image 20260426162213.png",

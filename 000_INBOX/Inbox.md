@@ -22,7 +22,7 @@ tags:
 | `#personal` | Casa, recados, otros | ⚪ |
 
 ## Captura rapida
-- [ ] Revisar ropa #personal
+- [x] Revisar ropa #personal --> [[Gestión de Ropa]] ✅ 2026-05-02
 - [ ] Pedir sudadera en el poli el lunes  [priority:: high]  [scheduled:: 2026-05-04] #personal  
 - [ ] Documentar gestión de tareas en Obsidian [priority:: high] #personal --> [[Gestion de tareas]]
 - [ ] Excalidraw del funcionamiento de mi vault #aprendizaje 
