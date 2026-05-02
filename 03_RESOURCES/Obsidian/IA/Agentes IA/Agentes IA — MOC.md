@@ -26,7 +26,7 @@ Ver [[LLM]] y [[Prompt engineering]] para la base.
 Cuando el contexto no cabe en la ventana del modelo:
 - [[RAG]] — recuperar trozos relevantes antes de generar
 - [[Embeddings]] — la representación vectorial que hace posible la búsqueda semántica
-- [[Memoria en agentes IA]] — recordar entre sesiones (no creada todavía)
+
 
 ### 2. Capacidad de actuar
 Cómo el agente deja de "solo hablar":
