@@ -14,4 +14,4 @@ WHERE director = [[George Roy Hill]]
 ```
 
 ## Relacionado
-- [[Dashboard Cine]]
+- [[Cine]]

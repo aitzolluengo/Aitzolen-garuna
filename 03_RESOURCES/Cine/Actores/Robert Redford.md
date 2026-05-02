@@ -15,4 +15,4 @@ WHERE contains(reparto, [[Robert Redford]])
 ```
 
 ## Relacionado
-- [[Dashboard Cine]]
+- [[Cine]]]]

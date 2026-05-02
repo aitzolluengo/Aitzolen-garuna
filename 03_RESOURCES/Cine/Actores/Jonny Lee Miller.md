@@ -15,4 +15,4 @@ WHERE contains(reparto, [[Jonny Lee Miller]])
 ```
 
 ## Relacionado
-- [[Dashboard Cine]]
+- [[Cine]]]]

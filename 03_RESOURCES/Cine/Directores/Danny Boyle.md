@@ -15,4 +15,4 @@ WHERE director = [[Danny Boyle]]
 ```
 
 ## Relacionado
-- [[Dashboard Cine]]]
+- [[Cine]]

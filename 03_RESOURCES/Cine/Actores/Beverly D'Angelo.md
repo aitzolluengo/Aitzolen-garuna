@@ -14,4 +14,4 @@ WHERE contains(reparto, [[Beverly D'Angelo]])
 ```
 
 ## Relacionado
-- [[Dashboard Cine]]
+- [[Cine]]

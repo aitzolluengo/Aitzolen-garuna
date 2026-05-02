@@ -8,11 +8,11 @@
 
 ## Fuerza x3
 
-| Ejercicio              | Reps       |
-| ---------------------- | ---------- |
-| Fondos                 | 10         |
-| Máquina press pectoral | 8 (pesado) |
-| Descanso               | 1m         |
+| Ejercicio              | Reps       | Peso |
+| ---------------------- | ---------- | ---- |
+| Fondos                 | 10         |      |
+| Máquina press pectoral | 8 (pesado) | 40kg |
+| Descanso               | 1m         |      |
 
 ## Emom 21m (7m x 3 series)
 Dentro del minuto hacer el ejercicio, el tiempo que quede es descanso.

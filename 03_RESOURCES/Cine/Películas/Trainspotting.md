@@ -58,5 +58,5 @@ Realmente a cualquiera, es una peli muy disfrutable, se me hizo corta y la actua
 ⭐⭐⭐⭐
 
 ## Relacionado
-- [[Dashboard Cine]]]
+- [[Cine]]
 - [[Danny Boyle]]

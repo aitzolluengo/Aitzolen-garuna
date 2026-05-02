@@ -48,4 +48,4 @@ Se la recomendaría a alguien que está intentando adentrarse en el Hollywood an
 ⭐⭐⭐⭐⭐
 
 ## Relacionado
-- [[Dashboard Cine]]
+- [[Cine]]

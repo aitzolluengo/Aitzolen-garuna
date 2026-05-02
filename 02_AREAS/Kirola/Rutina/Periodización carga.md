@@ -10,4 +10,16 @@ Para entender que es la periodización de carga imagina que el entrenamiento es 
 
 * **Semana 3** : Carga, intensificamos un poco los pesos
 	* ***Objetivo*** : Forzar a tu cuerpo a mejorar. Aquí es donde se produce el cambio de fuerza porque sacas el cuerpo de su zona de confort.
-	* *******
+	* ***¿Qué cambia?*** : Añadir una serie más, hacer 2 repeticiones extra, descansar menos tiempo.
+	* ***Sensación*** : Muy exigente. Sientes que las últimas repeticiones cuestan mucho de verdad.
+
+* **Semana 4** : Descanso activo, descarga
+	* ***Objetivo*** : *Limpiar* la fatiga acumulada en la semana de carga. Tu cuerpo aprovecha esta semana para reparar tejidos y hacerse mas fuerte.
+	* ***Sensación*** : Te sientes ligero, entrenas fácil para que tu sistema nervioso se recupere.
+
+---
+# 3. Diccionario de Términos Técnicos
+- **RPE** --> Es una nota que le pones del 1 al 10 que le pones a lo mucho que te ha costado una serie, es decir, RPE 8 sería quedarte 2 repeticiones más o menos en recamara.
+- **ENOM** (Every Minute on the Minute) --> Significa que tienes un minuto para hacer los ejercicios. Hay distintos tipos. Si acabo antes de que pase el minuto el tiempo restante es descanso.
+- **TEMPO** --> Es la velocidad de cada repetición. 
+- **FINISHER** --> Una serie de ejercicios cortos y explosivo al final para agotar últimas reservas de energia.

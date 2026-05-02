@@ -4,98 +4,63 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:00_INBOX/Dashboard  ",
+      "query": "path:03_RESOURCES/Cine  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 8183890
       }
     },
     {
-      "query": "path:02_AREAS  ",
+      "query": "path:02_AREAS/Kirola  ",
       "color": {
         "a": 1,
-        "rgb": 6505219
+        "rgb": 14725458
       }
     },
     {
-      "query": "path:01_PROJECTS  ",
+      "query": "path:000_INBOX  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:\"03_RESOURCES/Introducción a Obsidian\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 12210912
-      }
-    },
-    {
-      "query": "path:03_RESOURCES/Cine/Actores  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:03_RESOURCES/Cine/Peliculas  ",
-      "color": {
-        "a": 1,
-        "rgb": 2295728
-      }
-    },
-    {
-      "query": "path:03_RESOURCES/Cine/Directores  ",
-      "color": {
-        "a": 1,
-        "rgb": 14724178
+        "rgb": 14701269
       }
     },
     {
       "query": "path:\"00_JARDIN DIGITAL/01🌱 Semillas\"  ",
       "color": {
         "a": 1,
-        "rgb": 9166930
+        "rgb": 7653494
       }
     },
     {
       "query": "path:\"00_JARDIN DIGITAL/02🌿 Brotes\"  ",
       "color": {
         "a": 1,
-        "rgb": 4702490
-      }
-    },
-    {
-      "query": "path:\"00_JARDIN DIGITAL/03🌳 Arboles\" path:",
-      "color": {
-        "a": 1,
-        "rgb": 871680
+        "rgb": 2151742
       }
     },
     {
       "query": "path:\"00_JARDIN DIGITAL/04❄️ Calma\"  ",
       "color": {
         "a": 1,
-        "rgb": 2043555
+        "rgb": 839628
       }
     },
     {
-      "query": "path:\"00_JARDIN DIGITAL\" file:",
+      "query": "path:\"00_JARDIN DIGITAL/03🌳 Arboles\"  ",
       "color": {
         "a": 1,
-        "rgb": 10747281
+        "rgb": 347402
       }
     },
     {
-      "query": "path:",
+      "query": "path:\"01_PROJECTS/Think and Do it\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 14606418
       }
     }
   ],
@@ -109,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2292013594174951,
+  "scale": 0.8854989543150517,
   "close": true
 }

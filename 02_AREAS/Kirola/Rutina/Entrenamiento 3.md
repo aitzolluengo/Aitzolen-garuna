@@ -11,11 +11,11 @@
 
 ## Fuerza x3
 
-| Ejercicio        | Reps        |
-| ---------------- | ----------- |
-| Dominadas (ass.) | 6           |
-| Máquina remo     | 10 (pesado) |
-| Descanso         | 1m          |
+| Ejercicio        | Reps        | Kg        |
+| ---------------- | ----------- | --------- |
+| Dominadas (ass.) | 6           |           |
+| Máquina remo     | 10 (pesado) | 14 discos |
+| Descanso         | 1m          |           |
 
 ## Emom 21m (7mx3)
 

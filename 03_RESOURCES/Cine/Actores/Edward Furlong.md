@@ -14,4 +14,4 @@ WHERE contains(reparto, [[Edward Furlong]])
 ```
 
 ## Relacionado
-- [[Dashboard Cine]]
+- [[Cine]]]]

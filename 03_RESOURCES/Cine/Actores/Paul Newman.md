@@ -15,5 +15,5 @@ WHERE contains(reparto, [[Paul Newman]])
 ```
 
 ## Relacionado
-- [[Dashboard Cine]]
+- [[Cine]]]]
 - [[The Sting]]

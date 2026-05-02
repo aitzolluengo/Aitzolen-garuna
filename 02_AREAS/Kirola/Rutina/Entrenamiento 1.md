@@ -13,8 +13,9 @@
 ## Enom de 3m x 5 series
 Dentro de los 3 minutos hacer los dos ejercicios y el tiempo que quede descanso hasta que vuelva a empezar
 
-- Squat pesado 2DB (Dumbbell)   10![[Pasted image 20260427154335.png]]
-- Snatch 2DB                                  12 ![[Pasted image 20260427154529.png]]
+- Squat pesado 2DB (Dumbbell)   10
+	- *3s Bajada y 1s de subida*
+- Snatch 2DB                                  12 
 
 
 ## 3 Rounds for time (Time cap : 21 min)
@@ -23,7 +24,7 @@ Hacer todo lo que pueda en 21 minutos, hago una ronda descanso 30segs y a por la
 | Ejercicio                                                                                                                                          | Reps       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | Hollow hold (La Banana) [-](https://youtu.be/fs7D2wHzsv8)                                                                                          | 30s        |
-| Bulgarian Split Squat 2DB / Máquina femoral<br><br>3s bajada-1s pausa- explosivo arriba                                                            | 10uni/12   |
+| Bulgarian Split Squat 2DB / Máquina femoral<br><br>*3s bajada-1s pausa- explosivo arriba*                                                          | 10uni/12   |
 | Rodillas al pecho (ano alante!) en la barra                                                                                                        | 8          |
 | Zancadas 2DB / Máquina extensión cuadriceps                                                                                                        | 20alter/12 |
 | V-s [-](https://youtu.be/7UVgs18Y1P4) / Encogimientos [-](https://www.youtube.com/shorts/YCsecXIjUoI?feature=share) (retroversión; no arco lumbar) | 10         |
@@ -31,10 +32,11 @@ Hacer todo lo que pueda en 21 minutos, hago una ronda descanso 30segs y a por la
 
 ### Finisher 
 
-| Ejercicio                                                                   | Reps      |
-| --------------------------------------------------------------------------- | --------- |
-| Thrusters 2DB [-](https://www.youtube.com/shorts/UipBcISeiGU?feature=share) | 12        |
-| Comba                                                                       | 30 saltos |
+| Ejercicio                                                                   | Reps |
+| --------------------------------------------------------------------------- | ---- |
+| Thrusters 2DB [-](https://www.youtube.com/shorts/UipBcISeiGU?feature=share) | 12   |
+| Jump Squats                                                                 | 10   |
+| Comba                                                                       | 30s  |
 
 
 

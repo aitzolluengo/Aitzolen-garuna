@@ -14,4 +14,4 @@ WHERE contains(reparto, [[Robert Carlyle]])
 ```
 
 ## Relacionado
-- [[Dashboard Cine]]
+- [[Cine]]

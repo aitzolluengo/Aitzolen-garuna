@@ -14,4 +14,4 @@ WHERE director = [[Tony Kaye]]
 ```
 
 ## Relacionado
-- [[Dashboard Cine]]
+- [[Cine]]

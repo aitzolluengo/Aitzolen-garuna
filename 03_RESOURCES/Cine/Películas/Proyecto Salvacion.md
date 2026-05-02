@@ -48,3 +48,4 @@ A cualquiera la verdad, aunque la película parezca larga, es divertida y entret
 > [!success] 4.5
 
 ## Relacionado
+[[Cine]]

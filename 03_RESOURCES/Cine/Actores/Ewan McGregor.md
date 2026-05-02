@@ -16,4 +16,4 @@ WHERE contains(reparto, [[Ewan McGregor]])
 ```
 
 ## Relacionado
-- [[Dashboard Cine]]
+- [[Cine]]

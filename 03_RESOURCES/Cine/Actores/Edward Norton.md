@@ -15,4 +15,4 @@ WHERE contains(reparto, [[Edward Norton]])
 ```
 
 ## Relacionado
-- [[Dashboard Cine]]
+- [[Cine]]]]

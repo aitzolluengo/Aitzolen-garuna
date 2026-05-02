@@ -45,5 +45,5 @@ A cualquiera que piense que el nazismo es cosa del pasado o que no va con ellos.
 ## Puntuación 
 ⭐⭐⭐⭐ 
 ## Relacionado 
-- [[Dashboard Cine]] 
+- [[Cine]]
 - [[Tony Kaye]]
