@@ -66,7 +66,7 @@ tags:
 >> tag includes #tfg
 >> sort by priority
 >> hide backlinks
->> limit 3
+>> limit 10
 >> ```
 >
 >> [!success] 🟢 APRENDIZAJE: Inglés
@@ -74,7 +74,7 @@ tags:
 >> not done
 >> tag includes #ingles
 >> hide backlinks
->> limit 3
+>> limit 10
 >> ```
 >
 >> [!example] 🟠 CUERPO: Kirola
@@ -82,8 +82,16 @@ tags:
 >> not done
 >> tag includes #kirola
 >> hide backlinks
->> limit 3
+>> limit 10
 >> ```
+>
+>>[!example] :🟠 Compras : Tareas
+>>```tasks
+>>not done
+>>tag includes #compras 
+>>hide backlinks
+>>limit 10
+>>```
 
 ---
 

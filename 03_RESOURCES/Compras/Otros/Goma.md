@@ -22,4 +22,3 @@ fecha_compra:
 - 
 
 ## 🖼️ Referencia Visual
-![[Referencia]]

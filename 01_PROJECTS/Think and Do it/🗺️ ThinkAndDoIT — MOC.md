@@ -32,7 +32,9 @@ tags:
 - [[2026-05-02 - Gantts y  Acabar punto 2]] -- Redacción y envío del punto 2 y realización de los diagramas de Gantts.
 
 ### 📋 Reuniones
-- [[2026-04-28 — Bilera Tutorearekin]] — Tutoría 28/04/2026: Gantt, matrícula, funcionalidades, LaTeX
+> No hay reuniones pendientes
+
+
 
 ### 🔧 Referencia técnica
 - [[Arquitectura Técnica]] — Stack, estructura de carpetas, flujo de datos

@@ -1,12 +1,15 @@
 ---
 fecha: 2026-04-27
-madurez: 🌱
+madurez: 🌿
 contexto: música
 tags:
-  - jardin/semilla
+  - jardin/brote
 ---
 
 # Organización del Bajo
+
+> [!SUCCESS] Evolución
+> Esta idea ha evolucionado a una guía de estudio activa: [[Guía de Estudio - Teoría del Bajo]]
 
 ## La idea
 

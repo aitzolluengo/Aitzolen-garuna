@@ -4,5 +4,6 @@
   "showUnsupportedFiles": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./_attachments"
+  "attachmentFolderPath": "./_attachments",
+  "openBehavior": "file:000_INBOX/Inbox"
 }
