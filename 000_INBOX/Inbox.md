@@ -27,7 +27,7 @@ tags:
 - [ ] Documentar gestión de tareas en Obsidian [priority:: high] #personal --> [[Gestion de tareas]]
 - [ ] Excalidraw del funcionamiento de mi vault #aprendizaje 
 - [ ] Documentar Curador Jardin Digital IA #aprendizaje  [[Agente IA - Curador de JARDIN Digital]]
-- [ ] Escribir sobre Proyecto Salvacion #cine --> [[Proyecto Salvacion]]
+- [x] Escribir sobre Proyecto Salvacion #cine --> [[Proyecto Salvacion]] ✅ 2026-05-02
 
 ## Tareas activas
 

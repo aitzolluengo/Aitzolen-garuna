@@ -20,4 +20,5 @@ Hasta ahora se que en [[🛍️ Compras MOC]] se resume toda las compras que qui
 Me faltaría entender y realizar una nueva versión mejorada de gestión de compras y no sabría si utilizar un agente de IA.
 
 ## Relacionado
-	- [[]]
+- [[Recursos agentes IA]]
+- [[🛍️ Compras MOC]]

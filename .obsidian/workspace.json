@@ -11,21 +11,21 @@
             "id": "64cb1bf2676ec4d0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Utilizar mi Boveda/Flujo principal.md"
+                "file": "02_AREAS/Kirola/Rutina/DOCS/Rutina Aitzolo.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "Flujo principal"
+              "icon": "lucide-file-text",
+              "title": "Rutina Aitzolo"
             }
           },
           {
-            "id": "04543bd72925ed9f",
+            "id": "b6af79aa022019bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_INBOX/Inbox.md",
+                "file": "02_AREAS/Kirola/Rutina/Periodización carga.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "Periodización carga"
             }
           }
         ],
@@ -231,14 +231,33 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "04543bd72925ed9f",
+  "active": "b6af79aa022019bc",
   "lastOpenFiles": [
-    "00_JARDIN DIGITAL/02🌿 Brotes/Gestión de Ropa.md",
-    "000_INBOX/Inbox.md",
-    "Utilizar mi Boveda/Flujo principal.md",
+    "02_AREAS/Kirola/Rutina/Entrenamiento 3.md",
+    "02_AREAS/Kirola/Rutina/Periodización carga.md",
+    "02_AREAS/Kirola/Rutina/Entrenamiento 2.md",
+    "02_AREAS/Kirola/Rutina/DOCS/Rutina Aitzolo.pdf",
+    "000_INBOX/Dashboards/Tareas.md",
+    "02_AREAS/Kirola/Rutina/DOCS",
+    "000_INBOX/00 TASKS/Gestión de tareas.md",
     "Utilizar mi Boveda/Flujo de trabajo.md",
-    "03_RESOURCES/Compras/Ropa/Untitled.md",
+    "Utilizar mi Boveda/Flujo principal.md",
+    "000_INBOX/Inbox.md",
+    "03_RESOURCES/Cine/00_Tareas_Cine.md",
+    "03_RESOURCES/Cine/Actores/Ryan Gosling.md",
+    "03_RESOURCES/Cine/Películas/Proyecto Salvacion.md",
+    "03_RESOURCES/Cine/Películas/Trainspotting.md",
+    "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260502162911.png",
+    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260502162524.png",
+    "02_AREAS/Kirola/Rutina/Entrenamiento 1.md",
+    "000_INBOX/Plantillas/Compras/Articulo.md",
     "03_RESOURCES/Compras/🛍️ Compras MOC.md",
+    "03_RESOURCES/Compras/Ropa/Pantalón corto Adidas.md",
+    "000_INBOX/00 TASKS/Referencia.md",
+    "00_JARDIN DIGITAL/02🌿 Brotes/Gestión de Ropa.md",
+    "00_JARDIN DIGITAL/02🌿 Brotes/Segundo cerebro.md",
+    "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
+    "03_RESOURCES/Obsidian/IA/Agentes IA/Recursos agentes IA.md",
     "03_RESOURCES/Compras/Tecnologia/Monitor 27.md",
     "000_INBOX/Plantillas/Compras/Ficha Técnica.md",
     "03_RESOURCES/Compras/🛍️ Compras.md",
@@ -247,28 +266,11 @@
     "03_RESOURCES/Compras/Ropa",
     "03_RESOURCES/Compras/Tecnologia",
     "03_RESOURCES/Obsidian/IA/Agentes IA/Agentes IA — MOC.md",
-    "000_INBOX/Plantillas/Compras/Articulo.md",
     "03_RESOURCES/Compras",
     "000_INBOX/Plantillas/Compras",
     "000_INBOX/00 TASKS/Memoria en agentes IA.md",
     "03_RESOURCES/Cine/Películas.base",
     "03_RESOURCES/Cine/Actores.base",
-    "00_JARDIN DIGITAL/Jardin.base",
-    "03_RESOURCES/Cine/Actores/Untitled.md",
-    "Utilizar mi Boveda/Casos prácticos.md",
-    "Utilizar mi Boveda/Cómo usar este vault.md",
-    "03_RESOURCES/Cine/Películas/Proyecto Salvacion.md",
-    "000_INBOX/00 TASKS/Gestión de tareas.md",
-    "000_INBOX/00 TASKS/Untitled.base",
-    "Utilizar mi Boveda/Mapa Mental de Uso.md",
-    "01_PROJECTS/Think and Do it/🗺️ ThinkAndDoIT — MOC.md",
-    "01_PROJECTS/Think and Do it/📅 Sesiones/2026-05-02 - Gantts y  Acabar punto 2.md",
-    "01_PROJECTS/Think and Do it/📅 Sesiones/2026-04-28 — Mejoras UI Profesional.md",
-    "01_PROJECTS/Think and Do it/📅 Sesiones/2026-04-26 — Generacion IA y Prompt.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA - Curador de JARDIN Digital.md",
-    "03_RESOURCES/Obsidian/IA/Agentes IA/Propuestas/01 - Curador del Jardín Digital.md",
-    "000_INBOX/00 TASKS/Otra mejora, la propiedad Button (Notion 2026).md",
-    "03_RESOURCES/Obsidian/IA/Agentes IA/Propuestas/00 - Ideas Agentes IA — MOC.md",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png",
     "Untitled.canvas",
     "000_INBOX/Adjuntos/Pasted image 20260426162213.png",
@@ -277,8 +279,6 @@
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427162024.png",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427161921.png",
     "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154529.png",
-    "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154335.png",
-    "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154015.png",
-    "000_INBOX/99_attachments/Pasted image 20260426162532.png"
+    "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154335.png"
   ]
 }

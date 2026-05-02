@@ -9,7 +9,7 @@ enlace:
 fecha_compra:
 ---
 
-# Ficha Técnica: {{title}}
+# Ficha Técnica
 
 ## 📊 Especificaciones
 - **Marca**: 
