@@ -19,6 +19,6 @@ fecha_compra:
 - **Enlace**: https://www.decathlon.es/es/p/lote-3-bandas-elasticas-musculacion-10-20-30-kg-3-meses-freeletics-gratis/375268/c228c234c20m8972196
 
 ## 📝 Notas
-- 
+- [ ] Comprar goma⏫ 🛫 2026-05-04 #compras 
 
 ## 🖼️ Referencia Visual

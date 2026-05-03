@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_INBOX/Dashboards/Tareas.md",
+                "file": "000_INBOX/Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tareas"
+              "title": "Inbox"
             }
           }
         ],
@@ -232,10 +232,16 @@
   },
   "active": "b6af79aa022019bc",
   "lastOpenFiles": [
+    "000_INBOX/Dashboards/Plan Semanal.md",
+    "000_INBOX/Inbox.md",
+    "000_INBOX/Dashboards/Tareas.md",
+    "03_RESOURCES/Compras/Otros/Goma.md",
+    "03_RESOURCES/Compras/🛍️ Compras MOC.md",
+    "01_PROJECTS/Think and Do it/🗺️ ThinkAndDoIT — MOC.md",
+    "01_PROJECTS/Think and Do it/📄 Documentos/config.properties.md",
     "02_AREAS/Aprendizaje/Ingles B2/Ingles B2 - MOC.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Gestión de Ropa.md",
     "02_AREAS/Kirola/00_TAREAS.md",
-    "000_INBOX/Inbox.md",
     "02_AREAS/BAJO/Teoria Musical/Guía de Estudio - Teoría del Bajo.md",
     "03_RESOURCES/Obsidian/Introducción a Obsidian/03 Flujos de trabajo/Gestion de tareas.md",
     "03_RESOURCES/Obsidian/Introducción a Obsidian/03 Flujos de trabajo/Documentar funcional para UgiBugi.md",
@@ -243,11 +249,8 @@
     "00_JARDIN DIGITAL/01🌱 Semillas/Documentar nombres técnicos de mi rutina.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA - Curador de JARDIN Digital.md",
     "02_AREAS/Música/00_TAREAS.md",
-    "01_PROJECTS/Think and Do it/🗺️ ThinkAndDoIT — MOC.md",
     "02_AREAS/BAJO/Teoria Musical/Teo.md",
     "000_INBOX/00 TASKS/2026-04-28 — Bilera Tutorearekin.md",
-    "03_RESOURCES/Compras/Otros/Goma.md",
-    "000_INBOX/Dashboards/Tareas.md",
     "04_ARCHIVE/2026-04 Tareas completadas.md",
     "03_RESOURCES/Cine/Actores/Ryan Gosling.md",
     "03_RESOURCES/Cine/Actores/Robert Redford.md",
@@ -255,9 +258,6 @@
     "03_RESOURCES/Cine/Actores/Paul Newman.md",
     "03_RESOURCES/Cine/Actores/Jonny Lee Miller.md",
     "03_RESOURCES/Cine/Actores/Ewan McGregor.md",
-    "03_RESOURCES/Cine/Actores/Edward Norton.md",
-    "03_RESOURCES/Cine/Actores/Edward Furlong.md",
-    "03_RESOURCES/Cine/Actores/Beverly D'Angelo.md",
     "02_AREAS/Kirola/Rutina/DOCS/Rutina Aitzolo.pdf",
     "02_AREAS/Kirola/Rutina/DOCS",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260502162911.png",
