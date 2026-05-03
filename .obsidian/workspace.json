@@ -23,24 +23,10 @@
             "id": "b6af79aa022019bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000_INBOX/Dashboards/Cine.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cine"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -232,9 +218,9 @@
   },
   "active": "b6af79aa022019bc",
   "lastOpenFiles": [
+    "000_INBOX/Dashboards/Cine.md",
     "03_RESOURCES/Cine/Películas/Dunquerque.md",
     "03_RESOURCES/Cine/Películas/Jackie Brown.md",
-    "000_INBOX/Dashboards/Cine.md",
     "03_RESOURCES/Cine/Películas/Reservoir Dogs.md",
     "03_RESOURCES/Cine/00_Tareas_Cine.md",
     "000_INBOX/Dashboards/Tareas.md",
