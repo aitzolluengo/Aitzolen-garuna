@@ -22,3 +22,6 @@ Me faltaría entender y realizar una nueva versión mejorada de gestión de comp
 ## Relacionado
 - [[Recursos agentes IA]]
 - [[🛍️ Compras MOC]]
+
+## Tareas
+- [/] Revisar ropa #personal

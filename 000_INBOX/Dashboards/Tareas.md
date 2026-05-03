@@ -3,7 +3,6 @@ fecha: 2026-05-01
 tags:
   - dashboard
 ---
-
 # 📋 Centro de Control de Tareas
 
 

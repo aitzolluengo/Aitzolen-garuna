@@ -1,0 +1,1 @@
+- [ ] Pedir sudadera en el poli el lunes [priority:: high] [scheduled:: 2026-05-04] #kirola

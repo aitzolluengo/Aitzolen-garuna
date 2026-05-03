@@ -42,3 +42,6 @@ Para maximizar tu progreso, es recomendable practicar el writing **al menos 1 o 
 *   Pide a alguien (profesor, compañero) que revise tu trabajo para obtener feedback externo.
 *   Reescribe secciones para incorporar las nuevas estructuras gramaticales que estés aprendiendo.
 *   Lee ejemplos de writings de nivel B2 para familiarizarte con el estilo y el vocabulario.
+
+## Tareas
+- [ ] Listening del 29 de abril 📅 2026-05-01 ⏫ #ingles
