@@ -14,7 +14,7 @@
 - **Ingresos:** 510.00€
 - **Gastos Fijos:** 78.78€
 - **Gastos Variables:** 0.00€
-- **Ahorro Neto:** 0.00€
+- **Ahorro Neto:** 431.22€
 
 ---
 

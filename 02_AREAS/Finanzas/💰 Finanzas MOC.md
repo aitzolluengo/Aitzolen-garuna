@@ -37,6 +37,7 @@ Para aprender a ahorrar, te propongo el método **50/30/20** adaptado o una meta
 ## 📝 Seguimiento de Gastos
 - [[Control de Gastos 2026]]
 - [[Objetivos de Ahorro]]
+- [[📚 Educación Financiera]]
 
 ## 🔄 Rutina de Gestión (Paso a Paso)
 
