@@ -23,7 +23,7 @@ tags:
 
 ## Captura rapida
 
-
+- [x] Ingresar 150 euros 🔁 every month on the 📅 ✅ 2026-05-03
 ## Tareas activas
 
 
