@@ -38,6 +38,26 @@ Para aprender a ahorrar, te propongo el método **50/30/20** adaptado o una meta
 - [[Control de Gastos 2026]]
 - [[Objetivos de Ahorro]]
 
+## 🔄 Rutina de Gestión (Paso a Paso)
+
+Para que este plan funcione, sigue estos 3 pasos:
+
+### Paso 1: "Págate a ti primero" (Día 1 del mes)
+En cuanto recibas los 500€:
+1.  **Separa el ahorro:** Transfiere **150€** (o la cantidad que elijas) a tu cuenta de ahorros inmediatamente. No cuentes con ese dinero.
+2.  **Verifica fijos:** Asegúrate de tener los ~80€ para el Gym, DAZN y Claude.
+
+### Paso 2: Registro en Obsidian (Diario o cada 2-3 días)
+Abre [[Control de Gastos 2026]] y anota cualquier gasto variable (cañas, cena, ropa, suscripciones extra). 
+*   *Consejo:* Si usas el móvil, tarda 10 segundos en anotarlo.
+
+### Paso 3: Revisión Semanal (Domingos)
+Mira cuánto has gastado esa semana. 
+*   **Límite ideal:** Intenta no pasar de **70€/semana** en gastos variables.
+*   Si una semana te pasas, intenta compensar la siguiente.
+
+---
+
 ## 💡 Consejos para Ahorrar
 1. **Regla de las 48 horas:** Si quieres comprar algo que no es una necesidad, espera 48 horas. Si después sigues queriéndolo, cómpralo.
 2. **Transferencia automática:** El día que cobres los 500€, transfiere directamente tu meta de ahorro (ej. 150€) a la cuenta de ahorros. "Págate a ti primero".
