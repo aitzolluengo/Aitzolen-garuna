@@ -12,11 +12,22 @@ cssclasses:
 > - ⏳ **Pendientes:** `$=dv.pages('"03_RESOURCES/Cine/Películas"').where(p => p.tags.includes("cine/por-ver")).length` películas.
 
 ---
+## ⏳ Lista de Seguimiento (Pendientes)
+```dataview
+TABLE WITHOUT ID
+	poster AS "Póster",
+	file.link AS "Título",
+	director AS "Director",
+	año AS "Año"
+FROM "03_RESOURCES/Cine/Películas"
+WHERE contains(tags, "cine/por-ver")
+SORT file.name ASC
+```
+---
 
 ## 🍿 Últimas Películas Vistas
 ```dataview
 TABLE WITHOUT ID
-	poster AS "Póster",
 	file.link AS "Título",
 	director AS "Director",
 	año AS "Año",
@@ -29,17 +40,7 @@ LIMIT 8
 
 ---
 
-## ⏳ Lista de Seguimiento (Pendientes)
-```dataview
-TABLE WITHOUT ID
-	poster AS "Póster",
-	file.link AS "Título",
-	director AS "Director",
-	año AS "Año"
-FROM "03_RESOURCES/Cine/Películas"
-WHERE contains(tags, "cine/por-ver")
-SORT file.name ASC
-```
+
 
 ---
 
