@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_INBOX/00 TASKS/Openrouter Free Models.md",
+                "file": "000_INBOX/Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -75,7 +75,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Openrouter Free Models"
+              "title": "Inbox"
             }
           }
         ],
@@ -225,14 +225,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "tasknotes:Abrir vista de mini calendario": false,
-      "tasknotes:Abrir vista de calendario": false,
-      "tasknotes:Abrir vista de tareas": false,
-      "tasknotes:Abrir vista de agenda": false,
-      "tasknotes:Abrir tablero kanban": false,
-      "tasknotes:Abrir temporizador pomodoro": false,
-      "tasknotes:Abrir estadísticas de pomodoro": false,
-      "tasknotes:Crear nueva tarea": false,
       "markdown-importer:Abrir el importador de Markdown": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
