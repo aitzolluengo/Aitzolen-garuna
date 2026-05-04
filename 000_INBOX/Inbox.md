@@ -25,6 +25,8 @@ tags:
 
 - [x] Ingresar 150 euros 🔁 every month on the 📅 ✅ 2026-05-03
 - [ ] Importar libro de Alejandro G. Calvo ⏬ #cine 
+- [ ] Configurar OpenRouter con nvidia #aprendizaje 
+- [ ] Procesar video https://www.youtube.com/watch?v=Ebsbmze-hXA #aprendizaje 
 ## Tareas activas
 
 
