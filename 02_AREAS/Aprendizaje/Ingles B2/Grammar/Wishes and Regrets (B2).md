@@ -37,6 +37,3 @@ Expresar deseos y arrepentimientos es una parte importante del inglés B2. Utili
     *   *They wish their children **would listen** to them more often.* (Their children don't listen enough)
 *   **Nota:** No usamos "would" cuando el sujeto de "wish" es el mismo que el sujeto de la cláusula de "would" (e.g., *I wish I would win the lottery* - incorrecto, usaría "I wish I won the lottery").
 
-## Vídeos de YouTube Recomendados
-*   [Aquí puedes buscar un vídeo sobre "B2 English Wishes and Regrets"]
-*   [Ejemplo: "I WISH & IF ONLY | B2 English [[Grammar]]" en YouTube]

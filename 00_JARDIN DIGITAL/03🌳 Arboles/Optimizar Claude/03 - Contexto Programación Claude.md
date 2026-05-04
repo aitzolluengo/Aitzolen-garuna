@@ -6,7 +6,7 @@ aliases: [Economia de tokens en Claude, IA como programador junior]
 # El contexto de Programación en Claude
 
 > [!NOTE] Enlace relacionado
-> Esta nota profundiza en conceptos de [[Exprimir-Claude-20-dolares]] y complementa las [[13-Instrucciones-Claude]].
+> Esta nota profundiza en conceptos de [[01 - Exprimir Claude]] y complementa las [[02 - Instrucciones Claude]].
 
 ##  IA como Programador Junior
 El video plantea que Claude Code funciona como un **programador extremadamente rápido pero inexperto**.

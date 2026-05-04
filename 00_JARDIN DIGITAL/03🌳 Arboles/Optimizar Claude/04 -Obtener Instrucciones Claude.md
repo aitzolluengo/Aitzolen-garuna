@@ -6,7 +6,7 @@ aliases: [Descargar instrucciones Claude, Cómo activar las reglas]
 # Cómo Obtener y Usar las Instrucciones
 
 > [!NOTE] Enlace relacionado
-> Lee esta nota después de [[Exprimir-Claude-20-dolares]] y para aplicar las [[13-Instrucciones-Claude]].
+> Lee esta nota después de [[01 - Exprimir Claude]] y para aplicar las [[02 - Instrucciones Claude]].
 
 ## 📥 Método de Obtención
 1.  El video indica que las instrucciones completas (formato lista para copiar y pegar) se obtienen de forma gratuita.

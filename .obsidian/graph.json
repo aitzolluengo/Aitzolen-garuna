@@ -8,66 +8,73 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:03_RESOURCES/Cine  ",
+      "query": "path:01_PROJECTS  ",
       "color": {
         "a": 1,
-        "rgb": 8183890
+        "rgb": 655513
       }
     },
     {
-      "query": "path:02_AREAS/Kirola  ",
+      "query": "path:02_AREAS  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:000_INBOX  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701269
+        "rgb": 5562450
       }
     },
     {
       "query": "path:\"00_JARDIN DIGITAL/01🌱 Semillas\"  ",
       "color": {
         "a": 1,
-        "rgb": 7653494
+        "rgb": 14606418
       }
     },
     {
       "query": "path:\"00_JARDIN DIGITAL/02🌿 Brotes\"  ",
       "color": {
         "a": 1,
-        "rgb": 2151742
-      }
-    },
-    {
-      "query": "path:\"00_JARDIN DIGITAL/04❄️ Calma\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 839628
+        "rgb": 627977
       }
     },
     {
       "query": "path:\"00_JARDIN DIGITAL/03🌳 Arboles\"  ",
       "color": {
         "a": 1,
-        "rgb": 347402
-      }
-    },
-    {
-      "query": "path:\"01_PROJECTS/Think and Do it\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14606418
+        "rgb": 19713
       }
     },
     {
       "query": "path:03_RESOURCES  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14701214
+      }
+    },
+    {
+      "query": "path:000_INBOX/Dashboards  ",
+      "color": {
+        "a": 1,
+        "rgb": 14680064
+      }
+    },
+    {
+      "query": "path:\"00_JARDIN DIGITAL/04❄️ Calma\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2870766
+      }
+    },
+    {
+      "query": "path:000_INBOX/Plantillas  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"03_RESOURCES/Obsidian/Introducción a Obsidian\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6381921
       }
     }
   ],
@@ -77,10 +84,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.393229166666667,
+  "repelStrength": 7.13541666666667,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.631604676290748,
-  "close": false
+  "linkDistance": 151,
+  "scale": 0.3213363860503597,
+  "close": true
 }

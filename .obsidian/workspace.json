@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6892ea895b3b9312",
+        "id": "e8d1cac4ee866a9d",
         "type": "tabs",
         "children": [
           {
-            "id": "ee488e97750e6272",
+            "id": "28a157110eca1692",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_INBOX/Inbox.md",
+                "file": "01_PROJECTS/Think and Do it/🗓️ Planificacion/Roadmap — Mejoras Futuras.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "Roadmap — Mejoras Futuras"
             }
           }
         ]
@@ -54,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:jardin/semilla",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,23 +165,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_AREAS/Kirola/Rutina/Entrenamiento 1.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Entrenamiento 1"
+              "title": "Outline"
             }
           },
           {
             "id": "40594b64776e0943",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "markdown",
+              "state": {
+                "file": "000_INBOX/Inbox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inbox"
             }
           },
           {
@@ -193,70 +206,81 @@
               "icon": "lucide-ghost",
               "title": "calendar"
             }
+          },
+          {
+            "id": "e68511f443c36bc5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "markdown-importer:Abrir el importador de Markdown": false,
-      "bases:Crear nueva base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "40594b64776e0943",
+  "active": "28a157110eca1692",
   "lastOpenFiles": [
+    "01_PROJECTS/Think and Do it/🗓️ Planificacion/Roadmap v2.md",
+    "01_PROJECTS/Think and Do it/🗓️ Planificacion/Roadmap — Mejoras Futuras.md",
+    "00_JARDIN DIGITAL/03🌳 Arboles/Optimizar Claude/02 - Instrucciones Claude.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Organización del Bajo.md",
+    "000_INBOX/00_Sin_procesar",
     "000_INBOX/Tareas.md",
-    "000_INBOX/Tareas + Inbox.canvas",
-    "02_AREAS/Kirola/Rutina/DOCS/Rutina Aitzolo.pdf",
-    "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA - Curador de JARDIN Digital.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/NotebookLM Libros.md",
     "000_INBOX/Inbox.md",
-    "02_AREAS/BAJO/Teoria Musical/Guía de Estudio - Teoría del Bajo.md",
+    "03_RESOURCES/Obsidian/Introducción a Obsidian/03 Flujos de trabajo/Sistema PARA.md",
+    "00_JARDIN DIGITAL/04❄️ Calma/Smart connections con Ollama.md",
+    "00_JARDIN DIGITAL/04❄️ Calma/Realizar un CURRICULUM VITAE.md",
+    "00_JARDIN DIGITAL/04❄️ Calma/Google Calendar + Obsidian.md",
+    "00_JARDIN DIGITAL/04❄️ Calma/Choose your life.md",
+    "00_JARDIN DIGITAL/04❄️ Calma/Aprender Flowise.md",
+    "Smart Connections.md",
+    "02_AREAS/Aprendizaje/Ingles B2/Grammar/Wishes and Regrets (B2).md",
+    "02_AREAS/Kirola/Rutina/Entrenamiento 2.md",
     "02_AREAS/Kirola/Rutina/Entrenamiento 1.md",
+    "02_AREAS/Kirola/Rutina/Entrenamiento 3.md",
+    "00_JARDIN DIGITAL/03🌳 Arboles/Optimizar Claude/04 -Obtener Instrucciones Claude.md",
+    "00_JARDIN DIGITAL/03🌳 Arboles/Optimizar Claude/03 - Contexto Programación Claude.md",
+    "00_JARDIN DIGITAL/03🌳 Arboles/Optimizar Claude/01 - Exprimir Claude.md",
+    "Exprimir-Claude-20-dolares.md",
+    "000_INBOX/Tareas + Inbox.canvas",
+    "04_ARCHIVE/CertificadoPracticas_Convalidar.pdf",
+    "04_ARCHIVE/Por que tengo que ver esta pelicula - Alejandro G Calvo.pdf",
+    "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
+    "03_RESOURCES/Obsidian/Gemini/Como usar Gemini CLI.md",
+    "03_RESOURCES/Obsidian/Gemini/Ventajas de Gemini CLI.md",
+    "03_RESOURCES/Obsidian/Gemini/GEMINI.md",
+    "03_RESOURCES/Obsidian/Gemini",
+    "00_JARDIN DIGITAL/02🌿 Brotes/Shopping list recorder - AI.md",
+    "00_JARDIN DIGITAL/03🌳 Arboles",
+    "04_ARCHIVE/CertificadoPracticas_Convalidar.pdf.crswap",
+    "02_AREAS/Kirola/Rutina/DOCS/Rutina Aitzolo.pdf",
     "02_AREAS/Kirola/Rutina/DOCS/Escala RPE.pdf",
-    "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/04 -Obtener Instrucciones Claude.md",
-    "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/03 - Contexto Programación Claude.md",
-    "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/02 - Instrucciones Claude.md",
-    "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/01 - Exprimir Claude.md",
-    "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude",
+    "00_JARDIN DIGITAL/03🌳 Arboles/Optimizar Claude",
     "02_AREAS/TimeStamp",
-    "000_INBOX/Dashboards/Cine.md",
-    "03_RESOURCES/Cine/Películas/Dunquerque.md",
-    "03_RESOURCES/Cine/Películas/Jackie Brown.md",
-    "03_RESOURCES/Cine/Películas/Reservoir Dogs.md",
-    "03_RESOURCES/Cine/00_Tareas_Cine.md",
-    "02_AREAS/Finanzas/💰 Finanzas MOC.md",
-    "02_AREAS/Finanzas/✅ Tareas de Configuración.md",
-    "02_AREAS/Finanzas/Control de Gastos 2026.md",
-    "02_AREAS/Finanzas/📚 Educación Financiera.md",
-    "000_INBOX/Dashboards/Plan Semanal.md",
-    "03_RESOURCES/Compras/Otros/Goma.md",
-    "03_RESOURCES/Compras/🛍️ Compras MOC.md",
-    "01_PROJECTS/Think and Do it/🗺️ ThinkAndDoIT — MOC.md",
-    "01_PROJECTS/Think and Do it/📄 Documentos/config.properties.md",
-    "02_AREAS/Kirola/Rutina/DOCS",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260502162911.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260502162524.png",
-    "03_RESOURCES/Compras/Compras.base",
-    "03_RESOURCES/Compras/Otros",
-    "03_RESOURCES/Compras/Ropa",
-    "03_RESOURCES/Compras/Tecnologia",
-    "03_RESOURCES/Compras",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png",
     "Untitled.canvas",
     "000_INBOX/Adjuntos/Pasted image 20260426162213.png",

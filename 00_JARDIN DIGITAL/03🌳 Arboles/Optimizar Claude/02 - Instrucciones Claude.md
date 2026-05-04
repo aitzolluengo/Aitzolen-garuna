@@ -6,7 +6,7 @@ aliases: [Las 13 instrucciones, Reglas para Claude Code]
 # Las 13 Instrucciones para Optimizar Claude
 
 > [!NOTE] Enlace relacionado
-> Esta nota forma parte de [[Exprimir-Claude-20-dolares]].
+> Esta nota forma parte de [[01 - Exprimir Claude]].
 
 Aquí tienes la lista detallada de cada instrucción mencionada en el video, con su explicación de por qué es importante:
 

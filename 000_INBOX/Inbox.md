@@ -23,16 +23,17 @@ tags:
 
 ## Captura rapida
 
-- [x] Ingresar 150 euros 🔁 every month on the 📅 ✅ 2026-05-03
+
 - [ ] Importar libro de Alejandro G. Calvo con Notebook ⏬ --> [[NotebookLM libros]]  #cine 
 - [ ] Configurar OpenRouter con nvidia #aprendizaje 
-- [ ] Procesar video https://www.youtube.com/watch?v=Ebsbmze-hXA #aprendizaje 
-- [ ] Imprimir certificado de practicas #universidad 📅 2026-05-05 
+
 ## Tareas activas
 
 
 ## Tareas completadas (procesar el domingo)
-
+- [x] Ingresar 150 euros 🔁 every month on the 📅 ✅ 2026-05-03
+- [x] Procesar video https://www.youtube.com/watch?v=Ebsbmze-hXA #aprendizaje ✅ 2026-05-04
+- [x] Imprimir certificado de practicas #universidad 📅 2026-05-05 ✅ 2026-05-04
 
 ## Relacionado
 
