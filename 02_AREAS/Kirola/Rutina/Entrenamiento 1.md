@@ -18,8 +18,8 @@ Dentro de los 3 minutos hacer los dos ejercicios y el tiempo que quede descanso 
 - Snatch 2DB                                  12 
 
 
-## 3 Rounds for time (Time cap : 21 min)
-Hacer todo lo que pueda en 21 minutos, hago una ronda descanso 30segs y a por la siguiente: Estimadamente da 3 rondas
+## 3 Rounds for time (Time cap : 18 min)
+Hacer todo lo que pueda en 18 minutos, hago una ronda descanso 30segs y a por la siguiente: Estimadamente da 3 rondas
 
 | Ejercicio                                                                                                                                          | Reps       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |

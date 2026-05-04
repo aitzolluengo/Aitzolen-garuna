@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/04 -Obtener Instrucciones Claude.md",
+                "file": "02_AREAS/Kirola/Rutina/Entrenamiento 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "04 -Obtener Instrucciones Claude"
+              "title": "Entrenamiento 1"
             }
           }
         ],
@@ -230,13 +230,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e242e46f6d91ff83",
+  "active": "b6af79aa022019bc",
   "lastOpenFiles": [
+    "02_AREAS/Kirola/Rutina/DOCS/Escala RPE.pdf",
+    "02_AREAS/Kirola/Rutina/Entrenamiento 1.md",
+    "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/04 -Obtener Instrucciones Claude.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/03 - Contexto Programación Claude.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/02 - Instrucciones Claude.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/01 - Exprimir Claude.md",
     "000_INBOX/Inbox.md",
-    "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/04 -Obtener Instrucciones Claude.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude",
     "02_AREAS/TimeStamp",
     "000_INBOX/Dashboards/Cine.md",
@@ -258,7 +260,6 @@
     "00_JARDIN DIGITAL/02🌿 Brotes/Gestión de Ropa.md",
     "02_AREAS/Kirola/00_TAREAS.md",
     "02_AREAS/BAJO/Teoria Musical/Guía de Estudio - Teoría del Bajo.md",
-    "03_RESOURCES/Obsidian/Introducción a Obsidian/03 Flujos de trabajo/Gestion de tareas.md",
     "02_AREAS/Kirola/Rutina/DOCS/Rutina Aitzolo.pdf",
     "02_AREAS/Kirola/Rutina/DOCS",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260502162911.png",
