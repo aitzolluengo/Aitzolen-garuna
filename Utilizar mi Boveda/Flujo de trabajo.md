@@ -26,7 +26,7 @@ Para apuntar tareas cotidianas, ideas varias o apuntes que tengo que hacer, abro
 
 ### Para ver tareas pendientes
 
-NO uso `Inbox.md` para ver lo que tengo que hacer. Para eso abro [[Dashboards/Tareas]], que muestra **todas** las tareas de **todo el vault** ordenadas por:
+NO uso `Inbox.md` para ver lo que tengo que hacer. Para eso abro [[000_INBOX/Tareas]], que muestra **todas** las tareas de **todo el vault** ordenadas por:
 - Hoy
 - Esta semana
 - Atrasadas
@@ -79,7 +79,7 @@ Para ver tareas filtradas por proyecto, abre la nota del proyecto:
 - [[Tareas TFG]] — solo tareas con `#tfg`
 - [[Tareas Rowing]] — solo tareas con `#rowing`
 
-Para verlas todas agrupadas por proyecto, abre [[Dashboards/Tareas]].
+Para verlas todas agrupadas por proyecto, abre [[000_INBOX/Tareas]].
 
 ---
 
@@ -150,7 +150,7 @@ Notas mientras escucho el podcast XYZ:
 - [ ] Repasar lo apuntado mañana 📅 2026-04-30
 ```
 
-La nota va a `02_AREAS/Aprendizaje/`. La tarea `- [ ]` aparece igualmente en el [[Dashboards/Tareas]] gracias al plugin Tasks.
+La nota va a `02_AREAS/Aprendizaje/`. La tarea `- [ ]` aparece igualmente en el [[000_INBOX/Tareas]] gracias al plugin Tasks.
 
 ### Tarea recurrente diaria que solo aplica un día
 Mejor sin recurrencia. Las recurrencias son para cosas estables.
@@ -163,6 +163,6 @@ No pasa nada. Al siguiente recojo lo de las dos semanas. Lo grave es pasar de **
 ## Relacionado
 
 - [[Inbox]] — punto de captura
-- [[Dashboards/Tareas]] — vista global de tareas
+- [[000_INBOX/Tareas]] — vista global de tareas
 - [[Dashboards/Plan Semanal]] — qué hacer esta semana
 - [[CLAUDE]] — contexto para la IA

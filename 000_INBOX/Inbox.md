@@ -24,7 +24,7 @@ tags:
 ## Captura rapida
 
 - [x] Ingresar 150 euros 🔁 every month on the 📅 ✅ 2026-05-03
-- [ ] Importar libro de Alejandro G. Calvo ⏬ #cine 
+- [ ] Importar libro de Alejandro G. Calvo con Notebook ⏬ --> [[NotebookLM libros]]  #cine 
 - [ ] Configurar OpenRouter con nvidia #aprendizaje 
 - [ ] Procesar video https://www.youtube.com/watch?v=Ebsbmze-hXA #aprendizaje 
 ## Tareas activas
@@ -35,5 +35,5 @@ tags:
 
 ## Relacionado
 
-- [[Dashboards/Tareas]]
+- [[000_INBOX/Tareas]]
 - [[Flujo de trabajo]]

@@ -327,6 +327,6 @@ Si entiendo eso, el resto es decoración.
 - [[Casos prácticos]] — **manual operativo "qué hago cuando…"** (situaciones reales)
 - [[Flujo de trabajo]] — la versión corta de §3, §5 y §9
 - [[Inbox]] — punto de captura
-- [[Dashboards/Tareas]] — vista global
+- [[000_INBOX/Tareas]] — vista global
 - [[Tareas TFG]] · [[Tareas Rowing]] — vistas por proyecto
 - [[CLAUDE]] — contexto del vault para Claude Code

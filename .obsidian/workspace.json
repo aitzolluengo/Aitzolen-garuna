@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_AREAS/Kirola/Rutina/Entrenamiento 1.md",
+                "file": "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Entrenamiento 1"
+              "title": "🌿 Jardin de Ideas"
             }
           }
         ],
@@ -230,15 +230,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b6af79aa022019bc",
+  "active": "e242e46f6d91ff83",
   "lastOpenFiles": [
-    "02_AREAS/Kirola/Rutina/DOCS/Escala RPE.pdf",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA - Curador de JARDIN Digital.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/NotebookLM Libros.md",
+    "000_INBOX/Inbox.md",
+    "000_INBOX/Tareas.md",
+    "02_AREAS/BAJO/Teoria Musical/Guía de Estudio - Teoría del Bajo.md",
     "02_AREAS/Kirola/Rutina/Entrenamiento 1.md",
+    "02_AREAS/Kirola/Rutina/DOCS/Escala RPE.pdf",
     "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/04 -Obtener Instrucciones Claude.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/03 - Contexto Programación Claude.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/02 - Instrucciones Claude.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/01 - Exprimir Claude.md",
-    "000_INBOX/Inbox.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude",
     "02_AREAS/TimeStamp",
     "000_INBOX/Dashboards/Cine.md",
@@ -246,7 +250,6 @@
     "03_RESOURCES/Cine/Películas/Jackie Brown.md",
     "03_RESOURCES/Cine/Películas/Reservoir Dogs.md",
     "03_RESOURCES/Cine/00_Tareas_Cine.md",
-    "000_INBOX/Dashboards/Tareas.md",
     "02_AREAS/Finanzas/💰 Finanzas MOC.md",
     "02_AREAS/Finanzas/✅ Tareas de Configuración.md",
     "02_AREAS/Finanzas/Control de Gastos 2026.md",
@@ -258,8 +261,6 @@
     "01_PROJECTS/Think and Do it/📄 Documentos/config.properties.md",
     "02_AREAS/Aprendizaje/Ingles B2/Ingles B2 - MOC.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Gestión de Ropa.md",
-    "02_AREAS/Kirola/00_TAREAS.md",
-    "02_AREAS/BAJO/Teoria Musical/Guía de Estudio - Teoría del Bajo.md",
     "02_AREAS/Kirola/Rutina/DOCS/Rutina Aitzolo.pdf",
     "02_AREAS/Kirola/Rutina/DOCS",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260502162911.png",
@@ -269,7 +270,6 @@
     "03_RESOURCES/Compras/Ropa",
     "03_RESOURCES/Compras/Tecnologia",
     "03_RESOURCES/Compras",
-    "000_INBOX/Plantillas/Compras",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png",
     "Untitled.canvas",
     "000_INBOX/Adjuntos/Pasted image 20260426162213.png",

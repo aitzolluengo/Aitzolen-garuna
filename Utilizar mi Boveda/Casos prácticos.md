@@ -339,5 +339,5 @@ Eso resuelve el 80% de las situaciones.
 - [[Cómo usar este vault]] — manual completo del sistema
 - [[Flujo de trabajo]] — proceso de tareas y revisión
 - [[Inbox]] — punto de captura
-- [[Dashboards/Tareas]] — vista global
+- [[000_INBOX/Tareas]] — vista global
 - [[CLAUDE]] — contexto del vault para Claude Code

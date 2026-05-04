@@ -36,16 +36,6 @@ tags:
 
 > [!multi-column]
 >
->> [!calendar] Vista 7 Días
->> ```tasks
->> not done
->> happens after tomorrow
->> happens before in 8 days
->> sort by happens
->> hide edit button
->> hide backlinks
->> ```
->
 >> [!question] ❓ Sin Procesar (Sin Tag)
 >> ```tasks
 >> not done

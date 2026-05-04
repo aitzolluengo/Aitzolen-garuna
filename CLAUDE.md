@@ -29,7 +29,7 @@ Este vault es un sistema personal de gestión del conocimiento en Obsidian. Cuan
 
 - Las **tareas son checkboxes** con el formato del plugin Tasks: `- [ ] cosa 📅 2026-05-02 ⏫ #tag`.
 - **Crear nuevas tareas:** dentro de `Inbox.md` o, si tienen contexto largo, dentro de la nota del proyecto/área que les corresponde.
-- **Vista global:** [[Dashboards/Tareas]] muestra todas las tareas del vault con queries del plugin Tasks (Hoy, Esta semana, Atrasadas, Sin fecha, Prioridad alta, Completadas).
+- **Vista global:** [[000_INBOX/Tareas]] muestra todas las tareas del vault con queries del plugin Tasks (Hoy, Esta semana, Atrasadas, Sin fecha, Prioridad alta, Completadas).
 - **No usar TaskNotes** — las tareas no son notas individuales, son items dentro de notas.
 - **Procesamiento semanal:** lo capturado en Inbox se mueve a su proyecto/área correspondiente o se archiva.
 
