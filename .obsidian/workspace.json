@@ -11,24 +11,10 @@
             "id": "28a157110eca1692",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_PROJECTS/Think and Do it/🗓️ Planificacion/Roadmap — Mejoras Futuras.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Roadmap — Mejoras Futuras"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -242,8 +228,8 @@
   },
   "active": "28a157110eca1692",
   "lastOpenFiles": [
-    "01_PROJECTS/Think and Do it/🗓️ Planificacion/Roadmap v2.md",
     "01_PROJECTS/Think and Do it/🗓️ Planificacion/Roadmap — Mejoras Futuras.md",
+    "01_PROJECTS/Think and Do it/🗓️ Planificacion/Roadmap v2.md",
     "00_JARDIN DIGITAL/03🌳 Arboles/Optimizar Claude/02 - Instrucciones Claude.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Organización del Bajo.md",
     "000_INBOX/00_Sin_procesar",

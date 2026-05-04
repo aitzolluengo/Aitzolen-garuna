@@ -43,10 +43,10 @@
       }
     },
     {
-      "query": "path:03_RESOURCES  ",
+      "query": "path:03_RESOURCES/Obsidian  ",
       "color": {
         "a": 1,
-        "rgb": 14701214
+        "rgb": 10066329
       }
     },
     {
@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 6381921
       }
+    },
+    {
+      "query": "path:03_RESOURCES/Cine  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701254
+      }
     }
   ],
   "collapse-display": true,
@@ -88,6 +95,6 @@
   "repelStrength": 7.13541666666667,
   "linkStrength": 1,
   "linkDistance": 151,
-  "scale": 0.3213363860503597,
-  "close": true
+  "scale": 0.16348370567220524,
+  "close": false
 }
