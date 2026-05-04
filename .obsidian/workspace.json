@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4b2cd7dc5e6ff3c2",
+        "id": "6892ea895b3b9312",
         "type": "tabs",
         "children": [
           {
-            "id": "64cb1bf2676ec4d0",
+            "id": "ee488e97750e6272",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02_AREAS/Kirola/Rutina/DOCS/Rutina Aitzolo.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Rutina Aitzolo"
-            }
-          },
-          {
-            "id": "b6af79aa022019bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🌿 Jardin de Ideas"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,8 +203,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e242e46f6d91ff83",
+  "active": "ee488e97750e6272",
   "lastOpenFiles": [
+    "000_INBOX/Tareas + Inbox.canvas",
+    "02_AREAS/Kirola/Rutina/DOCS/Rutina Aitzolo.pdf",
+    "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA - Curador de JARDIN Digital.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/NotebookLM Libros.md",
     "000_INBOX/Inbox.md",
@@ -259,9 +235,6 @@
     "03_RESOURCES/Compras/🛍️ Compras MOC.md",
     "01_PROJECTS/Think and Do it/🗺️ ThinkAndDoIT — MOC.md",
     "01_PROJECTS/Think and Do it/📄 Documentos/config.properties.md",
-    "02_AREAS/Aprendizaje/Ingles B2/Ingles B2 - MOC.md",
-    "00_JARDIN DIGITAL/02🌿 Brotes/Gestión de Ropa.md",
-    "02_AREAS/Kirola/Rutina/DOCS/Rutina Aitzolo.pdf",
     "02_AREAS/Kirola/Rutina/DOCS",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260502162911.png",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260502162524.png",

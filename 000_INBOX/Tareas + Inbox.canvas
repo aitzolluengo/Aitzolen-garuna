@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"8d630c829d2fadec","type":"file","file":"00_JARDIN DIGITAL/🌿 Jardin de Ideas.md","x":-440,"y":-480,"width":260,"height":300},
+		{"id":"013a2ac455571d08","x":40,"y":-1800,"width":400,"height":1040,"type":"file","file":"000_INBOX/Inbox.md"},
+		{"id":"4bd1ebaeadb73bfe","x":-400,"y":-1800,"width":400,"height":1040,"type":"file","file":"000_INBOX/Tareas.md"}
+	],
+	"edges":[]
+}
