@@ -11,10 +11,24 @@
             "id": "ee488e97750e6272",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "000_INBOX/Inbox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Inbox"
             }
           }
         ]
@@ -203,15 +217,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ee488e97750e6272",
+  "active": "40594b64776e0943",
   "lastOpenFiles": [
+    "000_INBOX/Tareas.md",
     "000_INBOX/Tareas + Inbox.canvas",
     "02_AREAS/Kirola/Rutina/DOCS/Rutina Aitzolo.pdf",
     "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA - Curador de JARDIN Digital.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/NotebookLM Libros.md",
     "000_INBOX/Inbox.md",
-    "000_INBOX/Tareas.md",
     "02_AREAS/BAJO/Teoria Musical/Guía de Estudio - Teoría del Bajo.md",
     "02_AREAS/Kirola/Rutina/Entrenamiento 1.md",
     "02_AREAS/Kirola/Rutina/DOCS/Escala RPE.pdf",

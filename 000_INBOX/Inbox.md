@@ -27,6 +27,7 @@ tags:
 - [ ] Importar libro de Alejandro G. Calvo con Notebook ⏬ --> [[NotebookLM libros]]  #cine 
 - [ ] Configurar OpenRouter con nvidia #aprendizaje 
 - [ ] Procesar video https://www.youtube.com/watch?v=Ebsbmze-hXA #aprendizaje 
+- [ ] Imprimir certificado de practicas #universidad 📅 2026-05-05 
 ## Tareas activas
 
 
