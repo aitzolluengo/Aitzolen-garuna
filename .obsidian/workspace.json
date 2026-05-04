@@ -23,10 +23,24 @@
             "id": "b6af79aa022019bc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/04 -Obtener Instrucciones Claude.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "04 -Obtener Instrucciones Claude"
             }
           }
         ],
@@ -198,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,14 +230,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b6af79aa022019bc",
+  "active": "e242e46f6d91ff83",
   "lastOpenFiles": [
-    "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/Contexto Programación Claude.md",
-    "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/Obtener Instrucciones Claude.md",
-    "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude",
-    "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/Instrucciones Claude.md",
-    "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/Exprimir Claude.md",
+    "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/03 - Contexto Programación Claude.md",
+    "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/02 - Instrucciones Claude.md",
+    "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/01 - Exprimir Claude.md",
     "000_INBOX/Inbox.md",
+    "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude/04 -Obtener Instrucciones Claude.md",
+    "00_JARDIN DIGITAL/02🌿 Brotes/Optimizar Claude",
     "02_AREAS/TimeStamp",
     "000_INBOX/Dashboards/Cine.md",
     "03_RESOURCES/Cine/Películas/Dunquerque.md",
