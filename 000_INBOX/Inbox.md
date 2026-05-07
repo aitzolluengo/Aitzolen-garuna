@@ -26,6 +26,9 @@ tags:
 
 - [ ] Importar libro de Alejandro G. Calvo con Notebook ⏬ --> [[NotebookLM libros]]  #cine 
 - [ ] Configurar OpenRouter con nvidia #aprendizaje 
+- [ ] Regalo ama despertador es muy buena #compras
+- [ ] Cascos cable ⏳ 2026-05-07 #compras 
+- [ ] Probarme traje 🔼 ⏳ 2026-05-07 
 
 ## Tareas activas
 
