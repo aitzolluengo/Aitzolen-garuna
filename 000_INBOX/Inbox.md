@@ -29,6 +29,7 @@ tags:
 - [ ] Regalo ama despertador es muy buena #compras
 - [ ] Cascos cable ⏳ 2026-05-07 #compras 
 - [ ] Probarme traje 🔼 ⏳ 2026-05-07 
+- [ ] Gerriko verde⏳ 2026-05-07 
 
 ## Tareas activas
 
