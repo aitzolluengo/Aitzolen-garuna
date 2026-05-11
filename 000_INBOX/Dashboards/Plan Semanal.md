@@ -1,69 +1,47 @@
 ---
-fecha_inicio: 2026-04-29
-fecha_fin: 2026-05-05
+fecha_inicio: 2026-05-11
+fecha_fin: 2026-05-17
 tags:
   - plan/semanal
   - tareas
 ---
 
-# Plan Semanal (29 Abril - 5 Mayo 2026)
+# 📅 Plan de Combate Semanal (12 - 17 de Mayo)
 
-Este plan resume tus prioridades y tareas para lo que queda de semana, con un enfoque en el avance de tus proyectos, el desarrollo de tus áreas de interés y la práctica del inglés B2.
+> [!important] **Prioridades Críticas**
+> 1. 🔵 **TFG:** Entrega de puntos 2, 3 y EDTs (Viernes).
+> 2. 🟢 **Inglés B2:** Reading/Listening (Antes del Miércoles) y Writing (Antes del Viernes).
+> 3. ⚪ **Gestión:** Fisio, Sergio y Ahorros (Día 26).
 
-## 🚀 Think&DoIT (TFG)
+## ⏱️ Cronograma por Disponibilidad
 
-Tu proyecto de fin de grado es la prioridad principal.
+### Martes (Foco: Gestión + TFG 2 + Inglés)
+*Disponibilidad: 19:00 - 21:00*
+- [ ] ⚪ **Mañana (5 min):** Llamar al fisio.
+- [ ] 🔵 **19:00 - 20:15:** Corregir punto 2 TFG (Dejarlo cerrado).
+- [ ] 🟢 **20:15 - 21:00:** Test *Reading and Use of English* (Deadline: Mañana).
 
-*   **Revisar y Apuntar dudas del TFG:** Organiza las dudas que te hayan surgido recientemente.
-*   **Mandar punto 2 documentacion TFG:** Asegúrate de enviar la documentación pendiente.
-*   **Continuar con próximas funcionalidades:** Prioriza una de las siguientes, según el plan:
-    *   Entregas del alumno
-    *   Historial de chat persistente en BD
-    *   Estadísticas reales en las stat-cards
-*   **Revisa las notas de sesión recientes:** `[[2026-04-26 — Generacion IA y Prompt]]`, `[[2026-04-28 — Mejoras UI Profesional]]`
-*   **Revisa la reunión:** `[[2026-04-28 — Bilera Tutorearekin]]`
+### Miércoles (Foco: Inglés + Gráficos)
+*Disponibilidad: 15:00 - 16:30*
+- [ ] 🟢 **15:00 - 15:45:** Test *Listening*.
+- [ ] 🔵 **15:45 - 16:15:** Acabar figura de EDTs del TFG.
+- [ ] ⚪ **16:15 - 16:30:** Contactar con Sergio (Alpargatas/Traje) + Pedir cita peluquería.
 
-## 🇬🇧 Inglés B2
+### Jueves (Foco: TFG Redacción)
+*Disponibilidad: 19:30 - 21:00*
+- [ ] 🔵 **19:30 - 21:00:** Redactar punto 3 TFG (A piñón para terminarlo).
 
-Es crucial practicar de forma constante.
-
-*   **Práctica de Writing:** Elige **uno** de los siguientes para practicar esta semana:
-    *   Un **Essay** (mínimo una vez). Revisa `[[Essay Structure]]`.
-    *   Una **Formal Letter** o un **Report** (si no haces essay). Revisa `[[Formal Letter Structure]]` o `[[Report Structure]]`.
-*   **Revisión Gramatical:** Elige **1 o 2 estructuras gramaticales** nuevas o que te resulten más difíciles y repásalas:
-    *   `[[Conditionals (B2)]]`
-    *   `[[Wishes and Regrets (B2)]]`
-    *   `[[Inversions (B2)]]`
-    *   Recuerda buscar los vídeos de YouTube recomendados en cada nota.
-
-## 🌱 Jardín Digital - Ideas y Reflexiones
-
-Dedica tiempo a nutrir tus ideas.
-
-*   **01🌱 Semillas:**
-    *   Revisa `[[Documentar nombres técnicos de mi rutina]]` y `[[Organización del Bajo]]`. ¿Puedes añadir algo más?
-*   **02🌿 Brotes:**
-    *   Revisa `[[Segundo cerebro]]`. ¿Hay algo más que necesites investigar sobre IA local o Zettelkasten?
-*   **04❄️ Calma:**
-    *   Mira `[[Choose your life]]` y `[[Smart connections con Ollama]]`. ¿Hay alguna acción que puedas realizar para desaparcarlas o moverlas a "Brotes"?
-
-## ✅ Tareas Pendientes Generales (INBOX)
-
-Asegúrate de que estas tareas no se queden atrás.
-
-*   **Documentar entrenamientos de forma correcta:** Relacionado con tu área de Kirola.
-*   **Escuchar Audios Erlantz.**
-*   **Ir a foto antonio.**
-*   **Listening 29 abril.**
-*   **Ver trainspotting 2:** Relacionado con tu interés en cine.
-*   **Writing:** Tarea general de escritura.
-
-## 🚣 Otros Proyectos y Áreas
-
-*   **Rowing Fantasy:** Es un proyecto en `[priority:: lowest]`, pero documentarlo y compartirlo (`[[Tareas Rowing Fantasy]]`) podría ser un buen avance.
-*   **Kirola:** Asegúrate de seguir tus `[[Entrenamiento 1]]` y `[[Entrenamiento 2]]` según tu rutina.
-*   **BAJO / Música:** Revisa el archivo `[[Teo]]` en `Teoria Musical`. Si bien está vacío, ¿hay algún concepto que quieras empezar a añadir?
+### Viernes (Foco: Writing + Entrega)
+*Disponibilidad: 15:00 - 16:30*
+- [ ] 🟢 **15:00 - 16:00:** Realizar *Writing* de inglés.
+- [ ] 🔵 **16:00 - 16:30:** Revisión final punto 3 y **ENTREGA TFG**.
 
 ---
 
-**Recordatorio:** Este es un plan sugerido. Adapta las tareas a tu disponibilidad y energía. Prioriza siempre lo más crítico para tu TFG y B2.
+## 📥 Inbox & Pendientes (Hacer en huecos o Domingo)
+- [ ] 🔴 **Cine:** Registrar pelis: *Michael, El pianista, Sleepers, Projecto Salvación*.
+- [ ] ⚪ **Ahorros:** Ingresar 120€ (Día 26).
+- [ ] 📥 **Procesar Inbox:** Cada domingo.
+
+---
+**Nota:** Este plan está ajustado a tus huecos reales. Si algo falla un día, lo movemos al siguiente hueco disponible. ¡A por ello!

@@ -27,13 +27,10 @@ tags:
 - [ ] Importar libro de Alejandro G. Calvo con Notebook ⏬ --> [[NotebookLM libros]]  #cine 
 - [ ] Regalo ama despertador es muy buena #compras
 - [ ] Cascos cable ⏳ 2026-05-07 #compras 
-<<<<<<< HEAD
 - [ ] Repasar Wishes, los likely #ingles 
-=======
-- [ ] Repasar Wishes, los likely #ingles
->>>>>>> origin/main
 - [ ] Hacer Part 5, 6 y 7 del Test 1 --> [[cambridge_english_first_3.pdf]] 📅 2026-05-10 🔼 #ingles 
-- [ ] Enviar correo a Cristina con el PDF #ingles 
+- [ ] Revisar documentación 2,3 #tfg ⏳ 2026-05-11 
+- [ ] Registrar pelis #cine 
 
 ## Tareas activas
 

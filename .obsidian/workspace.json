@@ -35,14 +35,24 @@
             "id": "1bba4c0c174c9bb6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "01_PROJECTS/Think and Do it/📅 Sesiones/2026-05-05 - Integración OPEN AI y entrega de ejercicios.md",
-                "bFile": "01_PROJECTS/Think and Do it/📅 Sesiones/2026-05-05 - Integración OPEN AI y entrega de ejercicios.md",
-                "aRef": ""
+                "file": "000_INBOX/Dashboards/Plan Semanal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: 2026-05-05 - Integración OPEN AI y entrega de ejercicios  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Plan Semanal"
             }
           }
         ],
@@ -255,10 +265,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e68511f443c36bc5",
+  "active": "1bba4c0c174c9bb6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "000_INBOX/Inbox.md",
+    "000_INBOX/Dashboards/Plan Semanal.md",
+    "conflict-files-obsidian-git.md",
     "000_INBOX/Tareas.md",
     "02_AREAS/Aprendizaje/Ingles B2/01_Reading and Use of English",
     "02_AREAS/Aprendizaje/Ingles B2/01_Reading and Use of English/Cambridge First 3 - Resultados.md",

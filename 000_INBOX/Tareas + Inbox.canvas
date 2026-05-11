@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"013a2ac455571d08","type":"file","file":"000_INBOX/Inbox.md","x":40,"y":-1800,"width":400,"height":1040,"color":"1"},
-		{"id":"4bd1ebaeadb73bfe","type":"file","file":"000_INBOX/Tareas.md","x":-380,"y":-1800,"width":400,"height":1040,"color":"3"}
-	],
-	"edges":[]
-}
