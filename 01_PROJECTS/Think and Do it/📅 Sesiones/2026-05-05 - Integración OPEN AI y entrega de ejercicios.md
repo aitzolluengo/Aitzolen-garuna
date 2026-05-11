@@ -95,6 +95,6 @@ Redactado y entregado en LaTeX con tres subsecciones:
 
 Según el ROADMAP_10.md, queda pendiente:
 
-- [ ] Migrar Groq → Claude en `ChatServlet.java` y `GenerarEjercicioServlet.java`
-- [ ] Estadísticas de clase para el profesor (Bloque 4)
-- [ ] UX mejoras: badges IA generado, alertas fecha límite, toast al corregir (Bloque 5)
+- [x] Migrar Groq → Claude en `ChatServlet.java` y `GenerarEjercicioServlet.java` ✅ 2026-05-10
+- [x] Estadísticas de clase para el profesor (Bloque 4) ✅ 2026-05-10
+- [x] UX mejoras: badges IA generado, alertas fecha límite, toast al corregir (Bloque 5) ✅ 2026-05-10
