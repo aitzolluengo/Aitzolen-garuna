@@ -17,17 +17,17 @@ tags:
 
 ### Martes (Foco: Gestión + TFG 2 + Inglés)
 *Disponibilidad: 19:00 - 21:00*
-- [ ] ⚪ **Mañana (5 min):** Llamar al fisio.
-- [ ] 🔵 **19:00 - 20:15:** Corregir punto 2 TFG (Dejarlo cerrado).
+- [x] ⚪ **Mañana (5 min):** Llamar al fisio. ✅ 2026-05-12
+- [x] 🔵 **19:00 - 20:15:** Corregir punto 2 TFG (Dejarlo cerrado). ✅ 2026-05-12
 	- [x] Corregir saltos de línea ✅ 2026-05-12
-	- [ ] Crear Diagrama EDT (editar lo que está hecho)
-- [ ] 🟢 **20:15 - 21:00:** Test *Reading and Use of English* (Deadline: Mañana).
+	- [x] Crear Diagrama EDT (editar lo que está hecho) ✅ 2026-05-12
+- [x] 🟢 **20:15 - 21:00:** Test *Reading and Use of English* (Deadline: Mañana). ✅ 2026-05-12
 
 ### Miércoles (Foco: Inglés + Gráficos)
 *Disponibilidad: 15:00 - 16:30*
 - [ ] 🟢 **15:00 - 15:45:** Test *Listening*.
-- [ ] 🔵 **15:45 - 16:15:** Acabar figura de EDTs del TFG. 
-	- [ ] Editar el resto
+- [x] 🔵 **15:45 - 16:15:** Acabar figura de EDTs del TFG. ✅ 2026-05-12
+	- [x] Editar el resto ✅ 2026-05-12
 - [ ] ⚪ **16:15 - 16:30:** Contactar con Sergio (Alpargatas/Traje) + Pedir cita peluquería.
 
 ### Jueves (Foco: TFG Redacción)
