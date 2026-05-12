@@ -19,7 +19,7 @@ tags:
 *Disponibilidad: 19:00 - 21:00*
 - [ ] ⚪ **Mañana (5 min):** Llamar al fisio.
 - [ ] 🔵 **19:00 - 20:15:** Corregir punto 2 TFG (Dejarlo cerrado).
-	- [ ] Corregir saltos de línea
+	- [x] Corregir saltos de línea ✅ 2026-05-12
 	- [ ] Crear Diagrama EDT (editar lo que está hecho)
 - [ ] 🟢 **20:15 - 21:00:** Test *Reading and Use of English* (Deadline: Mañana).
 
@@ -33,7 +33,7 @@ tags:
 ### Jueves (Foco: TFG Redacción)
 *Disponibilidad: 19:30 - 21:00*
 - [ ] 🔵 **19:30 - 21:00:** Redactar punto 3 TFG 
-	- [ ] Ir parrafo por parrafo
+	- [x] Ir parrafo por parrafo ✅ 2026-05-12
 	- [ ] Pedir nuevas ideas a la IA
 	- [ ] Leer en voz alta si suena convincente
 

@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_INBOX/Inbox.md",
+                "file": "000_INBOX/Dashboards/Plan Semanal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -75,7 +75,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "Plan Semanal"
             }
           }
         ],
@@ -241,8 +241,9 @@
   },
   "active": "3fbf963730e9ab39",
   "lastOpenFiles": [
-    "02_AREAS/Kirola/Rutina/Entrenamiento 3.md",
     "000_INBOX/Inbox.md",
+    "000_INBOX/Dashboards/Plan Semanal.md",
+    "02_AREAS/Kirola/Rutina/Entrenamiento 3.md",
     "02_AREAS/Aprendizaje/Ingles B2/cambridge_english_first_3.pdf",
     "02_AREAS/Aprendizaje/Ingles B2/01_Reading and Use of English/Cambridge First 3 - Resultados.md",
     "02_AREAS/Aprendizaje/Ingles B2/01_Reading and Use of English",
@@ -282,7 +283,6 @@
     "00_INBOX/Templates/Cine/Película.md",
     "00_INBOX/Templates/Cine/Director.md",
     "00_INBOX/Templates/Cine/Actor.md",
-    "00_INBOX/Templates/Areas/Música/Canción.md",
-    "00_INBOX/Ejemplo de Kanba.md"
+    "00_INBOX/Templates/Areas/Música/Canción.md"
   ]
 }

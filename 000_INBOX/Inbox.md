@@ -31,14 +31,11 @@ tags:
 - [ ] Hacer Part 5, 6 y 7 del Test 1 --> [[cambridge_english_first_3.pdf]] 📅 2026-05-10 🔼 #ingles 
 - [ ] Revisar documentación 2,3 #tfg ⏳ 2026-05-11 
 - [ ] Registrar pelis #cine 
+- [ ] Crear una linea de bajo como la canción Brown shoes de Sing street #musica/idea 
 
 ## Tareas activas
 
-
 ## Tareas completadas (procesar el domingo)
-- [x] Ingresar 150 euros 🔁 every month on the 📅 ✅ 2026-05-03
-- [x] Procesar video https://www.youtube.com/watch?v=Ebsbmze-hXA #aprendizaje ✅ 2026-05-04
-- [x] Imprimir certificado de practicas #universidad 📅 2026-05-05 ✅ 2026-05-04
 
 ## Relacionado
 
