@@ -23,6 +23,8 @@ tags:
 
 ## Captura rapida
 
+- [ ] 🏥 Fisio 📅 2026-05-21 ⏰ 15:00 #personal
+
 
 - [ ] Importar libro de Alejandro G. Calvo con Notebook ⏬ --> [[NotebookLM libros]]  #cine 
 - [ ] Regalo ama despertador es muy buena #compras

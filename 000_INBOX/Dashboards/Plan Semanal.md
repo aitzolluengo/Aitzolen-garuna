@@ -17,7 +17,7 @@ tags:
 
 ### Martes (Foco: Gestión + TFG 2 + Inglés)
 *Disponibilidad: 19:00 - 21:00*
-- [x] ⚪ **Mañana (5 min):** Llamar al fisio. ✅ 2026-05-12
+- [x] ⚪ **Mañana (5 min):** Llamar al fisio. ✅ 2026-05-12 → Cita: 21 Mayo 15:00
 - [x] 🔵 **19:00 - 20:15:** Corregir punto 2 TFG (Dejarlo cerrado). ✅ 2026-05-12
 	- [x] Corregir saltos de línea ✅ 2026-05-12
 	- [x] Crear Diagrama EDT (editar lo que está hecho) ✅ 2026-05-12
