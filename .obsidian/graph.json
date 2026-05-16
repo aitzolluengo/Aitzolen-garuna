@@ -5,83 +5,90 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
+    {
+      "query": "path:000_INBOX  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
     {
       "query": "path:01_PROJECTS  ",
       "color": {
         "a": 1,
-        "rgb": 655513
-      }
-    },
-    {
-      "query": "path:02_AREAS  ",
-      "color": {
-        "a": 1,
-        "rgb": 5562450
+        "rgb": 14725458
       }
     },
     {
       "query": "path:\"00_JARDIN DIGITAL/01🌱 Semillas\"  ",
       "color": {
         "a": 1,
-        "rgb": 14606418
+        "rgb": 11657298
       }
     },
     {
       "query": "path:\"00_JARDIN DIGITAL/02🌿 Brotes\"  ",
       "color": {
         "a": 1,
-        "rgb": 627977
-      }
-    },
-    {
-      "query": "path:\"00_JARDIN DIGITAL/03🌳 Arboles\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 19713
-      }
-    },
-    {
-      "query": "path:03_RESOURCES/Obsidian  ",
-      "color": {
-        "a": 1,
-        "rgb": 10066329
-      }
-    },
-    {
-      "query": "path:000_INBOX/Dashboards  ",
-      "color": {
-        "a": 1,
-        "rgb": 14680064
+        "rgb": 5431378
       }
     },
     {
       "query": "path:\"00_JARDIN DIGITAL/04❄️ Calma\"  ",
       "color": {
         "a": 1,
-        "rgb": 2870766
+        "rgb": 5431473
       }
     },
     {
-      "query": "path:000_INBOX/Plantillas  ",
+      "query": "path:\"00_JARDIN DIGITAL/03🌳 Arboles\"  ",
       "color": {
         "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "path:\"03_RESOURCES/Obsidian/Introducción a Obsidian\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6381921
+        "rgb": 18177
       }
     },
     {
       "query": "path:03_RESOURCES/Cine  ",
       "color": {
         "a": 1,
-        "rgb": 14701254
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:03_RESOURCES/Obsidian  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:02_AREAS/Música  ",
+      "color": {
+        "a": 1,
+        "rgb": 14745855
+      }
+    },
+    {
+      "query": "path:02_AREAS/BAJO  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431504
+      }
+    },
+    {
+      "query": "path:\"99_Utilizar mi Boveda\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:02_AREAS/Aprendizaje  ",
+      "color": {
+        "a": 1,
+        "rgb": 983270
       }
     }
   ],
@@ -90,16 +97,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.393229166666667,
-  "repelStrength": 7.13541666666667,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 151,
-<<<<<<< HEAD
-  "scale": 0.32133638605035963,
-  "close": true
-=======
-  "scale": 0.0831742783592756,
+  "linkDistance": 250,
+  "scale": 0.3628873693012123,
   "close": false
->>>>>>> origin/main
 }

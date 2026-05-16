@@ -34,13 +34,13 @@ tags:
 *Disponibilidad: 19:30 - 21:00*
 - [ ] 🔵 **19:30 - 21:00:** Redactar punto 3 TFG 
 	- [x] Ir parrafo por parrafo ✅ 2026-05-12
-	- [ ] Pedir nuevas ideas a la IA
-	- [ ] Leer en voz alta si suena convincente
+	- [x] Pedir nuevas ideas a la IA ✅ 2026-05-14
+	- [x] Leer en voz alta si suena convincente ✅ 2026-05-14
 
 ### Viernes (Foco: Writing + Entrega)
 *Disponibilidad: 15:00 - 16:30*
 - [ ] 🟢 **15:00 - 16:00:** Realizar *Writing* de inglés.
-- [ ] 🔵 **16:00 - 16:30:** Revisión final punto 3 y **ENTREGA TFG**.
+- [x] 🔵 **16:00 - 16:30:** Revisión final punto 3 y **ENTREGA TFG**. ✅ 2026-05-14
 
 ---
 
