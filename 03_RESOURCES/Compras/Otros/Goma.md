@@ -1,8 +1,10 @@
 ---
 tags:
   - compras/articulo
-tipo: kirola
+tipo: 🏠 Hogar
 estado: ⏳ Pendiente
+prioridad: 🔴 Alta
+plazo_objetivo: 2026-05
 marca: Decathlon
 categoria: Deporte
 precio: 15

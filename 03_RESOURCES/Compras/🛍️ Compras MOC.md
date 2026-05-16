@@ -3,48 +3,76 @@ tags:
   - compras/MOC
 ---
 
-# 🛍️ Compras & Inventario (MOC)
+# 🛍️ Compras — Panel de control
 
-Este es el centro de control para tus compras. Utiliza los tags `#compras/tecnologia`, `#compras/ropa`, etc., para que los artículos aparezcan aquí automáticamente.
+> Viabilidad calculada con tu [[💰 Finanzas|ahorro mensual]]. Rellena ese archivo primero.
 
 ---
 
-## 💻 Tecnología
+## 🔴 Alta prioridad
+
 ```dataview
-TABLE marca AS "Marca", precio AS "Precio", estado AS "Estado", enlace AS "Link"
-FROM #compras/tecnologia
-WHERE !contains(file.name, "Plantilla")
-SORT estado DESC, file.name ASC
+TABLE
+  precio AS "€",
+  plazo_objetivo AS "Plazo",
+  marca AS "Marca",
+  tipo AS "Tipo"
+FROM #compras/articulo
+WHERE estado = "⏳ Pendiente"
+  AND prioridad = "🔴 Alta"
+  AND !contains(file.name, "Plantilla")
+SORT plazo_objetivo ASC
 ```
 
 ---
 
-## 👕 Ropa
+## 🟡 Media prioridad
+
 ```dataview
-TABLE marca AS "Marca", precio AS "Precio", estado AS "Estado"
-FROM #compras/ropa
-WHERE !contains(file.name, "Plantilla")
-SORT estado DESC, file.name ASC
+TABLE
+  precio AS "€",
+  plazo_objetivo AS "Plazo",
+  marca AS "Marca",
+  tipo AS "Tipo"
+FROM #compras/articulo
+WHERE estado = "⏳ Pendiente"
+  AND prioridad = "🟡 Media"
+  AND !contains(file.name, "Plantilla")
+SORT plazo_objetivo ASC
 ```
 
 ---
 
-## 📦 Otros / Pendientes
+## 🟢 Caprichos / largo plazo
+
 ```dataview
-TABLE tipo AS "Tipo", precio AS "Precio", estado AS "Estado"
-FROM #compras/articulo AND !#compras/tecnologia AND !#compras/ropa
-WHERE !contains(file.name, "Plantilla")
-SORT file.name ASC
+TABLE
+  precio AS "€",
+  plazo_objetivo AS "Plazo",
+  marca AS "Marca",
+  tipo AS "Tipo"
+FROM #compras/articulo
+WHERE estado = "⏳ Pendiente"
+  AND prioridad = "🟢 Baja"
+  AND !contains(file.name, "Plantilla")
+SORT plazo_objetivo ASC
 ```
 
 ---
 
-## ✅ Historial de Compras (Completado)
+## ✅ Historial
+
 ```dataview
-LIST FROM #compras/articulo
-WHERE estado = "✅ Comprado" OR estado = "Comprado"
+TABLE
+  precio AS "€",
+  fecha_compra AS "Comprado",
+  marca AS "Marca"
+FROM #compras/articulo
+WHERE estado = "✅ Comprado"
+  AND !contains(file.name, "Plantilla")
 SORT fecha_compra DESC
 ```
 
 ---
-**Acciones:** [Add New Item](obsidian://advanced-uri?vault=Aitzolen%20garuna&template=000_INBOX/Plantillas/Compras/Articulo) | [[000_INBOX/Plantillas/Compras/Articulo|📄 Plantilla Artículo]]
+
+**Acciones:** [[000_INBOX/Plantillas/Compras/Articulo|➕ Nueva compra]] · [[💰 Finanzas|💰 Ver finanzas]]

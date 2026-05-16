@@ -1,7 +1,5 @@
 ---
-
-kanban-plugin: board
-
+kanban-plugin: list
 ---
 
 ## 🔴 Urgente
@@ -21,6 +19,7 @@ kanban-plugin: board
 
 - [ ] Pedir alpargatas @{2026-05-22}
 - [ ] Registrar 5 películas en Obsidian
+- [ ] Registrar Marty Supreme
 
 
 ## 💻 TFG — Código

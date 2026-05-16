@@ -1,6 +1,6 @@
 ---
 fecha: 2026-04-26
-madurez: 🌿
+madurez: 🌳
 contexto: personal
 tags:
   - jardin/brote

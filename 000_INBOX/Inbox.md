@@ -23,7 +23,7 @@ tags:
 
 ## Captura rapida
 
-- [ ] 🏥 Fisio 📅 2026-05-21 ⏰ 15:00 #personal
+- [x] 🏥 Fisio 📅 2026-05-21 ⏰ 15:00 #personal ✅ 2026-05-16
 
 
 - [ ] Importar libro de Alejandro G. Calvo con Notebook ⏬ --> [[NotebookLM libros]]  #cine 

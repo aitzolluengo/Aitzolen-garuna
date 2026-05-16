@@ -30,3 +30,5 @@ Aunque el video se enfoca en programación, la lógica subyacente aplica a cualq
 - **Contexto es caro:** La memoria de la IA es limitada y costosa; llenarla de información inútil degrada el rendimiento.
 - **Especificidad:** Cuanto más precisa sea la instrucción, menos "inventa" o "divaga" la IA.
 - **Mentalidad de ahorro:** Tratar cada interacción como si tuviera un costo computacional real (porque lo tiene en términos de límite de uso).
+
+[[🌿 Jardin de Ideas]]
