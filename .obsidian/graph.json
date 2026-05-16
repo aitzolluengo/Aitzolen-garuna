@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:000_INBOX  ",
@@ -90,6 +90,20 @@
         "a": 1,
         "rgb": 983270
       }
+    },
+    {
+      "query": "path:03_RESOURCES/Cine/Directores  ",
+      "color": {
+        "a": 1,
+        "rgb": 16488630
+      }
+    },
+    {
+      "query": "path:03_RESOURCES/Cine/Películas  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": true,
@@ -102,6 +116,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18462326225858167,
-  "close": false
+  "scale": 0.5087618855792603,
+  "close": true
 }

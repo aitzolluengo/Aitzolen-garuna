@@ -7,7 +7,7 @@ ahorro_actual: 100
 meta_ahorro_mensual: 100
 fecha_actualizacion: 2026-05-16
 ---
-un
+
 # 💰 Finanzas personales
 
 ---
