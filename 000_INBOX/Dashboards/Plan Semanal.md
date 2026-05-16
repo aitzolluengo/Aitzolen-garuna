@@ -1,77 +1,67 @@
 ---
-fecha_inicio: 2026-05-11
-fecha_fin: 2026-05-17
+fecha_inicio: 2026-05-16
+fecha_fin: 2026-05-22
 tags:
   - plan/semanal
   - tareas
 ---
 
-# 📅 Plan de Combate Semanal (12 - 17 de Mayo)
+# 📅 Plan de Combate Semanal (16 - 22 de Mayo)
 
 > [!important] **Prioridades Críticas**
-> 1. 🔵 **TFG:** Entrega de puntos 2, 3 y EDTs (Viernes).
-> 2. 🟢 **Inglés B2:** Reading/Listening (Antes del Miércoles) y Writing (Antes del Viernes).
-> 3. ⚪ **Gestión:** Fisio, Sergio y Ahorros (Día 26).
+> 1. 🔵 **TFG:** Punto 4 (Domingo). Mejoras de IA (esta semana).
+> 2. 🟢 **Inglés B2:** Listenings + Tarea (Miércoles) · Test completo (Viernes) · Writing pendiente semana pasada.
+> 3. ⚪ **Gestión:** Peluquero (Martes) · Alpargatas/Sergio (Viernes) · Fisio (Miércoles 21).
+
+---
 
 ## ⏱️ Cronograma por Disponibilidad
 
-### Martes (Foco: Gestión + TFG 2 + Inglés)
-*Disponibilidad: 19:00 - 21:00*
-- [x] ⚪ **Mañana (5 min):** Llamar al fisio. ✅ 2026-05-12 → Cita: 21 Mayo 15:00
-- [x] 🔵 **19:00 - 20:15:** Corregir punto 2 TFG (Dejarlo cerrado). ✅ 2026-05-12
-	- [x] Corregir saltos de línea ✅ 2026-05-12
-	- [x] Crear Diagrama EDT (editar lo que está hecho) ✅ 2026-05-12
-- [x] 🟢 **20:15 - 21:00:** Test *Reading and Use of English* (Deadline: Mañana). ✅ 2026-05-12
+### Sábado (Foco: TFG Punto 4)
+- [ ] 🔵 Avanzar Punto 4 TFG — deadline mañana 📅 2026-05-16 [priority:: high] #tfg
 
-### Miércoles (Foco: Inglés + Gráficos)
-*Disponibilidad: 15:00 - 16:30*
-- [ ] 🟢 **15:00 - 15:45:** Test *Listening*.
-- [x] 🔵 **15:45 - 16:15:** Acabar figura de EDTs del TFG. ✅ 2026-05-12
-	- [x] Editar el resto ✅ 2026-05-12
-- [ ] ⚪ **16:15 - 16:30:** Contactar con Sergio (Alpargatas/Traje) + Pedir cita peluquería.
+### Domingo (Foco: TFG Punto 4 — ENTREGA)
+- [ ] 🔵 Entregar Punto 4 TFG 📅 2026-05-17 [priority:: high] #tfg
 
-### Jueves (Foco: TFG Redacción)
-*Disponibilidad: 19:30 - 21:00*
-- [ ] 🔵 **19:30 - 21:00:** Redactar punto 3 TFG 
-	- [x] Ir parrafo por parrafo ✅ 2026-05-12
-	- [x] Pedir nuevas ideas a la IA ✅ 2026-05-14
-	- [x] Leer en voz alta si suena convincente ✅ 2026-05-14
+### Martes (Foco: Gestión)
+- [ ] ⚪ Llamar al peluquero 📅 2026-05-19 #personal
+- [ ] ⚪ Contactar con Sergio (alpargatas/traje) 📅 2026-05-19 #personal
 
-### Viernes (Foco: Writing + Entrega)
-*Disponibilidad: 15:00 - 16:30*
-- [ ] 🟢 **15:00 - 16:00:** Realizar *Writing* de inglés.
-- [x] 🔵 **16:00 - 16:30:** Revisión final punto 3 y **ENTREGA TFG**. ✅ 2026-05-14
+### Miércoles (Foco: Inglés + Fisio)
+- [ ] 🟢 Test Listening inglés 📅 2026-05-20 [priority:: high] #ingles
+- [ ] 🟢 Tarea de inglés 📅 2026-05-20 [priority:: high] #ingles
+- [ ] 🏥 Fisio ⏰ 15:00 📅 2026-05-21 #personal
+
+### Viernes (Foco: Inglés + Gestión)
+- [ ] 🟢 Test completo de inglés 📅 2026-05-22 [priority:: high] #ingles
+- [ ] ⚪ Pedir alpargatas 📅 2026-05-22 #personal
 
 ---
 
-### Fin de Semana (Foco: Orden, Finanzas y Ocio)
-*Disponibilidad: Mañanas libres*
-- [ ] 💰 **Finanzas (Sábado/Domingo Mañana):** 
-	- Definir Gastos Mensuales y Secundarios.
-	- Calcular Colchón de Ahorro.
-	- Estructurar el seguimiento en Obsidian.
-- [ ] 🔴 **Cine:** Registrar pelis: *Michael, El pianista, Sleepers, Projecto Salvación*.
-- [ ] 📥 **Procesar Inbox:** Revisión semanal completa.
+### Sin fecha urgente
+- [ ] 💻 Implementar mejoras de IA en TFG #tfg
+- [ ] 🟢 Writing de inglés (pendiente semana pasada) #ingles
+- [ ] 🟢 Repasar Wishes (likely) #ingles
+- [ ] 🔴 Registrar pelis en Obsidian #cine
+- [ ] 🎸 Crear línea de bajo estilo Brown Shoes (Sing Street) #musica/idea
+- [ ] 📚 Importar libro Alejandro G. Calvo con NotebookLM #cine
+- [ ] 💰 Finanzas — Gastos mensuales, colchón de ahorro, seguimiento en Obsidian #personal
 
 ---
 
-## ⏰ Configuración de Alarmas (Para tu móvil)
-*Para no tener que mirar el reloj y centrarte al 100%, ponte estas alarmas:*
-
-- **Martes:**
-	- `19:00` -> 🔵 Empezar TFG (Punto 2).
-	- `20:10` -> ⚠️ 5 min para cerrar TFG.
-	- `20:15` -> 🟢 Empezar Inglés (Reading).
-- **Miércoles:**
-	- `15:00` -> 🟢 Empezar Inglés (Listening).
-	- `15:45` -> 🔵 Empezar TFG (EDTs).
-	- `16:15` -> ⚪ Gestiones (Sergio/Pelu).
-- **Jueves:**
-	- `19:30` -> 🔵 Empezar TFG (Punto 3).
-	- `20:50` -> ⚠️ 10 min para cerrar.
-- **Viernes:**
-	- `15:00` -> 🟢 Empezar Inglés (Writing).
-	- `16:00` -> 🔵 Revisión final y ENTREGA.
+### Tareas vencidas a procesar
+- [ ] ~~Cascos cable~~ — ¿sigue vigente? #compras
+- [ ] Part 5, 6 y 7 del Test 1 inglés — ¿completado o mover? 📅 2026-05-22 #ingles
 
 ---
-**Nota:** Este plan está ajustado a tus huecos reales. Si algo falla un día, lo movemos al siguiente hueco disponible.
+
+## ⏰ Alarmas sugeridas
+
+- **Domingo:** `10:00` → 🔵 Punto 4 TFG · `21:00` → ⚠️ Última hora entrega
+- **Martes:** `11:00` → ⚪ Llamar peluquero + Sergio
+- **Miércoles:** `14:30` → 🟢 Listening · `14:50` → 🟢 Tarea inglés · `14:55` → Salir al fisio
+- **Viernes:** `15:00` → 🟢 Test completo inglés · después → ⚪ Alpargatas
+
+---
+
+**Nota:** Writing inglés pendiente — añadir al primer hueco libre del miércoles o jueves.
