@@ -25,13 +25,14 @@ fecha_actualizacion: 2026-05-16
 
 ## 📊 Flujo mensual
 
-| Período | Ingresos | Gastos fijos | Meta ahorro | Disponible libre |
-|---|---|---|---|---|
-| Junio 2026 | 500 € | 47 € | 100 € | 353 € |
-| Julio 2026 | 500 € | 68.47 € | 100 € | 331 € |
-| Agosto 2026+ | 1.300 € | 68.47 € | 100 € | 1.131 € |
+| Período | Ingresos | Gastos fijos | Variables | Revolut | Disponible real |
+|---|---|---|---|---|---|
+| Junio 2026 | 500 € | 47 € | ~45 € | 100 € | **308 €** |
+| Julio 2026 | 500 € | 68.47 € | ~45 € | 100 € | **286 €** |
+| Agosto 2026+ | 1.300 € | 68.47 € | ~45 € | 100 € | **1.086 €** |
 
-> **Disponible libre** = lo que puedes gastar en compras, ocio, etc. sin tocar los ahorros.
+> **Disponible real** = lo que puedes gastar libremente después de cubrir todo.
+> **Variables** = ocio, salidas, imprevistos (~45 €/mes estimado).
 
 ---
 
@@ -58,7 +59,7 @@ fecha_actualizacion: 2026-05-16
 | Fin de agosto | ~3.051 € |
 | Fin de septiembre | ~4.182 € |
 
-> Cada mes se apartan 100 € de ahorro intocable. El resto es libre.
+> Cada mes se transfieren 100 € a **Revolut** (cuenta separada, intocable). El resto es libre.
 
 ---
 

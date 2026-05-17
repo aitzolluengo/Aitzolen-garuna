@@ -8,7 +8,7 @@ modelo: 1000 Series 27E1N1100A/00
 precio: 89.9
 estado: ⏳ Pendiente
 prioridad: 🟡 Media
-plazo_objetivo: 2026-07
+plazo_objetivo: 2026-08
 enlace: https://www.pccomponentes.com/monitor-philips-1000-series-27e1n1100a-00-27-led-ips-fullhd-120hz
 fecha_compra:
 ---

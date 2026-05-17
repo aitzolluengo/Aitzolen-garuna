@@ -24,6 +24,7 @@ tags:
 ## Captura rapida
 
 - [x] 🏥 Fisio 📅 2026-05-21 ⏰ 15:00 #personal ✅ 2026-05-16
+- [ ] 💰 Ingresan 500 € — transferir 100 € a Revolut y actualizar saldo en [[💰 Finanzas]] 📅 2026-05-26 #personal ⏳ 
 
 
 - [ ] Importar libro de Alejandro G. Calvo con Notebook ⏬ --> [[NotebookLM libros]]  #cine 
@@ -31,7 +32,7 @@ tags:
 - [ ] Cascos cable ⏳ 2026-05-07 #compras 
 - [ ] Repasar Wishes, los likely #ingles 
 - [ ] Hacer Part 5, 6 y 7 del Test 1 --> [[cambridge_english_first_3.pdf]] 📅 2026-05-10 🔼 #ingles 
-- [ ] Revisar documentación 2,3 #tfg ⏳ 2026-05-11 
+- [x] Revisar documentación 2,3 #tfg ⏳ 2026-05-11 ✅ 2026-05-17
 - [ ] Registrar pelis #cine 
 - [ ] Crear una linea de bajo como la canción Brown shoes de Sing street #musica/idea 
 

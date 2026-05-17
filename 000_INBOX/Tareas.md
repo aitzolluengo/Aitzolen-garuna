@@ -44,7 +44,7 @@ tags:
 >> ```
 
 ---
-
+30 w
 ## 🗂️ Enfoque por Áreas
 
 > [!multi-column]

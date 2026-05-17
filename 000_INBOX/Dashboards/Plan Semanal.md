@@ -18,7 +18,7 @@ tags:
 ## ⏱️ Cronograma por Disponibilidad
 
 ### Sábado (Foco: TFG Punto 4)
-- [ ] 🔵 Avanzar Punto 4 TFG — deadline mañana 📅 2026-05-16 [priority:: high] #tfg
+- [x] 🔵 Avanzar Punto 4 TFG — deadline mañana 📅 2026-05-16 [priority:: high] #tfg ✅ 2026-05-17
 
 ### Domingo (Foco: TFG Punto 4 — ENTREGA)
 - [ ] 🔵 Entregar Punto 4 TFG 📅 2026-05-17 [priority:: high] #tfg
