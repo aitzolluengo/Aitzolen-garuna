@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_INBOX/Dashboards/Plan Semanal.md",
+                "file": "000_INBOX/Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plan Semanal"
+              "title": "Inbox"
             }
           }
         ]
