@@ -30,8 +30,81 @@
               "icon": "lucide-file",
               "title": "Inbox"
             }
+          },
+          {
+            "id": "8e4043582b213d6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Log Mensual — Cómo usarlo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Log Mensual — Cómo usarlo"
+            }
+          },
+          {
+            "id": "1c547d35df1fd103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_PROJECTS/Think and Do it/📅 Sesiones/20260521.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260521"
+            }
+          },
+          {
+            "id": "916ded340846f039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -240,12 +313,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "28a157110eca1692",
+  "active": "916ded340846f039",
   "lastOpenFiles": [
-    "000_INBOX/Dashboards/Plan Semanal.md.tmp.23240.4dfc0954ffd9",
-    "000_INBOX/Dashboards/Semana 16-22 Mayo 2026.md",
-    "000_INBOX/🗓️ Plan mejora vault — mayo 2026.md",
+    "01_PROJECTS/Think and Do it/📅 Sesiones/20260521.md",
+    "conflict-files-obsidian-git.md",
     "000_INBOX/Inbox.md",
+    "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Log Mensual — Cómo usarlo.md",
+    "000_INBOX/Dashboards/Semana 16-22 Mayo 2026.md",
+    "000_INBOX/Dashboards/Cine.md",
+    "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Bullet Journal guía.md",
+    "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Rutinas diarias.md",
+    "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Escritura práctica.md",
+    "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal",
+    "000_INBOX/Dashboards/Plan Semanal.md.tmp.23240.4dfc0954ffd9",
+    "000_INBOX/🗓️ Plan mejora vault — mayo 2026.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Sistema de tareas del hogar.md",
     "000_INBOX/Tareas.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Sistema de tareas del hogar.md.tmp.1392.fec2953b621e",
@@ -268,17 +349,9 @@
     "03_RESOURCES/Compras/Ropa/Untitled.md",
     "03_RESOURCES/Compras/Ropa/Camisetas x3.md",
     "03_RESOURCES/Compras/Ropa/Vaqueros x3.md",
-    "03_RESOURCES/Compras/Música",
     "03_RESOURCES/Compras/🛍️ Compras MOC.md",
-    "02_AREAS/💰 Finanzas.md.tmp.20752.db38f0689b60",
     "03_RESOURCES/Compras/Tecnologia/Monitor 27.md",
     "01_PROJECTS/Shopping List Recorder/🗺️ Shopping List Recorder — MOC.md",
-    "00_JARDIN DIGITAL/00.md",
-    "04_ARCHIVE/2026-04 Tareas completadas.md",
-    "01_PROJECTS/Think and Do it/🗺️ ThinkAndDoIT — MOC.md",
-    "00_JARDIN DIGITAL/03🌳 Arboles/Segundo cerebro.md",
-    "000_INBOX/Dashboards/Plan Semanal.md",
-    "00_JARDIN DIGITAL/04❄️ Calma/Realizar un CURRICULUM VITAE.md",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260516161535.png",
     "000_INBOX/Tareas + Inbox.canvas",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260502162911.png",

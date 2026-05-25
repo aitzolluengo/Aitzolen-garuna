@@ -7,11 +7,11 @@ tags:
 
 # 📅 Semana 18 – 24 de Mayo
 
-> [!danger] PRIORIDAD #1 esta semana — Inglés
-> Tienes el **test completo el viernes 22**. Si no preparas martes y miércoles, no llegas. El TFG aguanta, el examen no.
-
 > [!tip] Leyenda
 > 🔵 TFG · 🟢 Inglés · ⚪ Personal · 🟠 Kirola · 🟡 Música
+
+> [!info] Inglés B2 — Examen real: 20 de junio
+> Esta semana el objetivo es hacer un test completo (Readings · Use of English · Listenings · 2 Writings). Sin deadline para cada parte salvo: **listenings y readings pendientes antes del miércoles**.
 
 ---
 
@@ -20,20 +20,18 @@ tags:
 | Día | Libre | Foco |
 |-----|-------|------|
 | Lunes 18 | 15-17 · 19-21 | 🔵 TFG — Historial de chat |
-| Martes 19 | 19-21 | 🟢 Inglés — preparar examen |
-| Miércoles 20 | 15-16 | 🟢 Inglés — tarea + listenings (deadline) |
+| Martes 19 | 19-21 | 🟢 Inglés — Parts 6 y 7 + Wishes *(hecho lo que se pudo)* |
+| Miércoles 20 | 15-16 | 🟢 Inglés — Listenings + Parts 6 y 7 si no acabados |
 | Jueves 21 | 19-21 | 🔵 TFG — bug fixes + perfil usuario |
-| Viernes 22 | 15-16 | 🟢 Inglés — repaso final · **TEST** |
-| Sábado 23 | Libre | 🔵 TFG código + ⚪ pelis + personal |
-| Domingo 24 | Libre | 🔵 TFG doc + capturas pantalla |
+| Viernes 22 | 15-16 | 🔵 TFG doc 4.4 · 🟢 Inglés — Use of English o Writing |
+| Sábado 23 | Libre | 🔵 TFG código + ⚪ personal |
+| Domingo 24 | Libre | 🔵 TFG doc + 🟢 Writing del test semanal |
 
 ---
 
-## 🗓️ Lunes 18 de Mayo
+## 🗓️ Lunes 18 de Mayo ✅
 
-> [!note] Foco: TFG — Historial de chat persistente (4h de código)
-
-**Antes de ponerte a trabajar (recados rápidos de mañana):**
+**Recados (mañana):**
 - [ ] ⚪ Llamar al peluquero
 - [ ] 🟠 Pedir la sudadera en el poli
 - [ ] ⚪ Comprar goma Decathlon online (~15€)
@@ -50,21 +48,26 @@ tags:
 
 ## 🗓️ Martes 19 de Mayo
 
-> [!warning] Foco: Inglés — el test es el viernes, hoy es tu mejor bloque para prepararte
-
 **19:00 – 21:00 · Inglés**
-- [ ] 🟢 Part 5, 6 y 7 del Test 1 (lleva atrasado desde el 10/05 — hazlo ya)
-- [ ] 🟢 Repasar Wishes & Regrets (likely del B2)
+- [x] 🟢 Readings 15th May — Part 5 ✅ 2026-05-19
+- [x] 🟢 Readings 15th May — Part 6 ✅ 2026-05-19
+- [x] 🟢 Readings 15th May — Part 7 ✅ 2026-05-19
+- [ ] 🟢 Repasar Wishes & Regrets
+- [x] 🟢 Readings 11th May extra (Classroom) — 53/70 ✅ 2026-05-19
+
+**Recados:**
+- [x] ⚪ Llamar al peluquero — cita jueves 21 a las 16:30 ✅ 2026-05-19
 
 ---
 
 ## 🗓️ Miércoles 20 de Mayo
 
-> [!danger] Deadline hoy: tarea de inglés + listenings
+> [!warning] Antes de hoy: listenings y readings pendientes
 
 **15:00 – 16:00 · Inglés**
-- [ ] 🟢 Listenings pendientes *(deadline HOY)*
-- [ ] 🟢 Tarea de inglés *(deadline HOY)*
+- [x] 🟢 Readings 15th May — Part 6 y 7 ✅ 2026-05-19
+- [x] 🟢 Listenings pendientes (11th May extra) ✅ 2026-05-20
+- ~~🟢 Tarea de inglés~~ — no había
 
 ---
 
@@ -82,39 +85,35 @@ tags:
 
 ## 🗓️ Viernes 22 de Mayo
 
-> [!danger] HOY ES EL TEST DE INGLÉS
-
-**15:00 – 16:00 · Inglés — repaso final**
-- [ ] 🟢 Repasar lo más flojo (Wishes, gramática B2, vocabulario)
-- [ ] 🔵 Si sobra tiempo: TFG doc — sección 4.4
-
-**Recado:**
+**15:00 – 16:00**
+- [ ] 🔵 TFG doc — sección 4.4 *(empezada 20/05)*
+- [ ] 🟢 Use of English o arrancar un Writing del test semanal
 - [ ] ⚪ Pedir alpargatas online
 
 ---
 
 ## 🗓️ Sábado 23 de Mayo
 
-> [!note] Foco: TFG código + personal
-
-**TFG (mañana/tarde, ~4h):**
+**TFG (~4h):**
 - [ ] 🔵 Terminar perfil de usuario editable
-- [ ] 🔵 Búsqueda en lista alumnos/ejercicios (JS puro, sin servidor)
+- [ ] 🔵 Búsqueda en lista alumnos/ejercicios (JS puro)
 - [ ] 🔵 Crear datos de demo realistas (3 clases, 10 alumnos, 15 ejercicios)
 
-**Personal (cuando apetezca, ~1h):**
-- [ ] ⚪ Registrar Marty Supreme en Obsidian
-- [ ] ⚪ Registrar otras pelis pendientes (5 en total)
+**Personal:**
+- [ ] ⚪ Registrar Marty Supreme + pelis pendientes en Obsidian
 
 ---
 
 ## 🗓️ Domingo 24 de Mayo
 
-> [!note] Foco: TFG documentación + capturas
-
-**TFG (~3-4h):**
+**TFG:**
 - [ ] 🔵 Capturas de pantalla de cada pantalla para la memoria LaTeX
 - [ ] 🔵 Documentación — sección 4.5 o capítulo 5
+
+**Inglés:**
+- [ ] 🟢 Writings del test semanal (x2)
+
+**Personal:**
 - [ ] ⚪ Importar libro Alejandro G. Calvo con NotebookLM
 
 ---
