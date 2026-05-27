@@ -20,7 +20,7 @@ tags:
 | Entrega TFG | 25 junio 2026 |
 | Tiempo restante | ~2 meses |
 | Repo | GitLab |
-| Stack | Java 21 · Jakarta EE · MySQL · Bootstrap 5 · Groq API |
+| Stack | Java 21 · Jakarta EE · MySQL · Bootstrap 5 · OpenAI API |
 
 ---
 
@@ -29,7 +29,9 @@ tags:
 ### 📅 Sesiones de trabajo
 - [[2026-04-26 — Generacion IA y Prompt]] — Generación de ejercicios con IA + mejora del prompt pedagógico
 - [[2026-04-28 — Mejoras UI Profesional]] — Refactoring visual completo, landing page, markdown en chat
-- [[2026-05-02 - Gantts y  Acabar punto 2]] -- Redacción y envío del punto 2 y realización de los diagramas de Gantts.
+- [[2026-05-02 - Gantts y  Acabar punto 2]] — Redacción y envío del punto 2 y realización de los diagramas de Gantts
+- [[2026-05-05 - Integración OPEN AI y entrega de ejercicios]] — Corrección IA, panel alumno notas, doc punto 3
+- [[2026-05-24 — Documentación 4.3-4.5 y código semana]] — Historial chat, bug fixes, perfil usuario, doc 4.3-4.5
 
 ### 📋 Reuniones
 > No hay reuniones pendientes
@@ -67,12 +69,14 @@ tags:
 
 ## 🔜 Próximas funcionalidades
 
-- [ ] Entregas del alumno (respuesta final al ejercicio) #tfg 
-- [ ] Historial de chat persistente en BD #tfg 
-- [ ] Estadísticas reales en las stat-cards (ejercicios creados, completados) #tfg 
-- [ ] Perfil de usuario editable #tfg 
-- [ ] Notificaciones de nuevos ejercicios #tfg 
-- [ ] Panel global de ejercicios (todos sin filtrar por clase) #tfg 
+- [x] Entregas del alumno (respuesta final al ejercicio) #tfg ✅
+- [x] Historial de chat persistente en BD #tfg ✅
+- [x] Estadísticas reales en las stat-cards #tfg ✅
+- [x] Perfil de usuario editable #tfg ✅
+- [ ] Búsqueda en lista alumnos/ejercicios (JS puro) #tfg
+- [ ] Datos de demo realistas (3 clases, 10 alumnos, 15 ejercicios) #tfg
+- [ ] Capturas de pantalla para memoria LaTeX #tfg
+- [ ] Diagramas: `er_diagrama.png` · `arkitektura.png` #tfg 
 
 → Ver detalles en [[Roadmap — Mejoras Futuras]]
 

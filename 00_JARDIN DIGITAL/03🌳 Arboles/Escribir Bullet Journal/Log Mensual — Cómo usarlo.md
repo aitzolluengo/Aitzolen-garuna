@@ -5,7 +5,7 @@ contexto: bullet journal
 tags:
   - jardin/arbol
 ---
-
+ 
 # 📅 Log Mensual — Cómo sacarle partido
 
 > El log mensual no es para escribir tu vida. Es una **vista de helicóptero del mes**: qué pasa, qué quieres conseguir y si estás cumpliendo tus hábitos. Se rellena en 5 minutos al inicio del mes y se consulta rápido durante él.
@@ -65,7 +65,7 @@ Máximo 4. Si pones 10 no sirven para nada.
 ---
 
 ### Bloque 3 — Tracker de hábitos (media página)
-
+      
 Una cuadrícula. Filas = hábitos. Columnas = días del mes. Marcas con `×` si lo haces, dejas en blanco si no.
 
 ```

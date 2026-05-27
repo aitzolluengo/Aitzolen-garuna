@@ -33,6 +33,20 @@ Domina las estructuras gramaticales clave para alcanzar un nivel B2 avanzado y e
 - [[Modal Verbs for Speculation (B2)]]
 - [[Advanced Linking Words (B2)]]
 
+## Distribución semanal
+
+Una skill por día — mezclarlas en la misma sesión baja la calidad de práctica.
+
+| Día | Skill |
+|-----|-------|
+| Lunes | Gramática / repaso (sin test) |
+| Martes | Listenings |
+| Jueves | Use of English |
+| Domingo | Writing |
+
+> [!warning] Post-comida = sin tests
+> Después de comer es imposible concentrarse en tests. Las sesiones de test van siempre en horario de tarde (19h+) o mañana.
+
 ## Frecuencia de Práctica
 
 Para maximizar tu progreso, es recomendable practicar el writing **al menos 1 o 2 veces por semana**. Intenta alternar los tipos de writing (essay, letter, report) para cubrir todos los formatos.

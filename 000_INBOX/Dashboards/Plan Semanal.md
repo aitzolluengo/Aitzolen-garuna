@@ -1,17 +1,19 @@
 ---
-fecha_inicio: 2026-05-18
-fecha_fin: 2026-05-24
+fecha_inicio: 2026-05-25
+fecha_fin: 2026-05-31
 tags:
   - plan/semanal
 ---
 
-# 📅 Semana 18 – 24 de Mayo
+# 📅 Semana 25 – 31 de Mayo
 
 > [!tip] Leyenda
-> 🔵 TFG · 🟢 Inglés · ⚪ Personal · 🟠 Kirola · 🟡 Música
+> 🔵 TFG · 🟢 Inglés · ⚪ Personal · 🟠 Kirola · 🗒️ Bullet Journal
 
-> [!info] Inglés B2 — Examen real: 20 de junio
-> Esta semana el objetivo es hacer un test completo (Readings · Use of English · Listenings · 2 Writings). Sin deadline para cada parte salvo: **listenings y readings pendientes antes del miércoles**.
+> [!warning] No te olvides esta semana
+> 💰 **Martes 26 ingresan 500€** → transferir 100€ a Revolut ese mismo día
+> 📸 **Capturas de pantalla** → llevan semanas bloqueando las figuras del 4.4.2
+> 🎧 **Cascos cable** → llevan desde el 7 de mayo en el inbox, ya es hora
 
 ---
 
@@ -19,113 +21,127 @@ tags:
 
 | Día | Libre | Foco |
 |-----|-------|------|
-| Lunes 18 | 15-17 · 19-21 | 🔵 TFG — Historial de chat |
-| Martes 19 | 19-21 | 🟢 Inglés — Parts 6 y 7 + Wishes *(hecho lo que se pudo)* |
-| Miércoles 20 | 15-16 | 🟢 Inglés — Listenings + Parts 6 y 7 si no acabados |
-| Jueves 21 | 19-21 | 🔵 TFG — bug fixes + perfil usuario |
-| Viernes 22 | 15-16 | 🔵 TFG doc 4.4 · 🟢 Inglés — Use of English o Writing |
-| Sábado 23 | Libre | 🔵 TFG código + ⚪ personal |
-| Domingo 24 | Libre | 🔵 TFG doc + 🟢 Writing del test semanal |
+| Lunes 25 | ✅ hecho | 🔵 TFG doc — cerrar punto 4 |
+| Martes 26 | 14-15:30 · 19:30-21 | 🔵 TFG 4.5 terminar · 🟢 Listenings · 💰 Revolut |
+| Miércoles 27 | 14-15:30 | 🔵 TFG 4.6 |
+| Jueves 28 | 14-15:30 · 19:30-21 | 🔵 TFG 4.7 + cerrar punto 4 · 🟢 UoE |
+| Viernes 29 | — | — |
+| Sábado 30 | 9-12 | 🔵 TFG capturas + diagramas + búsqueda |
+| Domingo 31 | 17-20 | 🟢 Writing · 🗒️ BJ revisión mensual · 🔵 datos demo |
 
 ---
 
-## 🗓️ Lunes 18 de Mayo ✅
+## 🗓️ Lunes 25 de Mayo
 
-**Recados (mañana):**
-- [ ] ⚪ Llamar al peluquero
-- [ ] 🟠 Pedir la sudadera en el poli
-- [ ] ⚪ Comprar goma Decathlon online (~15€)
+> [!note] Foco: cerrar el punto 4 del TFG
 
-**15:00 – 17:00 · TFG Código**
-- [ ] 🔵 Crear tabla `chat_mensajes` en BD
-- [ ] 🔵 Modificar `ChatServlet.java` — guardar mensajes en BD al enviar
-
-**19:00 – 21:00 · TFG Código**
-- [ ] 🔵 Cargar historial al abrir `ejercicio-detalle.jsp`
-- [ ] 🔵 Probar flujo completo: abrir ejercicio → ver historial previo
-
----
-
-## 🗓️ Martes 19 de Mayo
-
-**19:00 – 21:00 · Inglés**
-- [x] 🟢 Readings 15th May — Part 5 ✅ 2026-05-19
-- [x] 🟢 Readings 15th May — Part 6 ✅ 2026-05-19
-- [x] 🟢 Readings 15th May — Part 7 ✅ 2026-05-19
-- [ ] 🟢 Repasar Wishes & Regrets
-- [x] 🟢 Readings 11th May extra (Classroom) — 53/70 ✅ 2026-05-19
-
-**Recados:**
-- [x] ⚪ Llamar al peluquero — cita jueves 21 a las 16:30 ✅ 2026-05-19
-
----
-
-## 🗓️ Miércoles 20 de Mayo
-
-> [!warning] Antes de hoy: listenings y readings pendientes
-
-**15:00 – 16:00 · Inglés**
-- [x] 🟢 Readings 15th May — Part 6 y 7 ✅ 2026-05-19
-- [x] 🟢 Listenings pendientes (11th May extra) ✅ 2026-05-20
-- ~~🟢 Tarea de inglés~~ — no había
-
----
-
-## 🗓️ Jueves 21 de Mayo
-
-> [!note] Foco: TFG — bug fixes rápidos + empezar perfil usuario
-
-**19:00 – 21:00 · TFG Código**
-- [ ] 🔵 Bug fix: toast login auto-dismiss
-- [ ] 🔵 Bug fix: añadir `favicon.ico` en `webapp/`
-- [ ] 🔵 Bug fix: redirect `/` si ya hay sesión activa
-- [ ] 🔵 Empezar `PerfilServlet.java` + `perfil.jsp`
-
----
-
-## 🗓️ Viernes 22 de Mayo
-
-**15:00 – 16:00**
-- [ ] 🔵 TFG doc — sección 4.4 *(empezada 20/05)*
-- [ ] 🟢 Use of English o arrancar un Writing del test semanal
+**Recados rápidos (antes de ponerte):**
 - [ ] ⚪ Pedir alpargatas online
 
+**🟢 Gramática repasada hoy:**
+- [x] 🟢 *as* vs *like* ✅ 2026-05-25
+- [x] 🟢 Phrasal verbs — *turn* ✅ 2026-05-25
+- [x] 🟢 Inversions ✅ 2026-05-25
+- [x] 🟢 *used to* / *would* ✅ 2026-05-25
+
+**15:00 – 17:00 · TFG doc**
+- [ ] 🔵 4.4.3 Autentifikazio-osagaia (Login · Logout · Registro · Perfil)
+- [ ] 🔵 4.4.4 Irakasle-osagaia (Panel · Klaseak · Ariketa kudeaketa)
+
+**19:00 – 21:00 · TFG doc**
+- [ ] 🔵 4.4.5 Ikasle-osagaia (Panel · Sartu/Irten · MisNotas)
+- [ ] 🔵 4.4.6 IA-osagaia (GenerarEjercicio · Chat · CorregirEntrega)
+- [ ] 🔵 Punto 4 ITXITA ✅
+
 ---
 
-## 🗓️ Sábado 23 de Mayo
+## 🗓️ Martes 26 de Mayo
 
-**TFG (~4h):**
-- [ ] 🔵 Terminar perfil de usuario editable
+> [!danger] HOY INGRESAN 500€ — no lo dejes para mañana
+
+**Antes de las 12:00:**
+- [x] 💰 Transferir 100€ a Revolut + actualizar [[💰 Finanzas]] ✅ 2026-05-26
+
+**14:00 – 15:30 · TFG doc**
+- [ ] 🔵 4.5 — terminar (~1h)
+- [ ] 🔵 4.6 — arrancar si da tiempo
+
+**19:30 – 21:00 · Inglés**
+- [ ] 🟢 Listenings — test semanal (B2 First Trainer 2)
+
+---
+
+## 🗓️ Miércoles 27 de Mayo
+
+**14:00 – 15:30 · TFG doc**
+- [ ] 🔵 4.6
+
+---
+
+## 🗓️ Jueves 28 de Mayo
+
+**14:00 – 15:30 · TFG doc**
+- [ ] 🔵 4.7 — terminar · cerrar punto 4 ✅
+
+**19:30 – 21:00 · Inglés**
+- [ ] 🟢 Use of English — test semanal (B2 First Trainer 2)
+
+---
+
+---
+
+## 🗓️ Sábado 30 de Mayo
+
+**09:00 – 12:00 · TFG**
+- [ ] 🔵 Capturas de pantalla de cada pantalla (landing · login · registro · paneles · ejercicio)
+- [ ] 🔵 Exportar `er_diagrama.png` (mermaid.live)
+- [ ] 🔵 Exportar `arkitektura.png` (diagrams.net)
 - [ ] 🔵 Búsqueda en lista alumnos/ejercicios (JS puro)
-- [ ] 🔵 Crear datos de demo realistas (3 clases, 10 alumnos, 15 ejercicios)
 
 **Personal:**
-- [ ] ⚪ Registrar Marty Supreme + pelis pendientes en Obsidian
+- [ ] ⚪ Cascos cable — comprarlo ya
+- [ ] ⚪ Comprar goma Decathlon online
+- [ ] 🟠 Pedir sudadera en el poli
 
 ---
 
-## 🗓️ Domingo 24 de Mayo
+## 🗓️ Domingo 31 de Mayo
 
-**TFG:**
-- [ ] 🔵 Capturas de pantalla de cada pantalla para la memoria LaTeX
-- [ ] 🔵 Documentación — sección 4.5 o capítulo 5
+> [!note] Último día de mayo — revisión mensual del Bullet Journal
+
+**17:00 – 20:00**
 
 **Inglés:**
-- [ ] 🟢 Writings del test semanal (x2)
+- [ ] 🟢 Writing x1 (o x2 si hay energía)
+
+**TFG:**
+- [ ] 🔵 Datos de demo realistas (3 clases, 10 alumnos, 15 ejercicios)
+
+**Bullet Journal:**
+- [ ] 🗒️ Revisión mensual de mayo — ¿se cumplieron las intenciones?
+- [ ] 🗒️ Preparar log de junio (eventos, intenciones, tracker hábitos)
+- [ ] 🗒️ Pasar resumen del mes a Claude para actualizar vault
 
 **Personal:**
+- [ ] ⚪ Registrar pelis en Obsidian (Marty Supreme + pendientes)
 - [ ] ⚪ Importar libro Alejandro G. Calvo con NotebookLM
 
 ---
 
-## 💰 Recordatorio financiero
+## 💡 Cosas que se te pueden pasar esta semana
 
-- [ ] ⚪ El 26/05 ingresan 500 € → transferir 100 € a Revolut + actualizar [[💰 Finanzas]]
+| Cosa | Por qué importa |
+|------|-----------------|
+| 💰 500€ martes 26 | Llevas semanas con el recordatorio, hazlo el mismo día |
+| 📸 Capturas pantalla | Bloquean las figuras del 4.4.2 desde hace semanas |
+| 🎧 Cascos cable | En el inbox desde el 7 de mayo — archívalo o cómpralo |
+| 🎁 Regalo ama despertador | Sin fecha → se olvida → ponle fecha o cómpralo |
+| 🎸 Línea de bajo Brown Shoes | Idea en el inbox desde semanas — ¿la mueves a Música o la archivas? |
+| 🎓 TFG demo | Quedan 4 semanas — los datos realistas son críticos para la defensa |
 
 ---
 
 ## 🗂️ Ver también
-
-- [[Semana 16-22 Mayo 2026]] — Kanban de tareas
+- [[Semana 25-31 Mayo 2026]] — Kanban de tareas
 - [[🗺️ ThinkAndDoIT — MOC]] — Estado del TFG
-- [[Roadmap v2]] — Qué queda del código
+- [[Log Mensual — Cómo usarlo]] — Para la revisión del domingo

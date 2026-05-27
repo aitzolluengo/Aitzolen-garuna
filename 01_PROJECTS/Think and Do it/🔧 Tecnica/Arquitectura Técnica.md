@@ -24,7 +24,7 @@ tags:
 | Hashing contraseñas | jBCrypt | 0.4 |
 | HTTP cliente (API) | OkHttp3 | 4.12.0 |
 | JSON | org.json | 20231013 |
-| LLM API | Groq (llama-3.3-70b-versatile) | — |
+| LLM API | OpenAI API | — |
 | Frontend CSS | Bootstrap | 5.3.3 |
 | Frontend íconos | Bootstrap Icons | 1.11.3 |
 | Tipografías | Google Fonts (DM Sans, Space Mono) | — |

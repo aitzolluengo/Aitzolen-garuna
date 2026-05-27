@@ -171,4 +171,5 @@ No dupliques. Si algo merece desarrollarse → pasa a Obsidian. Si es fugaz o de
 
 ## Relacionado
 - [[Log Mensual — Cómo usarlo]]
+- [[Future Log]]
 - [[🌿 Jardin de Ideas]]

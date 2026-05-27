@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Log Mensual — Cómo usarlo.md",
+                "file": "000_INBOX/Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Log Mensual — Cómo usarlo"
+              "title": "Inbox"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_PROJECTS/Think and Do it/📅 Sesiones/20260521.md",
+                "file": "01_PROJECTS/Think and Do it/📄 Documentos/diagrama de datos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,35 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260521"
-            }
-          },
-          {
-            "id": "916ded340846f039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "diagrama de datos"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:jardin/semilla",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -313,45 +289,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "916ded340846f039",
+  "active": "8e4043582b213d6e",
   "lastOpenFiles": [
+    "000_INBOX/Inbox.md",
+    "00_JARDIN DIGITAL/04❄️ Calma/Aprender Flowise.md",
+    "00_JARDIN DIGITAL/04❄️ Calma/Realizar un CURRICULUM VITAE.md",
+    "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Future Log.md",
+    "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Log Mensual — Cómo usarlo.md",
+    "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Rutinas diarias.md",
+    "000_INBOX/Dashboards/Plan Semanal.md",
+    "000_INBOX/Dashboards/Semana 25-31 Mayo 2026.md",
+    "02_AREAS/Aprendizaje/Ingles B2/cambridge_english_first_3.pdf",
+    "000_INBOX/Dashboards/Plan Semanal.md.tmp.8420.27c9215bb945",
+    "000_INBOX/Dashboards/Plan Semanal.md.tmp.8420.96e3beab78c5",
+    "000_INBOX/Dashboards/Plan Semanal.md.tmp.8420.2071e8fc19b5",
+    "02_AREAS/Aprendizaje/Ingles B2/Ingles B2 - MOC.md",
+    "000_INBOX/Dashboards/Plan Semanal.md.tmp.8420.e8d98f577549",
+    "01_PROJECTS/Think and Do it/🗺️ ThinkAndDoIT — MOC.md.tmp.33676.e904cef51815",
+    "000_INBOX/Dashboards/Plan Semanal.md.tmp.33676.908ad28ce097",
+    "01_PROJECTS/Think and Do it/📅 Sesiones/2026-05-24 — Documentación 4.3-4.5 y código semana.md",
+    "01_PROJECTS/Think and Do it/📅 Sesiones/2026-05-24 — Documentación 4.3-4.5 y código semana.md.tmp.33676.7e1ce68c9db6",
+    "01_PROJECTS/Think and Do it/📄 Documentos/diagrama de datos.md",
+    "01_PROJECTS/Think and Do it/🔧 Tecnica/Arquitectura Técnica.md.tmp.19324.6bf8b9858083",
     "01_PROJECTS/Think and Do it/📅 Sesiones/20260521.md",
     "conflict-files-obsidian-git.md",
-    "000_INBOX/Inbox.md",
-    "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Log Mensual — Cómo usarlo.md",
     "000_INBOX/Dashboards/Semana 16-22 Mayo 2026.md",
     "000_INBOX/Dashboards/Cine.md",
     "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Bullet Journal guía.md",
-    "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Rutinas diarias.md",
     "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Escritura práctica.md",
     "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal",
-    "000_INBOX/Dashboards/Plan Semanal.md.tmp.23240.4dfc0954ffd9",
     "000_INBOX/🗓️ Plan mejora vault — mayo 2026.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Sistema de tareas del hogar.md",
     "000_INBOX/Tareas.md",
-    "00_JARDIN DIGITAL/02🌿 Brotes/Sistema de tareas del hogar.md.tmp.1392.fec2953b621e",
-    "03_RESOURCES/Compras/Tecnologia/Monitor 27.md.tmp.1392.ad1090fbfd13",
     "03_RESOURCES/Compras/Otros/Barefoot Shoes.md",
-    "03_RESOURCES/Compras/Otros/Barefoot Shoes.md.tmp.1392.46b8eeabbb11",
     "03_RESOURCES/Cine/Directores/Denis Villeneuve.md",
     "Untitled.canvas",
-    "02_AREAS/Finanzas/💰 Finanzas.md.tmp.1392.9dc95cbfbd02",
     "02_AREAS/Finanzas/💰 Finanzas.md",
-    "02_AREAS/Finanzas/💰 Finanzas.md.tmp.1392.a6ab4be4dde4",
-    "000_INBOX/Inbox.md.tmp.1392.5c535d717eed",
     "00_JARDIN DIGITAL/03🌳 Arboles/Gestión de Ropa.md",
     "00_JARDIN DIGITAL/00 USO/Uso de mi jardin.md",
-    "000_INBOX/🗓️ Plan mejora vault — mayo 2026.md.tmp.20752.bf663fe589ab",
     "03_RESOURCES/Cine/Películas/Trainspotting.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Choose your life.md",
-    "03_RESOURCES/Compras/Música/Amplificador de bajo.md",
-    "02_AREAS/Finanzas/💰 Finanzas.md.tmp.20752.c2ae25ed6070",
-    "03_RESOURCES/Compras/Ropa/Untitled.md",
-    "03_RESOURCES/Compras/Ropa/Camisetas x3.md",
-    "03_RESOURCES/Compras/Ropa/Vaqueros x3.md",
-    "03_RESOURCES/Compras/🛍️ Compras MOC.md",
-    "03_RESOURCES/Compras/Tecnologia/Monitor 27.md",
-    "01_PROJECTS/Shopping List Recorder/🗺️ Shopping List Recorder — MOC.md",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260516161535.png",
     "000_INBOX/Tareas + Inbox.canvas",
     "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260502162911.png",
