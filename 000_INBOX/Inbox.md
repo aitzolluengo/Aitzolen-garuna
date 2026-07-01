@@ -24,6 +24,8 @@ tags:
 ## Captura rapida
 
 - [ ] Registrar pelis #cine 
+- [ ] Revisar bot RAG
+- [ ] Pillarme calcetines 📅 2026-07-07 
 ## Tareas activas
 
 - [ ] Buscarme un libro #libro
@@ -34,3 +36,4 @@ tags:
 
 - [[000_INBOX/Tareas]]
 - [[Flujo de trabajo]]
+- 🌅 Mañana (02-07): configurar Supabase → ver [[🗺️ Recetas para Ama — MOC]]
