@@ -23,13 +23,10 @@ tags:
 
 ## Captura rapida
 
-- [x] 🏥 Fisio 📅 2026-05-21 ⏰ 15:00 #personal ✅ 2026-05-16
-- [ ] 💰 Ingresan 500 € — transferir 100 € a Revolut y actualizar saldo en [[💰 Finanzas]] 📅 2026-05-26 #personal ⏳ 
-- [ ] Importar libro de Alejandro G. Calvo con Notebook ⏬ --> [[NotebookLM libros]]  #cine 
-- [ ] Regalo ama despertador es muy buena #compras
-- [ ] Cascos cable ⏳ 2026-05-07 #compras 
 - [ ] Registrar pelis #cine 
 ## Tareas activas
+
+- [ ] Buscarme un libro #libro
 
 ## Tareas completadas (procesar el domingo)
 

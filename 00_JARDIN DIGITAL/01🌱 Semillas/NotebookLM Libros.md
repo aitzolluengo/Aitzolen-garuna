@@ -16,6 +16,9 @@ Se me ha ocurrido la idea de con el libro _Porque tengo que ver esta Película?_
 
 Me interesa para sacar provecho a la herramienta y al ser un pdf no tengo el interés de leerme el libro en un ordenador.
 
+## Tareas
+- [ ] Importar libro de Alejandro G. Calvo con Notebook ⏬ #cine
+
 ## Relacionado
 - [[Inbox]]
 - [[🌿 Jardin de Ideas]]

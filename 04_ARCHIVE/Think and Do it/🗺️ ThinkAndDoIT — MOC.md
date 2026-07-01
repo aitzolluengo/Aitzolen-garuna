@@ -73,10 +73,10 @@ tags:
 - [x] Historial de chat persistente en BD #tfg ✅
 - [x] Estadísticas reales en las stat-cards #tfg ✅
 - [x] Perfil de usuario editable #tfg ✅
-- [ ] Búsqueda en lista alumnos/ejercicios (JS puro) #tfg
-- [ ] Datos de demo realistas (3 clases, 10 alumnos, 15 ejercicios) #tfg
-- [ ] Capturas de pantalla para memoria LaTeX #tfg
-- [ ] Diagramas: `er_diagrama.png` · `arkitektura.png` #tfg 
+- [x] Búsqueda en lista alumnos/ejercicios (JS puro) #tfg ✅ 2026-06-29
+- [x] Datos de demo realistas (3 clases, 10 alumnos, 15 ejercicios) #tfg ✅ 2026-06-29
+- [x] Capturas de pantalla para memoria LaTeX #tfg ✅ 2026-06-29
+- [x] Diagramas: `er_diagrama.png` · `arkitektura.png` #tfg ✅ 2026-06-29
 
 → Ver detalles en [[Roadmap — Mejoras Futuras]]
 

@@ -55,10 +55,10 @@ Cualquier integrante notifica un cambio por voz o texto ("Se acabó el café", "
 
 ## 🔜 Próximos pasos
 
-- [ ] Decidir stack tecnológico
-- [ ] Elegir canal de comunicación (WhatsApp bot, Telegram, app propia)
-- [ ] Definir modelo de datos (lista, estados, historial)
-- [ ] Prototipo mínimo: captura + actualización de lista
+- [x] Decidir stack tecnológico ✅ 2026-06-29
+- [x] Elegir canal de comunicación (WhatsApp bot, Telegram, app propia) ✅ 2026-06-29
+- [x] Definir modelo de datos (lista, estados, historial) ✅ 2026-06-29
+- [x] Prototipo mínimo: captura + actualización de lista ✅ 2026-06-29
 
 ---
 

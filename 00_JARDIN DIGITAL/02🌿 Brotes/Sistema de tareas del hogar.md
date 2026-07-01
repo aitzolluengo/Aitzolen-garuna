@@ -90,9 +90,9 @@ La más importante: **lista de la compra**.
 
 - [x] Sistema diseñado
 - [x] Presentación creada → `Escritorio/Tareas Familia.pptx`
-- [ ] Presentar a la peña
-- [ ] Todos descargan OurHome y se unen al hogar
-- [ ] Primera semana de prueba
+- [x] Presentar a la peña ✅ 2026-06-29
+- [x] Todos descargan OurHome y se unen al hogar ✅ 2026-06-29
+- [x] Primera semana de prueba ✅ 2026-06-29
 
 ---
 
