@@ -35,24 +35,12 @@
             "id": "8e4043582b213d6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "000_INBOX/Inbox.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "04_ARCHIVE/Ingles B2/cambridge_english_first_3.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Inbox"
+              "icon": "lucide-file-text",
+              "title": "cambridge_english_first_3"
             }
           },
           {
@@ -289,16 +277,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8e4043582b213d6e",
+  "active": "e242e46f6d91ff83",
   "lastOpenFiles": [
+    "00_JARDIN DIGITAL/01🌱 Semillas/RAG de mi vault.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Agente de cine (n8n + Letterboxd).md",
+    "000_INBOX/Inbox.md",
     "03_RESOURCES/Compras/Ropa/Calcetines.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA orquestado con n8n.md.tmp.13984.93907055c2ed",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Agente de cine (n8n + Letterboxd).md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA - Curador de JARDIN Digital.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/RAG de mi vault.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA orquestado con n8n.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Organización del Bajo.md",
-    "000_INBOX/Inbox.md",
     "000_INBOX/Inbox.md.tmp.23484.ac91d001a686",
     "01_PROJECTS/Recetas para Ama/🗺️ Recetas para Ama — MOC.md",
     "01_PROJECTS/Recetas para Ama/🗺️ Recetas para Ama — MOC.md.tmp.23484.d0a5b0016e51",
@@ -319,11 +307,11 @@
     "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Future Log.md",
     "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Log Mensual — Cómo usarlo.md",
     "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Rutinas diarias.md",
-    "02_AREAS/Aprendizaje/Ingles B2/cambridge_english_first_3.pdf",
+    "04_ARCHIVE/Ingles B2/cambridge_english_first_3.pdf",
     "000_INBOX/Dashboards/Plan Semanal.md.tmp.8420.27c9215bb945",
     "000_INBOX/Dashboards/Plan Semanal.md.tmp.8420.96e3beab78c5",
     "000_INBOX/Dashboards/Plan Semanal.md.tmp.8420.2071e8fc19b5",
-    "02_AREAS/Aprendizaje/Ingles B2/Ingles B2 - MOC.md",
+    "04_ARCHIVE/Ingles B2/Ingles B2 - MOC.md",
     "000_INBOX/Dashboards/Plan Semanal.md.tmp.8420.e8d98f577549",
     "01_PROJECTS/Think and Do it/📅 Sesiones/2026-05-24 — Documentación 4.3-4.5 y código semana.md",
     "01_PROJECTS/Think and Do it/📄 Documentos/diagrama de datos.md",

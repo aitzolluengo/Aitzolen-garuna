@@ -8,8 +8,6 @@ tags:
 
 # Agente de cine (n8n + Letterboxd)
 
-> Un agente "super tocho" de cine con **n8n** como cerebro: conecta mi **Letterboxd**, vigila **estrenos** y me **enseña cine** (directores, actores, técnicas). Conecta con el sistema de Cine del vault y con la tarea eterna de "Registrar pelis".
-
 ## La idea
 
 No un chat de recomendaciones, sino un **sistema de cine personal** que:
