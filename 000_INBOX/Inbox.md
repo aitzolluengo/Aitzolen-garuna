@@ -24,8 +24,6 @@ tags:
 ## Captura rapida
 
 - [ ] Registrar pelis #cine 
-- [ ] Revisar bot RAG
-- [ ] Pillarme calcetines 📅 2026-07-07 
 ## Tareas activas
 
 - [ ] Buscarme un libro #libro

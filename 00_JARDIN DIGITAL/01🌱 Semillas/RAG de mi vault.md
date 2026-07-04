@@ -23,6 +23,9 @@ Un bot que me deje **chatear con TODAS mis notas** de Obsidian: le pregunto en l
 - ¿Qué stack de embeddings y base vectorial?
 - ¿Cómo lo indexo y lo mantengo al día cuando cambian las notas?
 
+## Tareas
+- [ ] Revisar bot RAG
+
 ## Relacionado
 - [[IA bot nutrición y deporte]]
 - [[Inbox]]
