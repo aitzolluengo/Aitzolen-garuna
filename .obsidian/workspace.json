@@ -35,12 +35,24 @@
             "id": "8e4043582b213d6e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "04_ARCHIVE/Ingles B2/cambridge_english_first_3.pdf"
+                "file": "000_INBOX/Tareas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "cambridge_english_first_3"
+              "icon": "lucide-file",
+              "title": "Tareas"
             }
           },
           {
@@ -277,8 +289,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e242e46f6d91ff83",
+  "active": "8e4043582b213d6e",
   "lastOpenFiles": [
+    "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
+    "00_JARDIN DIGITAL/02🌿 Brotes/Agente IA orquestado con n8n.md",
+    "00_JARDIN DIGITAL/02🌿 Brotes/Agente de cine (n8n + Letterboxd).md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA orquestado con n8n.md.tmp.19928.bc9eec5c9b48",
+    "04_ARCHIVE/Ingles B2/cambridge_english_first_3.pdf",
     "00_JARDIN DIGITAL/01🌱 Semillas/RAG de mi vault.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Agente de cine (n8n + Letterboxd).md",
     "000_INBOX/Inbox.md",
@@ -307,14 +324,9 @@
     "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Future Log.md",
     "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Log Mensual — Cómo usarlo.md",
     "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Rutinas diarias.md",
-    "04_ARCHIVE/Ingles B2/cambridge_english_first_3.pdf",
     "000_INBOX/Dashboards/Plan Semanal.md.tmp.8420.27c9215bb945",
     "000_INBOX/Dashboards/Plan Semanal.md.tmp.8420.96e3beab78c5",
     "000_INBOX/Dashboards/Plan Semanal.md.tmp.8420.2071e8fc19b5",
-    "04_ARCHIVE/Ingles B2/Ingles B2 - MOC.md",
-    "000_INBOX/Dashboards/Plan Semanal.md.tmp.8420.e8d98f577549",
-    "01_PROJECTS/Think and Do it/📅 Sesiones/2026-05-24 — Documentación 4.3-4.5 y código semana.md",
-    "01_PROJECTS/Think and Do it/📄 Documentos/diagrama de datos.md",
     "Untitled.canvas",
     "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260516161535.png",
     "000_INBOX/Tareas + Inbox.canvas",

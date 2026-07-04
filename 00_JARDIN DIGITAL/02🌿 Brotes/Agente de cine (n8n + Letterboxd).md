@@ -1,9 +1,9 @@
 ---
 fecha: 2026-07-01
-madurez: 🌱
+madurez: 🌿
 contexto: cine
 tags:
-  - jardin/semilla
+  - jardin/brote
 ---
 
 # Agente de cine (n8n + Letterboxd)

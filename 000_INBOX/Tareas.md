@@ -3,106 +3,112 @@ fecha: 2026-05-01
 tags:
   - dashboard
 ---
-# 📋 Centro de Control de Tareas
+# 📋 Tareas
 
-
-
-> [!abstract] Resumen de Estado
-> 🔵 `#tfg` · 🟣 `#rowing` · 🟢 `#ingles` · 🟡 `#musica` · 🟠 `#kirola` · 🔴 `#cine` · ⚪ `#personal`
-
-> [!multi-column]
->
->> [!danger] 🔥 CRÍTICO (Hoy y Atrasado)
->> ```tasks
->> not done
->> happens on or before today
->> sort by priority
->> sort by happens
->> hide backlinks
->> limit 5
->> ```
->
->> [!todo] 🔜 PRÓXIMAMENTE (Mañana)
->> ```tasks
->> not done
->> happens tomorrow
->> sort by priority
->> hide backlinks
->> ```
+> [!info] Leyenda de tags
+> 🟣 `#rowing` · 🟢 `#ingles` · 🟡 `#musica` · 🟠 `#kirola` · 🔴 `#cine` · ⚪ `#personal` · 🛒 `#compras`
 
 ---
 
-## 🗓️ Planificación Semanal
+## 🔥 Hoy y atrasadas
 
-> [!multi-column]
->
->> [!question] ❓ Sin Procesar (Sin Tag)
->> ```tasks
->> not done
->> no tags
->> hide backlinks
->> ```
+```tasks
+not done
+happens on or before today
+sort by priority
+sort by happens
+hide backlinks
+```
 
----
-30 w
-## 🗂️ Enfoque por Áreas
+## 🔜 Esta semana
 
-> [!multi-column]
->
->> [!important] 🔵 PROYECTO: TFG
->> ```tasks
->> not done
->> tag includes #tfg
->> sort by priority
->> hide backlinks
->> limit 10
->> ```
->
->> [!success] 🟢 APRENDIZAJE: Inglés
->> ```tasks
->> not done
->> tag includes #ingles
->> hide backlinks
->> limit 10
->> ```
->
->> [!example] 🟠 CUERPO: Kirola
->> ```tasks
->> not done
->> tag includes #kirola
->> hide backlinks
->> limit 10
->> ```
->
->>[!example] :🟠 Compras : Tareas
->>```tasks
->>not done
->>tag includes #compras 
->>hide backlinks
->>limit 10
->>```
+```tasks
+not done
+happens after today
+happens before in 8 days
+sort by happens
+hide backlinks
+```
+
+## 📥 Sin fecha
+
+```tasks
+not done
+no due date
+no scheduled date
+sort by priority
+hide backlinks
+```
+
+## ⭐ Prioridad alta
+
+```tasks
+not done
+priority is high
+hide backlinks
+```
+
+## ✅ Completadas (últimos 7 días)
+
+```tasks
+done
+done after 7 days ago
+sort by done reverse
+hide backlinks
+limit 10
+```
 
 ---
 
-## 📊 Métricas y Control
-
-> [!multi-column]
+> [!note]- 🗂️ Por área (desplegar si quieres filtrar)
 >
->> [!star] Prioridad Alta
->> ```tasks
->> not done
->> priority is high
->> hide backlinks
->> ```
+> **🟣 Rowing**
+> ```tasks
+> not done
+> tag includes #rowing
+> hide backlinks
+> limit 10
+> ```
 >
->> [!done] Completadas (7d)
->> ```tasks
->> done
->> done after 7 days ago
->> sort by done reverse
->> hide backlinks
->> limit 5
->> ```
+> **🟢 Inglés**
+> ```tasks
+> not done
+> tag includes #ingles
+> hide backlinks
+> limit 10
+> ```
+>
+> **🟡 Música**
+> ```tasks
+> not done
+> tag includes #musica
+> hide backlinks
+> limit 10
+> ```
+>
+> **🔴 Cine**
+> ```tasks
+> not done
+> tag includes #cine
+> hide backlinks
+> limit 10
+> ```
+>
+> **⚪ Personal**
+> ```tasks
+> not done
+> tag includes #personal
+> hide backlinks
+> limit 10
+> ```
+>
+> **🛒 Compras**
+> ```tasks
+> not done
+> tag includes #compras
+> hide backlinks
+> limit 10
+> ```
 
 ---
-**Enlaces Rápidos:** [[Inbox|📥 Inbox]] | [[Plan Semanal|📅 Plan Semanal]] | [[Flujo de trabajo|⚙️ Guía]]
+**Enlaces rápidos:** [[Inbox|📥 Inbox]] | [[Plan Semanal|📅 Plan Semanal]] | [[Flujo de trabajo|⚙️ Guía]]

@@ -1,9 +1,9 @@
 ---
 fecha: 2026-07-01
-madurez: 🌱
+madurez: 🌿
 contexto: IA
 tags:
-  - jardin/semilla
+  - jardin/brote
 ---
 
 # Agente IA orquestado con n8n
