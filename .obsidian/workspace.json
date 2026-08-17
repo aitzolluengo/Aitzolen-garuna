@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_INBOX/Inbox.md",
+                "file": "01_PROJECTS/Interrail/Información.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inbox"
-            }
-          },
-          {
-            "id": "8e4043582b213d6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000_INBOX/Tareas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tareas"
-            }
-          },
-          {
-            "id": "1c547d35df1fd103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_PROJECTS/Think and Do it/📄 Documentos/diagrama de datos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "diagrama de datos"
+              "title": "Información"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -289,55 +242,55 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8e4043582b213d6e",
+  "active": "28a157110eca1692",
   "lastOpenFiles": [
+    "02_Conceptos e Ideas/Música Clásica/Plan de aprendizaje.md",
+    "01_PROJECTS/Interrail/Información.md",
+    "01_PROJECTS/Interrail",
+    "02_Conceptos e Ideas/Música Clásica/Periodos resumidos.md",
+    "02_AREAS/Música/00_TAREAS.md",
+    "000_INBOX/Inbox.md",
+    "02_AREAS/Música/Clasica",
+    "01_PROJECTS/FridgeNfc/Idea principal.md",
+    "03_RESOURCES/Panini Liga Este 26-27/Checklist_LALIGA_2026-27.pdf",
+    "03_RESOURCES/Panini Liga Este 26-27",
+    "03_RESOURCES/Nueva carpeta",
+    "00_JARDIN DIGITAL/01🌱 Semillas/RAG de mi vault.md",
+    "01_PROJECTS/FridgeNfc",
+    "000_INBOX/Migracion.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/NotebookLM Libros.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Documentar nombres técnicos de mi rutina.md",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Habit tracker Notebook.md",
+    "Reglas fantasy.md",
+    "04_ARCHIVE/2026-04 Tareas completadas.md",
+    "000_INBOX/Inbox.md.tmp.19164.76101a559395",
+    "03_RESOURCES/📌 Por ver o leer.md",
+    "03_RESOURCES/📌 Por ver o leer.md.tmp.19164.c2b95a45a47b",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Habit tracker Notebook.md.tmp.19164.fb87b9e33b9d",
+    "00_JARDIN DIGITAL/01🌱 Semillas/Aprender fotografía.md",
     "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Agente IA orquestado con n8n.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Agente de cine (n8n + Letterboxd).md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA orquestado con n8n.md.tmp.19928.bc9eec5c9b48",
-    "04_ARCHIVE/Ingles B2/cambridge_english_first_3.pdf",
-    "00_JARDIN DIGITAL/01🌱 Semillas/RAG de mi vault.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Agente de cine (n8n + Letterboxd).md",
-    "000_INBOX/Inbox.md",
-    "03_RESOURCES/Compras/Ropa/Calcetines.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA orquestado con n8n.md.tmp.13984.93907055c2ed",
+    "04_ARCHIVE/Compras/Ropa/Calcetines.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA - Curador de JARDIN Digital.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA orquestado con n8n.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Organización del Bajo.md",
-    "000_INBOX/Inbox.md.tmp.23484.ac91d001a686",
-    "01_PROJECTS/Recetas para Ama/🗺️ Recetas para Ama — MOC.md",
-    "01_PROJECTS/Recetas para Ama/🗺️ Recetas para Ama — MOC.md.tmp.23484.d0a5b0016e51",
+    "04_ARCHIVE/Recetas para Ama/🗺️ Recetas para Ama — MOC.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/IA bot nutrición y deporte.md",
-    "01_PROJECTS/Recetas para Ama",
     "00_JARDIN DIGITAL/01🌱 Semillas/Nutrición.md",
-    "03_RESOURCES/Compras/Otros/Sábanas blancas y manta.md",
-    "000_INBOX/Tareas.md",
-    "99_Utilizar mi Boveda/🌱 Jardinero — procesar el Inbox con IA.md",
-    "99_Utilizar mi Boveda/Flujo de trabajo.md",
-    "99_Utilizar mi Boveda/🌱 Jardinero — procesar el Inbox con IA.md.tmp.23484.40ac87b34272",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Habit tracker Notebook.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Aurresku eventos.md",
-    "000_INBOX/Dashboards/Plan Semanal.md",
-    "000_INBOX/Dashboards/Semana 25-31 Mayo 2026.md",
-    "00_JARDIN DIGITAL/04❄️ Calma/Aprender Flowise.md",
-    "00_JARDIN DIGITAL/04❄️ Calma/Realizar un CURRICULUM VITAE.md",
-    "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Future Log.md",
-    "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Log Mensual — Cómo usarlo.md",
-    "00_JARDIN DIGITAL/03🌳 Arboles/Escribir Bullet Journal/Rutinas diarias.md",
-    "000_INBOX/Dashboards/Plan Semanal.md.tmp.8420.27c9215bb945",
-    "000_INBOX/Dashboards/Plan Semanal.md.tmp.8420.96e3beab78c5",
-    "000_INBOX/Dashboards/Plan Semanal.md.tmp.8420.2071e8fc19b5",
     "Untitled.canvas",
-    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260516161535.png",
+    "04_ARCHIVE/Cine/Películas/_attachments/Pasted image 20260516161535.png",
     "000_INBOX/Tareas + Inbox.canvas",
-    "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260502162911.png",
-    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260502162524.png",
-    "03_RESOURCES/Cine/Películas/_attachments/Pasted image 20260427161818.png",
+    "04_ARCHIVE/Cine/Actores/_attachments/Pasted image 20260502162911.png",
+    "04_ARCHIVE/Cine/Películas/_attachments/Pasted image 20260502162524.png",
+    "04_ARCHIVE/Cine/Películas/_attachments/Pasted image 20260427161818.png",
     "000_INBOX/Adjuntos/Pasted image 20260426162213.png",
     "000_INBOX/Adjuntos/Pasted image 20260426162254.png",
     "000_INBOX/Adjuntos/Pasted image 20260426162532.png",
-    "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427162024.png",
-    "03_RESOURCES/Cine/Actores/_attachments/Pasted image 20260427161921.png",
+    "04_ARCHIVE/Cine/Actores/_attachments/Pasted image 20260427162024.png",
+    "04_ARCHIVE/Cine/Actores/_attachments/Pasted image 20260427161921.png",
     "02_AREAS/Kirola/Rutina/_attachments/Pasted image 20260427154529.png"
   ]
 }
