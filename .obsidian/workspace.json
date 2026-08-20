@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_PROJECTS/Interrail/Información.md",
+                "file": "01_PROJECTS/FridgeNfc/Documentación técnica/20260817 - Modelo de datos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Información"
+              "title": "20260817 - Modelo de datos"
+            }
+          },
+          {
+            "id": "adc9c8b192d3d6ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_PROJECTS/Frikadas/Proceso de mi bóveda - Aprendizaje.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Proceso de mi bóveda - Aprendizaje"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,18 +267,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "28a157110eca1692",
+  "active": "e242e46f6d91ff83",
   "lastOpenFiles": [
-    "02_Conceptos e Ideas/Música Clásica/Plan de aprendizaje.md",
+    "01_PROJECTS/Frikadas",
+    "01_PROJECTS/Frikadas/West Ham vs Millwall",
+    "01_PROJECTS/FridgeNfc/Documentación técnica/20260817 - Modelo de datos.md",
+    "01_PROJECTS/Frikadas/Proceso de mi bóveda - Aprendizaje.md",
+    "CLAUDE.md",
+    "000_INBOX/Untitled.md",
+    "000_INBOX/Sin Procesar",
+    "01_PROJECTS/FridgeNfc/Documentación técnica/Base de datos Supabase.md",
+    "01_PROJECTS/FridgeNfc/Documentación técnica/Base de datos Supabase.md.tmp.6532.c633071419c6",
     "01_PROJECTS/Interrail/Información.md",
+    "01_PROJECTS/FridgeNfc/Documentación técnica",
+    "02_Conceptos e Ideas/Música Clásica/Plan de aprendizaje.md",
     "01_PROJECTS/Interrail",
     "02_Conceptos e Ideas/Música Clásica/Periodos resumidos.md",
     "02_AREAS/Música/00_TAREAS.md",
     "000_INBOX/Inbox.md",
     "02_AREAS/Música/Clasica",
     "01_PROJECTS/FridgeNfc/Idea principal.md",
-    "03_RESOURCES/Panini Liga Este 26-27/Checklist_LALIGA_2026-27.pdf",
-    "03_RESOURCES/Panini Liga Este 26-27",
+    "02_RESOURCES/Panini Liga Este 26-27/Checklist_LALIGA_2026-27.pdf",
+    "02_RESOURCES/Panini Liga Este 26-27",
     "03_RESOURCES/Nueva carpeta",
     "00_JARDIN DIGITAL/01🌱 Semillas/RAG de mi vault.md",
     "01_PROJECTS/FridgeNfc",
@@ -261,25 +296,15 @@
     "00_JARDIN DIGITAL/01🌱 Semillas/NotebookLM Libros.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Documentar nombres técnicos de mi rutina.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Habit tracker Notebook.md",
-    "Reglas fantasy.md",
+    "02_RESOURCES/Reglas fantasy.md",
     "04_ARCHIVE/2026-04 Tareas completadas.md",
-    "000_INBOX/Inbox.md.tmp.19164.76101a559395",
-    "03_RESOURCES/📌 Por ver o leer.md",
-    "03_RESOURCES/📌 Por ver o leer.md.tmp.19164.c2b95a45a47b",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Habit tracker Notebook.md.tmp.19164.fb87b9e33b9d",
+    "02_RESOURCES/📌 Por ver o leer.md",
     "00_JARDIN DIGITAL/01🌱 Semillas/Aprender fotografía.md",
     "00_JARDIN DIGITAL/🌿 Jardin de Ideas.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Agente IA orquestado con n8n.md",
     "00_JARDIN DIGITAL/02🌿 Brotes/Agente de cine (n8n + Letterboxd).md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA orquestado con n8n.md.tmp.19928.bc9eec5c9b48",
     "00_JARDIN DIGITAL/01🌱 Semillas/Agente de cine (n8n + Letterboxd).md",
     "04_ARCHIVE/Compras/Ropa/Calcetines.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA - Curador de JARDIN Digital.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Agente IA orquestado con n8n.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Organización del Bajo.md",
-    "04_ARCHIVE/Recetas para Ama/🗺️ Recetas para Ama — MOC.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/IA bot nutrición y deporte.md",
-    "00_JARDIN DIGITAL/01🌱 Semillas/Nutrición.md",
     "Untitled.canvas",
     "04_ARCHIVE/Cine/Películas/_attachments/Pasted image 20260516161535.png",
     "000_INBOX/Tareas + Inbox.canvas",
